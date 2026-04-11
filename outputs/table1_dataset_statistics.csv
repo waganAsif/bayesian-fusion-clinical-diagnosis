@@ -1,0 +1,4 @@
+Dataset,Records,Diseases,Features,Role
+Symptom-Disease KB,321,41,131,Prior construction
+Drug-Disease KB,2103,34,1474,Treatment selection
+Clinical Cases,12300,41,131,Model evaluation
