@@ -1,0 +1,2104 @@
+disease,drugName,probability
+(vertigo) Paroymsal  Positional Vertigo,Meclizine,0.75
+(vertigo) Paroymsal  Positional Vertigo,Bonine,0.056451612903225805
+(vertigo) Paroymsal  Positional Vertigo,Antivert,0.056451612903225805
+(vertigo) Paroymsal  Positional Vertigo,Promethazine,0.04838709677419355
+(vertigo) Paroymsal  Positional Vertigo,Dramamine II,0.03225806451612903
+(vertigo) Paroymsal  Positional Vertigo,Phenergan,0.03225806451612903
+(vertigo) Paroymsal  Positional Vertigo,Diphenidol,0.008064516129032258
+(vertigo) Paroymsal  Positional Vertigo,Dramamine Less Drowsy,0.008064516129032258
+(vertigo) Paroymsal  Positional Vertigo,Vontrol,0.008064516129032258
+AIDS,Efavirenz / emtricitabine / tenofovir,0.11138310893512852
+AIDS,Atripla,0.10771113831089352
+AIDS,Cobicistat / elvitegravir / emtricitabine / tenofovir,0.09302325581395349
+AIDS,Stribild,0.09302325581395349
+AIDS,Abacavir / dolutegravir / lamivudine,0.08567931456548347
+AIDS,Triumeq,0.08445532435740515
+AIDS,Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,0.06731946144430845
+AIDS,Genvoya,0.06731946144430845
+AIDS,Complera,0.05997552019583843
+AIDS,Emtricitabine / rilpivirine / tenofovir,0.05997552019583843
+AIDS,Dolutegravir,0.01591187270501836
+AIDS,Raltegravir,0.01591187270501836
+AIDS,Isentress,0.014687882496940025
+AIDS,Tivicay,0.01346389228886169
+AIDS,Truvada,0.012239902080783354
+AIDS,Emtricitabine / tenofovir,0.012239902080783354
+AIDS,Efavirenz,0.0073439412484700125
+AIDS,Darunavir,0.004895960832313341
+AIDS,Sustiva,0.004895960832313341
+AIDS,Enfuvirtide,0.0036719706242350062
+AIDS,Cobicistat / darunavir,0.0036719706242350062
+AIDS,Nevirapine,0.0036719706242350062
+AIDS,Fuzeon,0.0036719706242350062
+AIDS,Abacavir / lamivudine,0.0036719706242350062
+AIDS,Epzicom,0.0036719706242350062
+AIDS,Prezista,0.0036719706242350062
+AIDS,Prezcobix,0.0036719706242350062
+AIDS,Lopinavir / ritonavir,0.0036719706242350062
+AIDS,Lamivudine,0.0024479804161566705
+AIDS,Etravirine,0.0024479804161566705
+AIDS,Combivir,0.0024479804161566705
+AIDS,Lamivudine / zidovudine,0.0024479804161566705
+AIDS,Viramune,0.0024479804161566705
+AIDS,Intelence,0.0024479804161566705
+AIDS,Kaletra,0.0024479804161566705
+AIDS,Maraviroc,0.0024479804161566705
+AIDS,Odefsey,0.0024479804161566705
+AIDS,Selzentry,0.0024479804161566705
+AIDS,Emtricitabine / rilpivirine / tenofovir alafenamide,0.0024479804161566705
+AIDS,Trizivir,0.0012239902080783353
+AIDS,Abacavir / lamivudine / zidovudine,0.0012239902080783353
+AIDS,Reyataz,0.0012239902080783353
+AIDS,Epivir,0.0012239902080783353
+AIDS,Atazanavir,0.0012239902080783353
+AIDS,Norvir,0.0012239902080783353
+AIDS,Ritonavir,0.0012239902080783353
+Acne,Isotretinoin,0.09172831203765971
+Acne,Adapalene / benzoyl peroxide,0.07357094821788837
+Acne,Doxycycline,0.06724949562878278
+Acne,Epiduo,0.06496301277740417
+Acne,Accutane,0.05796906523201076
+Acne,Benzoyl peroxide / clindamycin,0.047881640887693346
+Acne,Minocycline,0.04478816408876934
+Acne,Tretinoin,0.040887693342299934
+Acne,Ethinyl estradiol / norgestimate,0.0363147276395427
+Acne,Drospirenone / ethinyl estradiol,0.035911230665770004
+Acne,Adapalene,0.03201075991930061
+Acne,Spironolactone,0.03201075991930061
+Acne,Dapsone,0.023268325487558843
+Acne,Ethinyl estradiol / norethindrone,0.02273032952252858
+Acne,Aczone,0.022595830531271014
+Acne,Duac,0.02151983860121049
+Acne,Differin,0.018426361802286483
+Acne,Sulfamethoxazole / trimethoprim,0.016812373907195696
+Acne,Clindamycin / tretinoin,0.014256893073301951
+Acne,Yaz,0.013718897108271687
+Acne,Claravis,0.012642905178211164
+Acne,Yasmin,0.01183591123066577
+Acne,Solodyn,0.011297915265635507
+Acne,Tri-Sprintec,0.011028917283120377
+Acne,Loestrin 24 Fe,0.01062542030934768
+Acne,TriNessa,0.01035642232683255
+Acne,Clindamycin,0.008876933422999328
+Acne,Bactrim,0.008876933422999328
+Acne,Ziana,0.008742434431741762
+Acne,Benzaclin,0.008607935440484197
+Acne,Acanya,0.007397444519166106
+Acne,Doryx,0.00699394754539341
+Acne,Ortho Tri-Cyclen,0.006321452589105582
+Acne,Retin-A,0.0056489576328177535
+Acne,Atralin,0.004438466711499664
+Acne,Gianvi,0.004034969737726967
+Acne,Benzoyl peroxide / erythromycin,0.0039004707464694015
+Acne,Tri-Previfem,0.0039004707464694015
+Acne,Monodox,0.0039004707464694015
+Acne,Benzoyl peroxide,0.003496973772696705
+Acne,Drospirenone / ethinyl estradiol / levomefolate calcium,0.0033624747814391394
+Acne,Amnesteem,0.0033624747814391394
+Acne,Beyaz,0.0033624747814391394
+Acne,Azelaic acid,0.0032279757901815735
+Acne,Veltin,0.0032279757901815735
+Acne,Sulfacetamide sodium / sulfur,0.003093476798924008
+Acne,Loryna,0.0026899798251513113
+Acne,Tetracycline,0.0026899798251513113
+Acne,Bactrim DS,0.0026899798251513113
+Acne,Epiduo Forte,0.002555480833893746
+Acne,Microgestin Fe 1 / 20,0.002555480833893746
+Acne,Ocella,0.002151983860121049
+Acne,Onexton,0.002151983860121049
+Acne,Junel Fe 1 / 20,0.002151983860121049
+Acne,Finacea,0.0017484868863483524
+Acne,Tazarotene,0.0016139878950907868
+Acne,Gildess Fe 1 / 20,0.0014794889038332213
+Acne,Tazorac,0.0013449899125756557
+Acne,Minocin,0.0013449899125756557
+Acne,Zenatane,0.00121049092131809
+Acne,Clarifoam EF,0.000941492938802959
+Acne,Estarylla,0.0008069939475453934
+Acne,Benzamycin,0.0008069939475453934
+Acne,Aldactone,0.0006724949562878278
+Acne,Gildess Fe 1.5 / 30,0.0006724949562878278
+Acne,PanOxyl,0.0006724949562878278
+Acne,Doxy 100,0.0006724949562878278
+Acne,Microgestin Fe 1.5 / 30,0.0006724949562878278
+Acne,BenzEFoam,0.0005379959650302623
+Acne,Absorica,0.0005379959650302623
+Acne,Adoxa,0.0005379959650302623
+Acne,Tri-Linyah,0.0005379959650302623
+Acne,Cephalexin,0.0004034969737726967
+Acne,Acticlate,0.0004034969737726967
+Acne,SMZ-TMP DS,0.0004034969737726967
+Acne,Retapamulin,0.0004034969737726967
+Acne,Keflex,0.0004034969737726967
+Acne,Vibramycin,0.0004034969737726967
+Acne,Altabax,0.0004034969737726967
+Acne,Junel Fe 1.5 / 30,0.0004034969737726967
+Acne,Magnesium hydroxide,0.0004034969737726967
+Acne,Retin A Micro,0.0004034969737726967
+Acne,TriNessa Lo,0.0004034969737726967
+Acne,NuOx,0.00026899798251513114
+Acne,Necon 7 / 7 / 7,0.00026899798251513114
+Acne,Loestrin Fe 1 / 20,0.00026899798251513114
+Acne,Tretin-X,0.00026899798251513114
+Acne,Hexachlorophene,0.00026899798251513114
+Acne,Fabior,0.00026899798251513114
+Acne,Ortho-Novum 1 / 35,0.00026899798251513114
+Acne,Salicylic acid,0.00026899798251513114
+Acne,Azelex,0.00026899798251513114
+Acne,femhrt,0.00026899798251513114
+Acne,Myorisan,0.00026899798251513114
+Acne,Salicylic acid / sulfur,0.00026899798251513114
+Acne,Tri-Estarylla,0.00026899798251513114
+Acne,Septra,0.00026899798251513114
+Acne,Benzoyl peroxide / sulfur,0.00026899798251513114
+Acne,Erythromycin,0.00013449899125756557
+Acne,Ery Pads,0.00013449899125756557
+Acne,Benzoyl peroxide / salicylic acid,0.00013449899125756557
+Acne,Milk of Magnesia,0.00013449899125756557
+Acne,Vanoxide-HC,0.00013449899125756557
+Acne,Nortrel 1 / 35,0.00013449899125756557
+Acne,Desquam-X Wash,0.00013449899125756557
+Acne,Acnex,0.00013449899125756557
+Acne,BenzEFoam Ultra,0.00013449899125756557
+Acne,Inova 4 / 1,0.00013449899125756557
+Acne,Necon 1 / 35,0.00013449899125756557
+Acne,Pernox,0.00013449899125756557
+Acne,Sotret,0.00013449899125756557
+Acne,Norinyl 1+35,0.00013449899125756557
+Acne,Resorcinol / sulfur,0.00013449899125756557
+Acne,BP Wash,0.00013449899125756557
+Acne,Vestura,0.00013449899125756557
+Acne,PanOxyl 10% Acne Foaming Wash,0.00013449899125756557
+Acne,Fostex Medicated,0.00013449899125756557
+Acne,Sulfur,0.00013449899125756557
+Acne,Avar,0.00013449899125756557
+Acne,Oxy-10,0.00013449899125756557
+Acne,Cyclafem 1 / 35,0.00013449899125756557
+Acne,Benzoyl peroxide / hydrocortisone,0.00013449899125756557
+Acne,Sumadan,0.00013449899125756557
+Acne,Avita,0.00013449899125756557
+Acne,Dynacin,0.00013449899125756557
+Acne,Clindagel,0.00013449899125756557
+Acne,Phillips' Milk of Magnesia,0.00013449899125756557
+Allergy,Fluticasone,0.07788595271210014
+Allergy,Cetirizine,0.06606397774687066
+Allergy,Montelukast,0.059805285118219746
+Allergy,Flonase,0.048678720445062586
+Allergy,Azelastine / fluticasone,0.045201668984700974
+Allergy,Dymista,0.045201668984700974
+Allergy,Zyrtec,0.04450625869262865
+Allergy,Fexofenadine,0.04172461752433936
+Allergy,Triamcinolone,0.03824756606397774
+Allergy,Azelastine,0.03824756606397774
+Allergy,Singulair,0.034075104311543813
+Allergy,Loratadine,0.02851182197496523
+Allergy,Nasacort,0.027816411682892908
+Allergy,Allegra,0.027816411682892908
+Allergy,Mometasone,0.02364394993045897
+Allergy,Levocetirizine,0.021557719054242003
+Allergy,Nasonex,0.02086230876216968
+Allergy,Fexofenadine / pseudoephedrine,0.02086230876216968
+Allergy,Xyzal,0.018776077885952713
+Allergy,Dexbrompheniramine / pseudoephedrine,0.012517385257301807
+Allergy,Drixoral Cold and Allergy,0.011126564673157162
+Allergy,Astepro,0.011126564673157162
+Allergy,Claritin,0.011126564673157162
+Allergy,Veramyst,0.01043115438108484
+Allergy,Diphenhydramine,0.009040333796940195
+Allergy,Methylprednisolone,0.009040333796940195
+Allergy,Beclomethasone,0.009040333796940195
+Allergy,Loratadine / pseudoephedrine,0.009040333796940195
+Allergy,Allegra-D 24 Hour,0.008344923504867872
+Allergy,Desloratadine,0.008344923504867872
+Allergy,Chlorpheniramine,0.008344923504867872
+Allergy,Patanase,0.0076495132127955496
+Allergy,Olopatadine,0.0076495132127955496
+Allergy,Astelin,0.0076495132127955496
+Allergy,Claritin-D,0.006258692628650904
+Allergy,Benadryl,0.006258692628650904
+Allergy,Omnaris,0.005563282336578581
+Allergy,Ciclesonide,0.005563282336578581
+Allergy,Budesonide,0.005563282336578581
+Allergy,Nasacort Allergy 24HR,0.005563282336578581
+Allergy,Allegra-D 12 Hour,0.004867872044506259
+Allergy,Chlorpheniramine / pseudoephedrine,0.004867872044506259
+Allergy,QNASL,0.004172461752433936
+Allergy,Chlor-Trimeton,0.004172461752433936
+Allergy,Allegra Allergy,0.004172461752433936
+Allergy,Allerx Dose Pack DF,0.0034770514603616135
+Allergy,Chlorpheniramine / phenylephrine,0.0027816411682892906
+Allergy,Rhinocort Aqua,0.0027816411682892906
+Allergy,Pseudoephedrine / triprolidine,0.0027816411682892906
+Allergy,Brompheniramine,0.0027816411682892906
+Allergy,Kenalog-40,0.0027816411682892906
+Allergy,Clarinex,0.0027816411682892906
+Allergy,Chlorpheniramine / methscopolamine / phenylephrine,0.0027816411682892906
+Allergy,Rhinocort,0.002086230876216968
+Allergy,Children's Claritin Allergy,0.002086230876216968
+Allergy,Actifed,0.002086230876216968
+Allergy,Cetirizine / pseudoephedrine,0.002086230876216968
+Allergy,Carbinoxamine,0.002086230876216968
+Allergy,Nasacort AQ,0.002086230876216968
+Allergy,Palgic,0.0013908205841446453
+Allergy,Acetaminophen / dexbrompheniramine / pseudoephedrine,0.0013908205841446453
+Allergy,R-Tanna,0.0013908205841446453
+Allergy,Deconamine,0.0013908205841446453
+Allergy,Promethazine,0.0013908205841446453
+Allergy,Zyrtec-D,0.0013908205841446453
+Allergy,Benadryl Allergy,0.0013908205841446453
+Allergy,Claritin-D 24 Hour,0.0013908205841446453
+Allergy,Flunisolide,0.0013908205841446453
+Allergy,Beconase AQ,0.0013908205841446453
+Allergy,Dexchlorpheniramine,0.0013908205841446453
+Allergy,Medrol Dosepak,0.0013908205841446453
+Allergy,Desloratadine / pseudoephedrine,0.0006954102920723226
+Allergy,Rynatan,0.0006954102920723226
+Allergy,Clemastine,0.0006954102920723226
+Allergy,Claritin-D 12 Hour,0.0006954102920723226
+Allergy,Acrivastine / pseudoephedrine,0.0006954102920723226
+Allergy,Clarinex-D 12 Hour,0.0006954102920723226
+Allergy,Alavert D-12 Hour Allergy and Sinus,0.0006954102920723226
+Allergy,Flonase Sensimist,0.0006954102920723226
+Allergy,Cyproheptadine,0.0006954102920723226
+Allergy,Benadryl Allergy Sinus,0.0006954102920723226
+Allergy,Phenergan,0.0006954102920723226
+Allergy,Allegra ODT,0.0006954102920723226
+Allergy,Alahist LQ,0.0006954102920723226
+Allergy,Prednisone,0.0006954102920723226
+Allergy,Chlorcyclizine / phenylephrine,0.0006954102920723226
+Allergy,Decadron,0.0006954102920723226
+Allergy,Semprex-D,0.0006954102920723226
+Allergy,Nasarel,0.0006954102920723226
+Allergy,Wal-finate,0.0006954102920723226
+Allergy,Flonase Allergy Relief,0.0006954102920723226
+Allergy,Chlorpheniramine / methscopolamine / pseudoephedrine,0.0006954102920723226
+Allergy,Diphenhydramine / phenylephrine,0.0006954102920723226
+Allergy,Brompheniramine / pseudoephedrine,0.0006954102920723226
+Allergy,Zyrtec-D 12 Hour,0.0006954102920723226
+Allergy,Diphenhydramine / pseudoephedrine,0.0006954102920723226
+Allergy,Drixoral Cold / Flu,0.0006954102920723226
+Allergy,All Day Allergy,0.0006954102920723226
+Allergy,Dexamethasone,0.0006954102920723226
+Allergy,Dallergy,0.0006954102920723226
+Allergy,Allergy DN PE,0.0006954102920723226
+Arthritis,Diclofenac,0.04630890765459003
+Arthritis,Sodium hyaluronate,0.043584854263143555
+Arthritis,Meloxicam,0.04140561154998638
+Arthritis,Adalimumab,0.040043584854263146
+Arthritis,Humira,0.0392263688368292
+Arthritis,Euflexxa,0.03514028874965949
+Arthritis,Etanercept,0.03514028874965949
+Arthritis,Enbrel,0.03350585671479161
+Arthritis,Hylan g-f 20,0.03159901934077908
+Arthritis,Hyaluronan,0.03050939798420049
+Arthritis,Orthovisc,0.02751293925360937
+Arthritis,Methotrexate,0.023154453827295016
+Arthritis,Celecoxib,0.022337237809861073
+Arthritis,Synvisc-One,0.02152002179242713
+Arthritis,Celebrex,0.020430400435848543
+Arthritis,Prednisone,0.020157995096703896
+Arthritis,Hydroxychloroquine,0.019068373740125308
+Arthritis,Apremilast,0.018795968400980658
+Arthritis,Otezla,0.01770634704440207
+Arthritis,Mobic,0.01607191500953419
+Arthritis,Naproxen,0.015527104331244893
+Arthritis,Golimumab,0.01389267229637701
+Arthritis,Voltaren Gel,0.013347861618087714
+Arthritis,Rituximab,0.01280305093979842
+Arthritis,Allopurinol,0.011985834922364479
+Arthritis,Simponi,0.011713429583219831
+Arthritis,Leflunomide,0.011168618904930537
+Arthritis,Infliximab,0.010896213565785889
+Arthritis,Remicade,0.010623808226641242
+Arthritis,Sulfasalazine,0.010623808226641242
+Arthritis,Tofacitinib,0.010078997548351948
+Arthritis,Voltaren,0.010078997548351948
+Arthritis,Plaquenil,0.010078997548351948
+Arthritis,Febuxostat,0.0098065922092073
+Arthritis,Doxycycline,0.009534186870062654
+Arthritis,Synvisc,0.008989376191773358
+Arthritis,Xeljanz,0.008989376191773358
+Arthritis,Uloric,0.008716970852628712
+Arthritis,Diclofenac / misoprostol,0.008716970852628712
+Arthritis,Abatacept,0.006810133478616181
+Arthritis,Arthrotec,0.006810133478616181
+Arthritis,Orencia,0.006537728139471534
+Arthritis,Acetaminophen / hydrocodone,0.006265322800326887
+Arthritis,Supartz,0.0059929174611822395
+Arthritis,Cymbalta,0.005720512122037592
+Arthritis,Duloxetine,0.005720512122037592
+Arthritis,Arava,0.005448106782892944
+Arthritis,Etodolac,0.005175701443748297
+Arthritis,Nabumetone,0.005175701443748297
+Arthritis,Methylprednisolone,0.00490329610460365
+Arthritis,Esomeprazole / naproxen,0.00490329610460365
+Arthritis,Tocilizumab,0.00490329610460365
+Arthritis,Actemra,0.004630890765459003
+Arthritis,Pennsaid,0.004358485426314356
+Arthritis,Vimovo,0.004086080087169709
+Arthritis,Capsaicin,0.004086080087169709
+Arthritis,Triamcinolone,0.004086080087169709
+Arthritis,Aleve,0.003541269408880414
+Arthritis,Ustekinumab,0.003541269408880414
+Arthritis,Famotidine / ibuprofen,0.003268864069735767
+Arthritis,Stelara,0.003268864069735767
+Arthritis,Piroxicam,0.0029964587305911197
+Arthritis,Duexis,0.002724053391446472
+Arthritis,Certolizumab,0.002451648052301825
+Arthritis,Cimzia,0.002451648052301825
+Arthritis,Secukinumab,0.002451648052301825
+Arthritis,Cosentyx,0.002451648052301825
+Arthritis,Tramadol,0.002451648052301825
+Arthritis,Rituxan,0.002451648052301825
+Arthritis,Kenalog-40,0.002179242713157178
+Arthritis,Feldene,0.002179242713157178
+Arthritis,Relafen,0.002179242713157178
+Arthritis,Methyl salicylate,0.0019068373740125306
+Arthritis,Oxaprozin,0.0019068373740125306
+Arthritis,Naprosyn,0.0019068373740125306
+Arthritis,Sulindac,0.0019068373740125306
+Arthritis,Simponi Aria,0.0016344320348678834
+Arthritis,Limbrel,0.0016344320348678834
+Arthritis,Indomethacin,0.0016344320348678834
+Arthritis,Vicodin,0.0016344320348678834
+Arthritis,Bioflavonoids,0.0016344320348678834
+Arthritis,Lodine,0.0016344320348678834
+Arthritis,Ibuprofen,0.0016344320348678834
+Arthritis,Trolamine salicylate,0.001362026695723236
+Arthritis,Ketoprofen,0.001362026695723236
+Arthritis,Lortab,0.001362026695723236
+Arthritis,Naprelan,0.001362026695723236
+Arthritis,Salonpas Pain Patch,0.001362026695723236
+Arthritis,Ceftin,0.001362026695723236
+Arthritis,Cefuroxime,0.001362026695723236
+Arthritis,Pegloticase,0.001089621356578589
+Arthritis,Chondroitin / glucosamine,0.001089621356578589
+Arthritis,Krystexxa,0.001089621356578589
+Arthritis,Xeljanz XR,0.001089621356578589
+Arthritis,Daypro,0.001089621356578589
+Arthritis,Azathioprine,0.001089621356578589
+Arthritis,Sulfazine,0.001089621356578589
+Arthritis,Valdecoxib,0.001089621356578589
+Arthritis,Diflunisal,0.001089621356578589
+Arthritis,Bextra,0.001089621356578589
+Arthritis,Zorvolex,0.001089621356578589
+Arthritis,Aspirin,0.001089621356578589
+Arthritis,Probenecid,0.0008172160174339417
+Arthritis,Acetaminophen / tramadol,0.0008172160174339417
+Arthritis,Monovisc,0.0008172160174339417
+Arthritis,Acetaminophen / codeine,0.0008172160174339417
+Arthritis,Indocin,0.0008172160174339417
+Arthritis,Mycophenolate mofetil,0.0008172160174339417
+Arthritis,Chondroitin / glucosamine / methylsulfonylmethane,0.0008172160174339417
+Arthritis,Depo-Medrol,0.0008172160174339417
+Arthritis,Salsalate,0.0008172160174339417
+Arthritis,S-adenosylmethionine,0.0008172160174339417
+Arthritis,Kenalog-10,0.0005448106782892945
+Arthritis,Aloprim,0.0005448106782892945
+Arthritis,Cataflam,0.0005448106782892945
+Arthritis,Auranofin,0.0005448106782892945
+Arthritis,Zostrix,0.0005448106782892945
+Arthritis,Lesinurad,0.0005448106782892945
+Arthritis,Minocycline,0.0005448106782892945
+Arthritis,Zurampic,0.0005448106782892945
+Arthritis,Capzasin-HP,0.0005448106782892945
+Arthritis,Probenecid and Colchicine,0.0005448106782892945
+Arthritis,Norco,0.0005448106782892945
+Arthritis,Capzasin-P,0.0005448106782892945
+Arthritis,Acetaminophen / aspirin / caffeine,0.0005448106782892945
+Arthritis,Medrol Dosepak,0.0005448106782892945
+Arthritis,Ridaura,0.0005448106782892945
+Arthritis,Doxy 100,0.0005448106782892945
+Arthritis,Imuran,0.0005448106782892945
+Arthritis,Dolobid,0.0005448106782892945
+Arthritis,Motrin,0.0005448106782892945
+Arthritis,Tylenol with Codeine #3,0.0005448106782892945
+Arthritis,Colchicine / probenecid,0.0005448106782892945
+Arthritis,Tolectin DS,0.00027240533914464724
+Arthritis,Aristospan,0.00027240533914464724
+Arthritis,Anakinra,0.00027240533914464724
+Arthritis,Bioflavonoids / zinc glycinate,0.00027240533914464724
+Arthritis,Ultracet,0.00027240533914464724
+Arthritis,Disalcid,0.00027240533914464724
+Arthritis,Advil,0.00027240533914464724
+Arthritis,Tylenol with Codeine #4,0.00027240533914464724
+Arthritis,Azulfidine,0.00027240533914464724
+Arthritis,Dexamethasone,0.00027240533914464724
+Arthritis,Prednicot,0.00027240533914464724
+Arthritis,Gold sodium thiomalate,0.00027240533914464724
+Arthritis,Zyloprim,0.00027240533914464724
+Arthritis,Clinoril,0.00027240533914464724
+Arthritis,Anaprox,0.00027240533914464724
+Arthritis,Fenoprofen,0.00027240533914464724
+Arthritis,CellCept,0.00027240533914464724
+Arthritis,Medrol,0.00027240533914464724
+Arthritis,Ansaid,0.00027240533914464724
+Arthritis,Ultram,0.00027240533914464724
+Arthritis,Glucosamine,0.00027240533914464724
+Arthritis,Deltasone,0.00027240533914464724
+Arthritis,Osteo Bi-Flex,0.00027240533914464724
+Arthritis,Orudis KT,0.00027240533914464724
+Arthritis,Rheumatrex Dose Pack,0.00027240533914464724
+Arthritis,Ceftriaxone,0.00027240533914464724
+Arthritis,Limbrel 500,0.00027240533914464724
+Arthritis,Acetaminophen / propoxyphene,0.00027240533914464724
+Arthritis,Acthar,0.00027240533914464724
+Arthritis,Flurbiprofen,0.00027240533914464724
+Arthritis,Lorcet 10 / 650,0.00027240533914464724
+Arthritis,Absorbine Jr.,0.00027240533914464724
+Arthritis,Corticotropin,0.00027240533914464724
+Arthritis,Excedrin,0.00027240533914464724
+Arthritis,Solu-Medrol,0.00027240533914464724
+Arthritis,Hyalgan,0.00027240533914464724
+Arthritis,Tolmetin,0.00027240533914464724
+Arthritis,Benemid,0.00027240533914464724
+Arthritis,Sulfinpyrazone,0.00027240533914464724
+Arthritis,IBU,0.00027240533914464724
+Arthritis,Otrexup,0.00027240533914464724
+Arthritis,Aristocort,0.00027240533914464724
+Arthritis,Advil Liqui-Gels,0.00027240533914464724
+Bronchial Asthma,Montelukast,0.13451327433628318
+Bronchial Asthma,Singulair,0.06814159292035399
+Bronchial Asthma,Albuterol,0.06283185840707965
+Bronchial Asthma,Symbicort,0.06017699115044248
+Bronchial Asthma,Fluticasone / salmeterol,0.05486725663716814
+Bronchial Asthma,Advair Diskus,0.049557522123893805
+Bronchial Asthma,Omalizumab,0.03716814159292035
+Bronchial Asthma,Xolair,0.036283185840707964
+Bronchial Asthma,Fluticasone / vilanterol,0.035398230088495575
+Bronchial Asthma,Prednisone,0.035398230088495575
+Bronchial Asthma,Breo Ellipta,0.035398230088495575
+Bronchial Asthma,Dulera,0.030973451327433628
+Bronchial Asthma,Qvar,0.02831858407079646
+Bronchial Asthma,Beclomethasone,0.02831858407079646
+Bronchial Asthma,ProAir RespiClick,0.02743362831858407
+Bronchial Asthma,Fluticasone,0.01592920353982301
+Bronchial Asthma,Ciclesonide,0.011504424778761062
+Bronchial Asthma,Budesonide,0.011504424778761062
+Bronchial Asthma,Alvesco,0.011504424778761062
+Bronchial Asthma,Mometasone,0.011504424778761062
+Bronchial Asthma,Methylprednisolone,0.010619469026548672
+Bronchial Asthma,Levalbuterol,0.010619469026548672
+Bronchial Asthma,Asmanex Twisthaler,0.009734513274336283
+Bronchial Asthma,Ventolin,0.008849557522123894
+Bronchial Asthma,Racepinephrine,0.008849557522123894
+Bronchial Asthma,Theophylline,0.007964601769911504
+Bronchial Asthma,ProAir HFA,0.007964601769911504
+Bronchial Asthma,Flovent,0.007079646017699115
+Bronchial Asthma,Cromolyn,0.007079646017699115
+Bronchial Asthma,Epinephrine,0.006194690265486726
+Bronchial Asthma,Asthmanefrin,0.006194690265486726
+Bronchial Asthma,Xopenex,0.006194690265486726
+Bronchial Asthma,Ventolin HFA,0.005309734513274336
+Bronchial Asthma,Primatene Mist,0.005309734513274336
+Bronchial Asthma,Mepolizumab,0.004424778761061947
+Bronchial Asthma,Flovent HFA,0.004424778761061947
+Bronchial Asthma,Ipratropium,0.004424778761061947
+Bronchial Asthma,Pirbuterol,0.004424778761061947
+Bronchial Asthma,Pulmicort Flexhaler,0.004424778761061947
+Bronchial Asthma,Nucala,0.004424778761061947
+Bronchial Asthma,Foradil Aerolizer,0.0035398230088495575
+Bronchial Asthma,Advair HFA,0.0035398230088495575
+Bronchial Asthma,Pulmicort Turbuhaler,0.0035398230088495575
+Bronchial Asthma,Prednisolone,0.0035398230088495575
+Bronchial Asthma,Xopenex HFA,0.0035398230088495575
+Bronchial Asthma,Triamcinolone,0.002654867256637168
+Bronchial Asthma,Accolate,0.002654867256637168
+Bronchial Asthma,Maxair Autohaler,0.002654867256637168
+Bronchial Asthma,Proventil HFA,0.002654867256637168
+Bronchial Asthma,Intal,0.002654867256637168
+Bronchial Asthma,Proventil,0.002654867256637168
+Bronchial Asthma,Atrovent,0.002654867256637168
+Bronchial Asthma,Zafirlukast,0.002654867256637168
+Bronchial Asthma,Uniphyl,0.002654867256637168
+Bronchial Asthma,Intal Inhaler,0.002654867256637168
+Bronchial Asthma,Medrol,0.0017699115044247787
+Bronchial Asthma,Arnuity Ellipta,0.0017699115044247787
+Bronchial Asthma,Theo-24,0.0017699115044247787
+Bronchial Asthma,Pulmicort Respules,0.0017699115044247787
+Bronchial Asthma,Medrol Dosepak,0.0017699115044247787
+Bronchial Asthma,Solu-Medrol,0.0017699115044247787
+Bronchial Asthma,Budesonide / formoterol,0.0017699115044247787
+Bronchial Asthma,Terbutaline,0.0017699115044247787
+Bronchial Asthma,Metaproterenol,0.0008849557522123894
+Bronchial Asthma,Reslizumab,0.0008849557522123894
+Bronchial Asthma,Isoproterenol,0.0008849557522123894
+Bronchial Asthma,Vospire ER,0.0008849557522123894
+Bronchial Asthma,Decadron,0.0008849557522123894
+Bronchial Asthma,Flunisolide,0.0008849557522123894
+Bronchial Asthma,Aerobid,0.0008849557522123894
+Bronchial Asthma,Salmeterol,0.0008849557522123894
+Bronchial Asthma,Tiotropium,0.0008849557522123894
+Bronchial Asthma,Zileuton,0.0008849557522123894
+Bronchial Asthma,Ephedrine,0.0008849557522123894
+Bronchial Asthma,Azmacort,0.0008849557522123894
+Bronchial Asthma,Dexamethasone,0.0008849557522123894
+Bronchial Asthma,Cinqair,0.0008849557522123894
+Bronchial Asthma,Quibron-T,0.0008849557522123894
+Bronchial Asthma,Caffeine,0.0008849557522123894
+Bronchial Asthma,Maxair,0.0008849557522123894
+Bronchial Asthma,Ipratropium Inhalation Solution,0.0008849557522123894
+Bronchial Asthma,Alupent,0.0008849557522123894
+Bronchial Asthma,Aristocort,0.0008849557522123894
+Bronchial Asthma,AirDuo Respiclick,0.0008849557522123894
+Bronchial Asthma,Formoterol,0.0008849557522123894
+Bronchial Asthma,Deltasone,0.0008849557522123894
+Cervical spondylosis,Sodium hyaluronate,0.0984009840098401
+Cervical spondylosis,Diclofenac,0.08548585485854858
+Cervical spondylosis,Euflexxa,0.07933579335793357
+Cervical spondylosis,Hylan g-f 20,0.07134071340713408
+Cervical spondylosis,Meloxicam,0.07134071340713408
+Cervical spondylosis,Hyaluronan,0.06888068880688807
+Cervical spondylosis,Orthovisc,0.06211562115621156
+Cervical spondylosis,Synvisc-One,0.04858548585485855
+Cervical spondylosis,Celecoxib,0.037515375153751536
+Cervical spondylosis,Celebrex,0.03505535055350553
+Cervical spondylosis,Voltaren Gel,0.03013530135301353
+Cervical spondylosis,Mobic,0.025215252152521524
+Cervical spondylosis,Naproxen,0.02152521525215252
+Cervical spondylosis,Synvisc,0.02029520295202952
+Cervical spondylosis,Voltaren,0.015990159901599015
+Cervical spondylosis,Diclofenac / misoprostol,0.015375153751537515
+Cervical spondylosis,Supartz,0.013530135301353014
+Cervical spondylosis,Cymbalta,0.012915129151291513
+Cervical spondylosis,Duloxetine,0.012915129151291513
+Cervical spondylosis,Arthrotec,0.01107011070110701
+Cervical spondylosis,Pennsaid,0.00984009840098401
+Cervical spondylosis,Etodolac,0.00984009840098401
+Cervical spondylosis,Capsaicin,0.00922509225092251
+Cervical spondylosis,Esomeprazole / naproxen,0.007380073800738007
+Cervical spondylosis,Famotidine / ibuprofen,0.006765067650676507
+Cervical spondylosis,Nabumetone,0.006765067650676507
+Cervical spondylosis,Vimovo,0.005535055350553505
+Cervical spondylosis,Duexis,0.005535055350553505
+Cervical spondylosis,Triamcinolone,0.005535055350553505
+Cervical spondylosis,Bioflavonoids,0.0036900369003690036
+Cervical spondylosis,Prednisone,0.0036900369003690036
+Cervical spondylosis,Limbrel,0.0036900369003690036
+Cervical spondylosis,Piroxicam,0.0036900369003690036
+Cervical spondylosis,Methylprednisolone,0.0036900369003690036
+Cervical spondylosis,Methyl salicylate,0.0036900369003690036
+Cervical spondylosis,Lodine,0.0036900369003690036
+Cervical spondylosis,Naprelan,0.003075030750307503
+Cervical spondylosis,Naprosyn,0.003075030750307503
+Cervical spondylosis,Salonpas Pain Patch,0.003075030750307503
+Cervical spondylosis,Relafen,0.003075030750307503
+Cervical spondylosis,Chondroitin / glucosamine,0.0024600246002460025
+Cervical spondylosis,Zorvolex,0.0024600246002460025
+Cervical spondylosis,Kenalog-40,0.0024600246002460025
+Cervical spondylosis,Aleve,0.0024600246002460025
+Cervical spondylosis,Trolamine salicylate,0.0024600246002460025
+Cervical spondylosis,Feldene,0.0024600246002460025
+Cervical spondylosis,Monovisc,0.0018450184501845018
+Cervical spondylosis,Oxaprozin,0.0018450184501845018
+Cervical spondylosis,Acetaminophen / codeine,0.0018450184501845018
+Cervical spondylosis,Ketoprofen,0.0018450184501845018
+Cervical spondylosis,Bextra,0.0018450184501845018
+Cervical spondylosis,Chondroitin / glucosamine / methylsulfonylmethane,0.0018450184501845018
+Cervical spondylosis,S-adenosylmethionine,0.0018450184501845018
+Cervical spondylosis,Valdecoxib,0.0018450184501845018
+Cervical spondylosis,Sulindac,0.0018450184501845018
+Cervical spondylosis,Indomethacin,0.0018450184501845018
+Cervical spondylosis,Depo-Medrol,0.0012300123001230013
+Cervical spondylosis,Diflunisal,0.0012300123001230013
+Cervical spondylosis,Kenalog-10,0.0012300123001230013
+Cervical spondylosis,Capzasin-P,0.0012300123001230013
+Cervical spondylosis,Zostrix,0.0012300123001230013
+Cervical spondylosis,Acetaminophen / aspirin / caffeine,0.0012300123001230013
+Cervical spondylosis,Ibuprofen,0.0012300123001230013
+Cervical spondylosis,Cataflam,0.0012300123001230013
+Cervical spondylosis,Capzasin-HP,0.0012300123001230013
+Cervical spondylosis,Salsalate,0.0012300123001230013
+Cervical spondylosis,Aspirin,0.0012300123001230013
+Cervical spondylosis,Tylenol with Codeine #3,0.0012300123001230013
+Cervical spondylosis,Indocin,0.0012300123001230013
+Cervical spondylosis,Osteo Bi-Flex,0.0006150061500615006
+Cervical spondylosis,Bioflavonoids / zinc glycinate,0.0006150061500615006
+Cervical spondylosis,Disalcid,0.0006150061500615006
+Cervical spondylosis,Tylenol with Codeine #4,0.0006150061500615006
+Cervical spondylosis,Dolobid,0.0006150061500615006
+Cervical spondylosis,Glucosamine,0.0006150061500615006
+Cervical spondylosis,Excedrin,0.0006150061500615006
+Cervical spondylosis,Solu-Medrol,0.0006150061500615006
+Cervical spondylosis,Daypro,0.0006150061500615006
+Cervical spondylosis,Limbrel 500,0.0006150061500615006
+Cervical spondylosis,Acetaminophen / propoxyphene,0.0006150061500615006
+Cervical spondylosis,Anaprox,0.0006150061500615006
+Cervical spondylosis,Medrol Dosepak,0.0006150061500615006
+Cervical spondylosis,Hyalgan,0.0006150061500615006
+Cervical spondylosis,Motrin,0.0006150061500615006
+Chicken pox,Valacyclovir,0.5714285714285714
+Chicken pox,Valtrex,0.42857142857142855
+Common Cold,Valacyclovir,0.2838915470494418
+Common Cold,Valtrex,0.19776714513556617
+Common Cold,Acyclovir,0.05741626794258373
+Common Cold,Penciclovir,0.05741626794258373
+Common Cold,Denavir,0.05263157894736842
+Common Cold,Famciclovir,0.0430622009569378
+Common Cold,Zovirax Cream,0.02073365231259968
+Common Cold,Chlorpheniramine / hydrocodone,0.02073365231259968
+Common Cold,Tussionex Pennkinetic,0.017543859649122806
+Common Cold,Dexbrompheniramine / pseudoephedrine,0.014354066985645933
+Common Cold,Echinacea,0.014354066985645933
+Common Cold,Ephedrine / guaifenesin,0.012759170653907496
+Common Cold,Pseudoephedrine / triprolidine,0.011164274322169059
+Common Cold,Acetaminophen / chlorpheniramine / phenylephrine,0.011164274322169059
+Common Cold,Famvir,0.011164274322169059
+Common Cold,Sitavig,0.011164274322169059
+Common Cold,Drixoral Cold and Allergy,0.011164274322169059
+Common Cold,Actifed,0.009569377990430622
+Common Cold,Chlorpheniramine / phenylephrine,0.009569377990430622
+Common Cold,Vicks Nyquil D Cold and Flu Nighttime Relief,0.007974481658692184
+Common Cold,Acetaminophen / chlorpheniramine,0.007974481658692184
+Common Cold,Coricidin HBP Cold & Flu,0.007974481658692184
+Common Cold,Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,0.007974481658692184
+Common Cold,Acetaminophen / diphenhydramine / phenylephrine,0.006379585326953748
+Common Cold,Rynatan,0.006379585326953748
+Common Cold,Diphenhydramine,0.006379585326953748
+Common Cold,Bronkaid,0.006379585326953748
+Common Cold,Zovirax Ointment,0.006379585326953748
+Common Cold,Benzocaine,0.004784688995215311
+Common Cold,Alka-Seltzer Plus Cold,0.004784688995215311
+Common Cold,Benadryl,0.003189792663476874
+Common Cold,Sudafed PE Severe Cold,0.003189792663476874
+Common Cold,Rilonacept,0.003189792663476874
+Common Cold,Primatene,0.003189792663476874
+Common Cold,Codimal DM,0.003189792663476874
+Common Cold,Dextromethorphan / phenylephrine / pyrilamine,0.003189792663476874
+Common Cold,Brompheniramine,0.003189792663476874
+Common Cold,Arcalyst,0.003189792663476874
+Common Cold,Retre-Gel,0.001594896331738437
+Common Cold,Acetaminophen / chlorpheniramine / dextromethorphan / pseudoephedrine,0.001594896331738437
+Common Cold,Acetaminophen / dextromethorphan / pseudoephedrine,0.001594896331738437
+Common Cold,Acetaminophen / dextromethorphan / guaifenesin / pseudoephedrine,0.001594896331738437
+Common Cold,Acetaminophen / dextromethorphan / guaifenesin / phenylephrine,0.001594896331738437
+Common Cold,R-Tanna,0.001594896331738437
+Common Cold,Tylenol Cold,0.001594896331738437
+Common Cold,Tylenol Allergy Multi-Symptom Nighttime,0.001594896331738437
+Common Cold,Codeine / guaifenesin / pseudoephedrine,0.001594896331738437
+Common Cold,Chlorpheniramine,0.001594896331738437
+Common Cold,Cheratussin DAC,0.001594896331738437
+Common Cold,Promethazine DM,0.001594896331738437
+Common Cold,Acyclovir / hydrocortisone,0.001594896331738437
+Common Cold,Ed A-Hist,0.001594896331738437
+Common Cold,Robitussin Cold Cough and Flu,0.001594896331738437
+Common Cold,Tetracaine,0.001594896331738437
+Common Cold,Mucinex Fast-Max Night Time Cold & Flu,0.001594896331738437
+Common Cold,Vicks QlearQuil Nighttime Allergy Relief,0.001594896331738437
+Common Cold,Benadryl Allergy,0.001594896331738437
+Common Cold,Dextromethorphan / promethazine,0.001594896331738437
+Common Cold,Orajel,0.001594896331738437
+Diabetes,Liraglutide,0.10145739910313901
+Diabetes,Victoza,0.09949551569506726
+Diabetes,Dulaglutide,0.08380044843049328
+Diabetes,Trulicity,0.08099775784753363
+Diabetes,Exenatide,0.06866591928251121
+Diabetes,Canagliflozin,0.05493273542600897
+Diabetes,Invokana,0.05353139013452915
+Diabetes,Bydureon,0.04820627802690583
+Diabetes,Metformin,0.02998878923766816
+Diabetes,Byetta,0.019338565022421525
+Diabetes,Sitagliptin,0.018778026905829595
+Diabetes,Insulin glargine,0.018497757847533634
+Diabetes,Dapagliflozin,0.01821748878923767
+Diabetes,Januvia,0.016816143497757848
+Diabetes,"Insulin inhalation, rapid acting",0.016255605381165918
+Diabetes,Farxiga,0.015414798206278026
+Diabetes,Afrezza,0.015134529147982063
+Diabetes,Empagliflozin,0.015134529147982063
+Diabetes,Jardiance,0.01429372197309417
+Diabetes,Insulin degludec,0.011210762331838564
+Diabetes,Tresiba,0.010930493273542601
+Diabetes,Glimepiride,0.010650224215246636
+Diabetes,Glipizide,0.010089686098654708
+Diabetes,Janumet,0.00952914798206278
+Diabetes,Pioglitazone,0.008688340807174889
+Diabetes,Actos,0.008127802690582959
+Diabetes,Linagliptin,0.007847533632286996
+Diabetes,Tradjenta,0.0072869955156950675
+Diabetes,Glucophage,0.007006726457399103
+Diabetes,Lantus,0.006446188340807175
+Diabetes,Insulin detemir,0.005885650224215246
+Diabetes,Levemir,0.00476457399103139
+Diabetes,Toujeo,0.004204035874439462
+Diabetes,Lantus Solostar,0.004204035874439462
+Diabetes,Amaryl,0.004204035874439462
+Diabetes,Saxagliptin,0.003923766816143498
+Diabetes,Kombiglyze XR,0.0036434977578475337
+Diabetes,Onglyza,0.0036434977578475337
+Diabetes,Desmopressin,0.0033632286995515697
+Diabetes,Albiglutide,0.003082959641255605
+Diabetes,Tanzeum,0.003082959641255605
+Diabetes,Insulin aspart,0.003082959641255605
+Diabetes,Insulin lispro,0.003082959641255605
+Diabetes,Glyxambi,0.002802690582959641
+Diabetes,Empagliflozin / linagliptin,0.002802690582959641
+Diabetes,Glucotrol,0.002522421524663677
+Diabetes,Novolog,0.002242152466367713
+Diabetes,Jentadueto,0.002242152466367713
+Diabetes,Repaglinide,0.001961883408071749
+Diabetes,Chromium picolinate,0.001961883408071749
+Diabetes,Glyburide,0.001961883408071749
+Diabetes,Avandia,0.0016816143497757848
+Diabetes,Metformin / sitagliptin,0.0016816143497757848
+Diabetes,Colesevelam,0.0016816143497757848
+Diabetes,Rosiglitazone,0.0016816143497757848
+Diabetes,DDAVP,0.0016816143497757848
+Diabetes,Humalog KwikPen,0.0016816143497757848
+Diabetes,Welchol,0.0014013452914798206
+Diabetes,Toujeo Solostar,0.0014013452914798206
+Diabetes,Insulin isophane / insulin regular,0.0014013452914798206
+Diabetes,Insulin regular,0.0014013452914798206
+Diabetes,Prandin,0.0014013452914798206
+Diabetes,Humalog,0.0014013452914798206
+Diabetes,ActoPlus Met,0.0014013452914798206
+Diabetes,Pramlintide,0.0011210762331838565
+Diabetes,Basaglar,0.0011210762331838565
+Diabetes,Exubera,0.0011210762331838565
+Diabetes,Xigduo XR,0.0011210762331838565
+Diabetes,Insulin glulisine,0.0011210762331838565
+Diabetes,Synjardy,0.0008408071748878924
+Diabetes,Insulin aspart / insulin aspart protamine,0.0008408071748878924
+Diabetes,Insulin lispro / insulin lispro protamine,0.0008408071748878924
+Diabetes,NovoLog Mix 70 / 30,0.0008408071748878924
+Diabetes,Symlin,0.0008408071748878924
+Diabetes,Humulin R U-500 (Concentrated),0.0008408071748878924
+Diabetes,GlipiZIDE XL,0.0008408071748878924
+Diabetes,Novolin 70 / 30,0.0008408071748878924
+Diabetes,Insulin isophane,0.0008408071748878924
+Diabetes,NovoLog FlexPen,0.0008408071748878924
+Diabetes,Nesina,0.0005605381165919282
+Diabetes,Glucophage XR,0.0005605381165919282
+Diabetes,Octreotide,0.0005605381165919282
+Diabetes,Acarbose,0.0005605381165919282
+Diabetes,Humalog Mix 75 / 25,0.0005605381165919282
+Diabetes,Glyburide / metformin,0.0005605381165919282
+Diabetes,Glipizide / metformin,0.0005605381165919282
+Diabetes,Alogliptin,0.0005605381165919282
+Diabetes,Avandamet,0.0005605381165919282
+Diabetes,Humulin N,0.0005605381165919282
+Diabetes,Glimepiride / pioglitazone,0.0002802690582959641
+Diabetes,Hydrochlorothiazide,0.0002802690582959641
+Diabetes,Apidra,0.0002802690582959641
+Diabetes,Nateglinide,0.0002802690582959641
+Diabetes,Sandostatin LAR Depot,0.0002802690582959641
+Diabetes,Insulin aspart / insulin degludec,0.0002802690582959641
+Diabetes,Glimepiride / rosiglitazone,0.0002802690582959641
+Diabetes,DDAVP Rhinal Tube,0.0002802690582959641
+Diabetes,Kazano,0.0002802690582959641
+Diabetes,ReliOn / Novolin 70 / 30,0.0002802690582959641
+Diabetes,DDAVP Nasal,0.0002802690582959641
+Diabetes,Sandostatin,0.0002802690582959641
+Diabetes,Glyset,0.0002802690582959641
+Diabetes,Novolin N,0.0002802690582959641
+Diabetes,SymlinPen 60,0.0002802690582959641
+Diabetes,Glumetza,0.0002802690582959641
+Diabetes,Glucovance,0.0002802690582959641
+Diabetes,Miglitol,0.0002802690582959641
+Fungal infection,Terbinafine,0.17532467532467533
+Fungal infection,Selenium sulfide,0.09090909090909091
+Fungal infection,Econazole,0.09090909090909091
+Fungal infection,Lamisil,0.06493506493506493
+Fungal infection,Fluconazole,0.05844155844155844
+Fungal infection,Griseofulvin,0.045454545454545456
+Fungal infection,Ketoconazole,0.045454545454545456
+Fungal infection,Lamisil AT,0.03896103896103896
+Fungal infection,Nystatin,0.03896103896103896
+Fungal infection,Nystatin / triamcinolone,0.03896103896103896
+Fungal infection,Naftifine,0.025974025974025976
+Fungal infection,Clotrimazole,0.025974025974025976
+Fungal infection,Spectazole,0.01948051948051948
+Fungal infection,Diflucan,0.01948051948051948
+Fungal infection,Undecylenic acid,0.01948051948051948
+Fungal infection,Tolnaftate,0.01948051948051948
+Fungal infection,Miconazole,0.01948051948051948
+Fungal infection,Nizoral,0.012987012987012988
+Fungal infection,Gris-PEG,0.012987012987012988
+Fungal infection,Naftin,0.012987012987012988
+Fungal infection,Mycolog II,0.012987012987012988
+Fungal infection,Selsun Blue,0.012987012987012988
+Fungal infection,Oxistat,0.012987012987012988
+Fungal infection,Oxiconazole,0.012987012987012988
+Fungal infection,Fulvicin U / F,0.006493506493506494
+Fungal infection,Nyamyc,0.006493506493506494
+Fungal infection,Xolegel,0.006493506493506494
+Fungal infection,Zeasorb-AF,0.006493506493506494
+Fungal infection,Nizoral Topical,0.006493506493506494
+Fungal infection,Ertaczo,0.006493506493506494
+Fungal infection,Clioquinol,0.006493506493506494
+Fungal infection,Ciclopirox,0.006493506493506494
+Fungal infection,Zeasorb-AF Drying Gel,0.006493506493506494
+Fungal infection,Sertaconazole,0.006493506493506494
+Fungal infection,Nystop,0.006493506493506494
+Gastroenteritis,Ciprofloxacin,0.5
+Gastroenteritis,Floxin,0.25
+Gastroenteritis,Ofloxacin,0.25
+Heart attack,Topiramate,0.061656772800863464
+Heart attack,Topamax,0.04007015650296816
+Heart attack,Sumatriptan,0.0372369131138694
+Heart attack,Amitriptyline,0.0357528332433891
+Heart attack,Ondansetron,0.03386400431732326
+Heart attack,Rizatriptan,0.027522935779816515
+Heart attack,Propranolol,0.020912034538586078
+Heart attack,Nortriptyline,0.02050728548300054
+Heart attack,Metoclopramide,0.020372369131138695
+Heart attack,Zofran,0.019023205612520237
+Heart attack,Imitrex,0.017269293038316244
+Heart attack,Eletriptan,0.015650296815974095
+Heart attack,Relpax,0.015380464112250405
+Heart attack,Promethazine,0.014705882352941176
+Heart attack,Acetaminophen / aspirin / caffeine,0.013896384241770102
+Heart attack,Reglan,0.013626551538046412
+Heart attack,Gabapentin,0.013221802482460875
+Heart attack,Zolmitriptan,0.012682137075013492
+Heart attack,Maxalt,0.012547220723151646
+Heart attack,Naproxen / sumatriptan,0.012007555315704263
+Heart attack,OnabotulinumtoxinA,0.011467889908256881
+Heart attack,Botox,0.01119805720453319
+Heart attack,Treximet,0.011063140852671344
+Heart attack,Doxylamine / pyridoxine,0.010928224500809498
+Heart attack,Diclegis,0.010793308148947653
+Heart attack,Carbamazepine,0.010523475445223961
+Heart attack,Prochlorperazine,0.009848893685914732
+Heart attack,Maxalt-MLT,0.008094981111710739
+Heart attack,Zomig,0.008094981111710739
+Heart attack,Divalproex sodium,0.007960064759848893
+Heart attack,"Multivitamin, prenatal",0.0076902320561252025
+Heart attack,Aspirin / butalbital / caffeine,0.007555315704263357
+Heart attack,Verapamil,0.0064759848893685915
+Heart attack,Compazine,0.006341068537506746
+Heart attack,Phenergan,0.006341068537506746
+Heart attack,Metformin,0.005801403130059364
+Heart attack,Fiorinal,0.005531570426335672
+Heart attack,Dofetilide,0.005396654074473826
+Heart attack,Elavil,0.005396654074473826
+Heart attack,Frovatriptan,0.0052617377226119805
+Heart attack,Tikosyn,0.004991905018888289
+Heart attack,Sumavel DosePro,0.004856988667026443
+Heart attack,Hydroxychloroquine,0.004856988667026443
+Heart attack,Frova,0.004856988667026443
+Heart attack,Zofran ODT,0.004722072315164598
+Heart attack,Clopidogrel,0.004722072315164598
+Heart attack,Metformin / sitagliptin,0.0045871559633027525
+Heart attack,Cabergoline,0.0045871559633027525
+Heart attack,Fluoxetine,0.004452239611440907
+Heart attack,Diclofenac,0.004182406907717215
+Heart attack,Fenofibrate,0.004182406907717215
+Heart attack,Tegretol,0.0040474905558553695
+Heart attack,Metoprolol,0.0040474905558553695
+Heart attack,Naratriptan,0.0040474905558553695
+Heart attack,Inderal,0.0040474905558553695
+Heart attack,Oxcarbazepine,0.0040474905558553695
+Heart attack,Depakote,0.0040474905558553695
+Heart attack,Almotriptan,0.0037776578521316784
+Heart attack,Lorazepam,0.0037776578521316784
+Heart attack,Plavix,0.0036427415002698326
+Heart attack,Cyclobenzaprine,0.0036427415002698326
+Heart attack,Amlodipine,0.003507825148407987
+Heart attack,Scopolamine,0.003507825148407987
+Heart attack,Cyproheptadine,0.003507825148407987
+Heart attack,Axert,0.0033729087965461415
+Heart attack,Imatinib,0.0033729087965461415
+Heart attack,Dihydroergotamine,0.0033729087965461415
+Heart attack,Atenolol,0.0033729087965461415
+Heart attack,Zonisamide,0.0033729087965461415
+Heart attack,Cambia,0.0033729087965461415
+Heart attack,Phosphorated carbohydrate solution,0.00310307609282245
+Heart attack,Amiodarone,0.0029681597409606042
+Heart attack,Nilotinib,0.0029681597409606042
+Heart attack,Gleevec,0.0029681597409606042
+Heart attack,Podofilox,0.0029681597409606042
+Heart attack,Emetrol,0.002833243389098759
+Heart attack,Neurontin,0.002833243389098759
+Heart attack,Prozac,0.002833243389098759
+Heart attack,Amerge,0.002698327037236913
+Heart attack,Depakote ER,0.002698327037236913
+Heart attack,Lisinopril,0.002698327037236913
+Heart attack,Icosapent,0.0025634106853750674
+Heart attack,Clonazepam,0.0025634106853750674
+Heart attack,Plaquenil,0.0025634106853750674
+Heart attack,Vascepa,0.0025634106853750674
+Heart attack,Multivitamin with minerals,0.0024284943335132216
+Heart attack,Benlysta,0.0024284943335132216
+Heart attack,Belimumab,0.0024284943335132216
+Heart attack,Evolocumab,0.0024284943335132216
+Heart attack,Baclofen,0.0022935779816513763
+Heart attack,Caffeine / ergotamine,0.0022935779816513763
+Heart attack,Bromocriptine,0.0021586616297895305
+Heart attack,Diphenhydramine,0.0021586616297895305
+Heart attack,Ferrous sulfate,0.0021586616297895305
+Heart attack,Migranal,0.0021586616297895305
+Heart attack,Dasatinib,0.0021586616297895305
+Heart attack,Dronabinol,0.0021586616297895305
+Heart attack,Tasigna,0.0021586616297895305
+Heart attack,Repatha,0.0020237452779276847
+Heart attack,Multivitamin with iron,0.0020237452779276847
+Heart attack,Imitrex Statdose,0.0020237452779276847
+Heart attack,Aggrenox,0.0018888289260658392
+Heart attack,Aspirin / dipyridamole,0.0018888289260658392
+Heart attack,Azathioprine,0.0018888289260658392
+Heart attack,Nadolol,0.0018888289260658392
+Heart attack,Metformin / saxagliptin,0.0018888289260658392
+Heart attack,Prednisone,0.0018888289260658392
+Heart attack,Excedrin,0.0017539125742039934
+Heart attack,Zonegran,0.0017539125742039934
+Heart attack,Ativan,0.0017539125742039934
+Heart attack,Ergocalciferol,0.0017539125742039934
+Heart attack,Transderm-Scop,0.0017539125742039934
+Heart attack,Sprycel,0.0017539125742039934
+Heart attack,Hydroxyurea,0.0017539125742039934
+Heart attack,Hydroxyzine,0.0017539125742039934
+Heart attack,Ibrutinib,0.0017539125742039934
+Heart attack,Saliva substitutes,0.0017539125742039934
+Heart attack,TriCor,0.0016189962223421479
+Heart attack,Aprepitant,0.0016189962223421479
+Heart attack,Lamotrigine,0.0016189962223421479
+Heart attack,Emend,0.0016189962223421479
+Heart attack,Zomig-ZMT,0.0016189962223421479
+Heart attack,Dimenhydrinate,0.0016189962223421479
+Heart attack,Imuran,0.0016189962223421479
+Heart attack,Flexeril,0.0014840798704803021
+Heart attack,Benadryl,0.0014840798704803021
+Heart attack,Dramamine,0.0014840798704803021
+Heart attack,Pregabalin,0.0014840798704803021
+Heart attack,Marinol,0.0014840798704803021
+Heart attack,Benztropine,0.0014840798704803021
+Heart attack,Parlodel,0.0013491635186184566
+Heart attack,Imbruvica,0.0013491635186184566
+Heart attack,Potassium chloride,0.0013491635186184566
+Heart attack,Prenatal Plus,0.0013491635186184566
+Heart attack,Fenofibric acid,0.0013491635186184566
+Heart attack,Tegretol XR,0.0013491635186184566
+Heart attack,Trileptal,0.0012142471667566108
+Heart attack,Granisetron,0.0012142471667566108
+Heart attack,Alirocumab,0.0012142471667566108
+Heart attack,Praluent,0.0012142471667566108
+Heart attack,Butalbital Compound,0.0012142471667566108
+Heart attack,Pamelor,0.0012142471667566108
+Heart attack,Inderal LA,0.0012142471667566108
+Heart attack,Dostinex,0.0010793308148947653
+Heart attack,Trilipix,0.0010793308148947653
+Heart attack,Haloperidol,0.0010793308148947653
+Heart attack,Cafergot,0.0010793308148947653
+Heart attack,Linagliptin / metformin,0.0010793308148947653
+Heart attack,CitraNatal 90 DHA,0.0010793308148947653
+Heart attack,Rosuvastatin,0.0010793308148947653
+Heart attack,Cyanocobalamin,0.0010793308148947653
+Heart attack,Sevelamer,0.0010793308148947653
+Heart attack,Meclizine,0.0009444144630329196
+Heart attack,Omega-3 polyunsaturated fatty acids,0.0009444144630329196
+Heart attack,Trihexyphenidyl,0.0009444144630329196
+Heart attack,Donepezil,0.0009444144630329196
+Heart attack,Haldol,0.0009444144630329196
+Heart attack,Epoetin alfa,0.0009444144630329196
+Heart attack,Methylergonovine,0.0009444144630329196
+Heart attack,Ezetimibe,0.0009444144630329196
+Heart attack,Crestor,0.0008094981111710739
+Heart attack,Cogentin,0.0008094981111710739
+Heart attack,Migergot,0.0008094981111710739
+Heart attack,Candesartan,0.0008094981111710739
+Heart attack,Condylox,0.0008094981111710739
+Heart attack,Trimethobenzamide,0.0008094981111710739
+Heart attack,Dexamethasone,0.0008094981111710739
+Heart attack,Pyridostigmine,0.0008094981111710739
+Heart attack,Midodrine,0.0008094981111710739
+Heart attack,Venlafaxine,0.0008094981111710739
+Heart attack,Methergine,0.0008094981111710739
+Heart attack,Rituximab,0.0008094981111710739
+Heart attack,Nebivolol,0.0008094981111710739
+Heart attack,Atorvastatin,0.0008094981111710739
+Heart attack,Orphenadrine,0.0008094981111710739
+Heart attack,Zetia,0.0008094981111710739
+Heart attack,Klor-Con,0.0006745817593092283
+Heart attack,Imiquimod,0.0006745817593092283
+Heart attack,Disopyramide,0.0006745817593092283
+Heart attack,Iron sucrose,0.0006745817593092283
+Heart attack,Simvastatin,0.0006745817593092283
+Heart attack,Vitamin B12,0.0006745817593092283
+Heart attack,Hydrea,0.0006745817593092283
+Heart attack,Metformin / pioglitazone,0.0006745817593092283
+Heart attack,Iron polysaccharide,0.0006745817593092283
+Heart attack,Colchicine,0.0006745817593092283
+Heart attack,Cilostazol,0.0006745817593092283
+Heart attack,Bystolic,0.0006745817593092283
+Heart attack,Alprazolam,0.0006745817593092283
+Heart attack,Klonopin,0.0006745817593092283
+Heart attack,Duet DHA,0.0006745817593092283
+Heart attack,Cholecalciferol,0.0006745817593092283
+Heart attack,Renvela,0.0006745817593092283
+Heart attack,Moxifloxacin,0.0006745817593092283
+Heart attack,Mestinon,0.0006745817593092283
+Heart attack,Jakafi,0.0006745817593092283
+Heart attack,Ruxolitinib,0.0006745817593092283
+Heart attack,Lyrica,0.0006745817593092283
+Heart attack,Procrit,0.0006745817593092283
+Heart attack,Sancuso,0.0006745817593092283
+Heart attack,Amrix,0.0005396654074473826
+Heart attack,Darbepoetin alfa,0.0005396654074473826
+Heart attack,Vigamox,0.0005396654074473826
+Heart attack,Calcitriol,0.0005396654074473826
+Heart attack,Pentoxifylline,0.0005396654074473826
+Heart attack,Venofer,0.0005396654074473826
+Heart attack,Olmesartan,0.0005396654074473826
+Heart attack,CellCept,0.0005396654074473826
+Heart attack,D.H.E. 45,0.0005396654074473826
+Heart attack,Vistaril,0.0005396654074473826
+Heart attack,Cyclizine,0.0005396654074473826
+Heart attack,Aspirin,0.0005396654074473826
+Heart attack,Zecuity,0.0005396654074473826
+Heart attack,Vitamin B2,0.0005396654074473826
+Heart attack,Aranesp,0.0005396654074473826
+Heart attack,Fluconazole,0.0005396654074473826
+Heart attack,Cordarone,0.0005396654074473826
+Heart attack,Norvasc,0.0005396654074473826
+Heart attack,Tenormin,0.0005396654074473826
+Heart attack,Artane,0.0005396654074473826
+Heart attack,Metronidazole,0.0005396654074473826
+Heart attack,Lovaza,0.0005396654074473826
+Heart attack,InnoPran XL,0.0005396654074473826
+Heart attack,Riboflavin,0.0005396654074473826
+Heart attack,Ferrous gluconate,0.0005396654074473826
+Heart attack,Dapagliflozin / metformin,0.0005396654074473826
+Heart attack,Mycophenolate mofetil,0.0005396654074473826
+Heart attack,Clomiphene,0.0005396654074473826
+Heart attack,Cromolyn,0.0005396654074473826
+Heart attack,Pletal,0.00040474905558553697
+Heart attack,Vitamin D2,0.00040474905558553697
+Heart attack,Trental,0.00040474905558553697
+Heart attack,Inapsine,0.00040474905558553697
+Heart attack,Droperidol,0.00040474905558553697
+Heart attack,Heme iron polypeptide,0.00040474905558553697
+Heart attack,Ergotamine,0.00040474905558553697
+Heart attack,Colesevelam,0.00040474905558553697
+Heart attack,Denosumab,0.00040474905558553697
+Heart attack,Vitamin D3,0.00040474905558553697
+Heart attack,Welchol,0.00040474905558553697
+Heart attack,Goody's Extra-Strength Headache Powders,0.00040474905558553697
+Heart attack,Lovastatin,0.00040474905558553697
+Heart attack,Niferex,0.00040474905558553697
+Heart attack,Lipitor,0.00040474905558553697
+Heart attack,Calan SR,0.00040474905558553697
+Heart attack,Proferrin-ES,0.00040474905558553697
+Heart attack,Warfarin,0.00040474905558553697
+Heart attack,Maxaron Forte,0.00040474905558553697
+Heart attack,Clonidine,0.00040474905558553697
+Heart attack,Procyclidine,0.00040474905558553697
+Heart attack,Magnesium oxide,0.00040474905558553697
+Heart attack,Benicar,0.00040474905558553697
+Heart attack,Norpace CR,0.00040474905558553697
+Heart attack,Chromium picolinate,0.00040474905558553697
+Heart attack,NeutraSal,0.00040474905558553697
+Heart attack,Empagliflozin / metformin,0.00040474905558553697
+Heart attack,Diflucan,0.00040474905558553697
+Heart attack,Metoprolol Tartrate,0.00040474905558553697
+Heart attack,Methotrexate,0.00040474905558553697
+Heart attack,Acetaminophen / aspirin / caffeine / salicylamide,0.00040474905558553697
+Heart attack,Valacyclovir,0.00040474905558553697
+Heart attack,Valtrex,0.00040474905558553697
+Heart attack,Tigan,0.00040474905558553697
+Heart attack,Slow Fe,0.00040474905558553697
+Heart attack,Mexiletine,0.00040474905558553697
+Heart attack,Nitroglycerin,0.0002698327037236913
+Heart attack,Rocephin,0.0002698327037236913
+Heart attack,Ramipril,0.0002698327037236913
+Heart attack,Quetiapine,0.0002698327037236913
+Heart attack,Hydroxocobalamin,0.0002698327037236913
+Heart attack,Nimodipine,0.0002698327037236913
+Heart attack,Biotene Mouthwash,0.0002698327037236913
+Heart attack,Prevalite,0.0002698327037236913
+Heart attack,Chlorambucil,0.0002698327037236913
+Heart attack,Leukeran,0.0002698327037236913
+Heart attack,Bonine,0.0002698327037236913
+Heart attack,Pravastatin,0.0002698327037236913
+Heart attack,Myleran,0.0002698327037236913
+Heart attack,Gastrocrom,0.0002698327037236913
+Heart attack,Vitafol Ultra,0.0002698327037236913
+Heart attack,Ceftriaxone,0.0002698327037236913
+Heart attack,Aldara,0.0002698327037236913
+Heart attack,Ferumoxytol,0.0002698327037236913
+Heart attack,Iclusig,0.0002698327037236913
+Heart attack,Tretinoin,0.0002698327037236913
+Heart attack,Rocaltrol,0.0002698327037236913
+Heart attack,Calcium acetate,0.0002698327037236913
+Heart attack,Norpace,0.0002698327037236913
+Heart attack,Lanthanum carbonate,0.0002698327037236913
+Heart attack,Cholestyramine,0.0002698327037236913
+Heart attack,Sucroferric oxyhydroxide,0.0002698327037236913
+Heart attack,Nabilone,0.0002698327037236913
+Heart attack,Phenelzine,0.0002698327037236913
+Heart attack,Bupropion,0.0002698327037236913
+Heart attack,Ponatinib,0.0002698327037236913
+Heart attack,Mexitil,0.0002698327037236913
+Heart attack,Omacor,0.0002698327037236913
+Heart attack,Formoterol,0.0002698327037236913
+Heart attack,Rituxan,0.0002698327037236913
+Heart attack,Memantine,0.0002698327037236913
+Heart attack,Carbatrol,0.0002698327037236913
+Heart attack,Kionex,0.0002698327037236913
+Heart attack,Feraheme,0.0002698327037236913
+Heart attack,Nardil,0.0002698327037236913
+Heart attack,Auryxia,0.0002698327037236913
+Heart attack,Ferric citrate,0.0002698327037236913
+Heart attack,Fosrenol,0.0002698327037236913
+Heart attack,Provida DHA,0.0002698327037236913
+Heart attack,Toprol-XL,0.0002698327037236913
+Heart attack,Albendazole,0.0002698327037236913
+Heart attack,Arcalyst,0.0002698327037236913
+Heart attack,Atarax,0.0002698327037236913
+Heart attack,Zoledronic acid,0.0002698327037236913
+Heart attack,Epogen,0.0002698327037236913
+Heart attack,Velphoro,0.0002698327037236913
+Heart attack,CitraNatal Assure,0.0002698327037236913
+Heart attack,SalivaMAX,0.0002698327037236913
+Heart attack,Eltrombopag,0.0002698327037236913
+Heart attack,Aquoral,0.0002698327037236913
+Heart attack,Epitol,0.0002698327037236913
+Heart attack,Onzetra Xsail,0.0002698327037236913
+Heart attack,Sodium polystyrene sulfonate,0.0002698327037236913
+Heart attack,Valproic acid,0.0002698327037236913
+Heart attack,Rilonacept,0.0002698327037236913
+Heart attack,Lithium,0.0002698327037236913
+Heart attack,Salagen,0.0002698327037236913
+Heart attack,Natelle One,0.0002698327037236913
+Heart attack,Cyclophosphamide,0.0002698327037236913
+Heart attack,ProAmatine,0.0002698327037236913
+Heart attack,PreNexa,0.0002698327037236913
+Heart attack,Amantadine,0.0002698327037236913
+Heart attack,Lipofen,0.0002698327037236913
+Heart attack,Metformin / rosiglitazone,0.0002698327037236913
+Heart attack,Kytril,0.0002698327037236913
+Heart attack,Calan,0.0002698327037236913
+Heart attack,Flagyl,0.0002698327037236913
+Heart attack,Niacin,0.0002698327037236913
+Heart attack,Catapres,0.0002698327037236913
+Heart attack,Magnesium amino acids chelate,0.0002698327037236913
+Heart attack,Busulfan,0.0002698327037236913
+Heart attack,Ciprofloxacin,0.0002698327037236913
+Heart attack,Pacerone,0.0002698327037236913
+Heart attack,Pilocarpine,0.0002698327037236913
+Heart attack,Niaspan,0.0002698327037236913
+Heart attack,Azasan,0.00013491635186184566
+Heart attack,Niacin / simvastatin,0.00013491635186184566
+Heart attack,Peppermint,0.00013491635186184566
+Heart attack,PhosLo,0.00013491635186184566
+Heart attack,Colcrys,0.00013491635186184566
+Heart attack,Feosol Original,0.00013491635186184566
+Heart attack,Fludrocortisone,0.00013491635186184566
+Heart attack,Folic acid,0.00013491635186184566
+Heart attack,Vitafol-OB+DHA,0.00013491635186184566
+Heart attack,PR Natal 400,0.00013491635186184566
+Heart attack,Leustatin,0.00013491635186184566
+Heart attack,Azithromycin,0.00013491635186184566
+Heart attack,OB Complete Gold,0.00013491635186184566
+Heart attack,Vytorin,0.00013491635186184566
+Heart attack,Fludarabine,0.00013491635186184566
+Heart attack,Pyridoxine,0.00013491635186184566
+Heart attack,Calcium carbonate,0.00013491635186184566
+Heart attack,Prinivil,0.00013491635186184566
+Heart attack,Linezolid,0.00013491635186184566
+Heart attack,Ferrlecit,0.00013491635186184566
+Heart attack,Acyclovir,0.00013491635186184566
+Heart attack,Altace,0.00013491635186184566
+Heart attack,Bosutinib,0.00013491635186184566
+Heart attack,Antara,0.00013491635186184566
+Heart attack,Clomid,0.00013491635186184566
+Heart attack,Rydapt,0.00013491635186184566
+Heart attack,Promacta,0.00013491635186184566
+Heart attack,Sodium ferric gluconate complex,0.00013491635186184566
+Heart attack,Vitamin B6,0.00013491635186184566
+Heart attack,Midostaurin,0.00013491635186184566
+Heart attack,Acetazolamide,0.00013491635186184566
+Heart attack,Cesamet,0.00013491635186184566
+Heart attack,Corgard,0.00013491635186184566
+Heart attack,Xgeva,0.00013491635186184566
+Heart attack,Imitrex Nasal,0.00013491635186184566
+Heart attack,Kenalog-40,0.00013491635186184566
+Heart attack,Dexamethasone Intensol,0.00013491635186184566
+Heart attack,Gatifloxacin,0.00013491635186184566
+Heart attack,Poly Iron,0.00013491635186184566
+Heart attack,Integra,0.00013491635186184566
+Heart attack,Betapace,0.00013491635186184566
+Heart attack,Zyvox,0.00013491635186184566
+Heart attack,Insta-Glucose,0.00013491635186184566
+Heart attack,Prenatabs FA,0.00013491635186184566
+Heart attack,Bayer Aspirin,0.00013491635186184566
+Heart attack,Furosemide,0.00013491635186184566
+Heart attack,Palonosetron,0.00013491635186184566
+Heart attack,Xanax XR,0.00013491635186184566
+Heart attack,Streptokinase,0.00013491635186184566
+Heart attack,Diazoxide,0.00013491635186184566
+Heart attack,Ferrous fumarate / iron polysaccharide,0.00013491635186184566
+Heart attack,Paxil,0.00013491635186184566
+Heart attack,Glyburide / metformin,0.00013491635186184566
+Heart attack,Proglycem,0.00013491635186184566
+Heart attack,Decadron,0.00013491635186184566
+Heart attack,Varubi,0.00013491635186184566
+Heart attack,Ginger,0.00013491635186184566
+Heart attack,Isotretinoin,0.00013491635186184566
+Heart attack,Mucomyst-10,0.00013491635186184566
+Heart attack,Concept DHA,0.00013491635186184566
+Heart attack,Antivert,0.00013491635186184566
+Heart attack,ProFe,0.00013491635186184566
+Heart attack,Xanax,0.00013491635186184566
+Heart attack,Aloxi,0.00013491635186184566
+Heart attack,Avelox,0.00013491635186184566
+Heart attack,Oxymetholone,0.00013491635186184566
+Heart attack,Bosulif,0.00013491635186184566
+Heart attack,Zinc sulfate,0.00013491635186184566
+Heart attack,Verelan,0.00013491635186184566
+Heart attack,Compro,0.00013491635186184566
+Heart attack,Mephyton,0.00013491635186184566
+Heart attack,Thorazine,0.00013491635186184566
+Heart attack,Tandem DHA,0.00013491635186184566
+Heart attack,Qudexy XR,0.00013491635186184566
+Heart attack,Simcor,0.00013491635186184566
+Heart attack,Alsuma,0.00013491635186184566
+Heart attack,Bendamustine,0.00013491635186184566
+Heart attack,Itraconazole,0.00013491635186184566
+Heart attack,Clindamycin,0.00013491635186184566
+Heart attack,Phenytoin,0.00013491635186184566
+Heart attack,Vesanoid,0.00013491635186184566
+Heart attack,Sporanox,0.00013491635186184566
+Heart attack,Quinidine,0.00013491635186184566
+Heart attack,Cladribine,0.00013491635186184566
+Heart attack,Glucose,0.00013491635186184566
+Heart attack,Norflex,0.00013491635186184566
+Heart attack,Dilantin,0.00013491635186184566
+Heart attack,Hemax,0.00013491635186184566
+Heart attack,Chlorpromazine,0.00013491635186184566
+Heart attack,Vanquish,0.00013491635186184566
+Heart attack,Sotalol,0.00013491635186184566
+Heart attack,Nimotop,0.00013491635186184566
+Heart attack,Mevacor,0.00013491635186184566
+Heart attack,Arsenic trioxide,0.00013491635186184566
+Heart attack,Zymar,0.00013491635186184566
+Heart attack,Dichlorphenamide,0.00013491635186184566
+Heart attack,Marezine,0.00013491635186184566
+Heart attack,Phytonadione,0.00013491635186184566
+Heart attack,Ferrous fumarate,0.00013491635186184566
+Heart attack,Alogliptin / metformin,0.00013491635186184566
+Heart attack,Integra F,0.00013491635186184566
+Heart attack,Neevo DHA,0.00013491635186184566
+Heart attack,Conivaptan,0.00013491635186184566
+Heart attack,Effexor XR,0.00013491635186184566
+Heart attack,Urecholine,0.00013491635186184566
+Heart attack,Bayer Children's Aspirin,0.00013491635186184566
+Heart attack,Nitrolingual Pumpspray,0.00013491635186184566
+Heart attack,Sansert,0.00013491635186184566
+Heart attack,EnLyte,0.00013491635186184566
+Heart attack,CaloMist,0.00013491635186184566
+Heart attack,Tandem,0.00013491635186184566
+Heart attack,D3,0.00013491635186184566
+Heart attack,Acetylcysteine,0.00013491635186184566
+Heart attack,Wellbutrin,0.00013491635186184566
+Heart attack,Nitro-Bid,0.00013491635186184566
+Heart attack,Cytoxan,0.00013491635186184566
+Heart attack,Aricept ODT,0.00013491635186184566
+Heart attack,Phenobarbital,0.00013491635186184566
+Heart attack,Spironolactone,0.00013491635186184566
+Heart attack,Rolapitant,0.00013491635186184566
+Heart attack,Vaprisol,0.00013491635186184566
+Heart attack,Echinacea,0.00013491635186184566
+Heart attack,Ferralet 90,0.00013491635186184566
+Heart attack,Ergomar,0.00013491635186184566
+Heart attack,Triamcinolone,0.00013491635186184566
+Heart attack,Goody's Headache Powders,0.00013491635186184566
+Heart attack,Lioresal,0.00013491635186184566
+Heart attack,Zometa,0.00013491635186184566
+Heart attack,Renagel,0.00013491635186184566
+Heart attack,Allopurinol,0.00013491635186184566
+Heart attack,Fludara,0.00013491635186184566
+Heart attack,Paroxetine,0.00013491635186184566
+Heart attack,Ezetimibe / simvastatin,0.00013491635186184566
+Heart attack,Salivart,0.00013491635186184566
+Heart attack,Bethanechol,0.00013491635186184566
+Heart attack,Altoprev,0.00013491635186184566
+Heart attack,Accutane,0.00013491635186184566
+Hepatitis B,Ledipasvir / sofosbuvir,0.2950108459869848
+Hepatitis B,Harvoni,0.29067245119305857
+Hepatitis B,Sofosbuvir / velpatasvir,0.06941431670281996
+Hepatitis B,Epclusa,0.06399132321041215
+Hepatitis B,Sofosbuvir,0.0455531453362256
+Hepatitis B,Sovaldi,0.04229934924078091
+Hepatitis B,Zepatier,0.03036876355748373
+Hepatitis B,Elbasvir / grazoprevir,0.03036876355748373
+Hepatitis B,Peginterferon alfa-2a,0.015184381778741865
+Hepatitis B,Pegasys,0.010845986984815618
+Hepatitis B,Tenofovir,0.010845986984815618
+Hepatitis B,Telaprevir,0.009761388286334056
+Hepatitis B,Daklinza,0.009761388286334056
+Hepatitis B,Daclatasvir,0.009761388286334056
+Hepatitis B,Dasabuvir / ombitasvir / paritaprevir / ritonavir,0.008676789587852495
+Hepatitis B,Viread,0.008676789587852495
+Hepatitis B,Viekira Pak,0.008676789587852495
+Hepatitis B,Ribavirin,0.007592190889370932
+Hepatitis B,Incivek,0.006507592190889371
+Hepatitis B,Simeprevir,0.0032537960954446853
+Hepatitis B,Olysio,0.0032537960954446853
+Hepatitis B,Rebetol,0.0021691973969631237
+Hepatitis B,Intron A,0.0021691973969631237
+Hepatitis B,Interferon alfa-2b,0.0021691973969631237
+Hepatitis B,Boceprevir,0.0021691973969631237
+Hepatitis B,Victrelis,0.0021691973969631237
+Hepatitis B,Lamivudine,0.0010845986984815619
+Hepatitis B,Hepatitis b adult vaccine,0.0010845986984815619
+Hepatitis B,Glecaprevir / pibrentasvir,0.0010845986984815619
+Hepatitis B,Mavyret,0.0010845986984815619
+Hepatitis B,Epivir-HBV,0.0010845986984815619
+Hepatitis B,Copegus,0.0010845986984815619
+Hepatitis B,Moderiba,0.0010845986984815619
+Hepatitis B,Ribasphere,0.0010845986984815619
+Hepatitis C,Ledipasvir / sofosbuvir,0.2953311617806732
+Hepatitis C,Harvoni,0.2909880564603692
+Hepatitis C,Sofosbuvir / velpatasvir,0.06948968512486428
+Hepatitis C,Epclusa,0.06406080347448426
+Hepatitis C,Sofosbuvir,0.04560260586319218
+Hepatitis C,Sovaldi,0.04234527687296417
+Hepatitis C,Zepatier,0.03040173724212812
+Hepatitis C,Elbasvir / grazoprevir,0.03040173724212812
+Hepatitis C,Peginterferon alfa-2a,0.01520086862106406
+Hepatitis C,Pegasys,0.010857763300760043
+Hepatitis C,Tenofovir,0.010857763300760043
+Hepatitis C,Daklinza,0.009771986970684038
+Hepatitis C,Telaprevir,0.009771986970684038
+Hepatitis C,Daclatasvir,0.009771986970684038
+Hepatitis C,Viekira Pak,0.008686210640608035
+Hepatitis C,Viread,0.008686210640608035
+Hepatitis C,Dasabuvir / ombitasvir / paritaprevir / ritonavir,0.008686210640608035
+Hepatitis C,Ribavirin,0.00760043431053203
+Hepatitis C,Incivek,0.006514657980456026
+Hepatitis C,Simeprevir,0.003257328990228013
+Hepatitis C,Olysio,0.003257328990228013
+Hepatitis C,Boceprevir,0.002171552660152009
+Hepatitis C,Victrelis,0.002171552660152009
+Hepatitis C,Rebetol,0.002171552660152009
+Hepatitis C,Interferon alfa-2b,0.002171552660152009
+Hepatitis C,Intron A,0.002171552660152009
+Hepatitis C,Moderiba,0.0010857763300760044
+Hepatitis C,Epivir-HBV,0.0010857763300760044
+Hepatitis C,Copegus,0.0010857763300760044
+Hepatitis C,Mavyret,0.0010857763300760044
+Hepatitis C,Glecaprevir / pibrentasvir,0.0010857763300760044
+Hepatitis C,Lamivudine,0.0010857763300760044
+Hepatitis C,Ribasphere,0.0010857763300760044
+Hepatitis D,Ledipasvir / sofosbuvir,0.2953311617806732
+Hepatitis D,Harvoni,0.2909880564603692
+Hepatitis D,Sofosbuvir / velpatasvir,0.06948968512486428
+Hepatitis D,Epclusa,0.06406080347448426
+Hepatitis D,Sofosbuvir,0.04560260586319218
+Hepatitis D,Sovaldi,0.04234527687296417
+Hepatitis D,Zepatier,0.03040173724212812
+Hepatitis D,Elbasvir / grazoprevir,0.03040173724212812
+Hepatitis D,Peginterferon alfa-2a,0.01520086862106406
+Hepatitis D,Pegasys,0.010857763300760043
+Hepatitis D,Tenofovir,0.010857763300760043
+Hepatitis D,Daklinza,0.009771986970684038
+Hepatitis D,Telaprevir,0.009771986970684038
+Hepatitis D,Daclatasvir,0.009771986970684038
+Hepatitis D,Viekira Pak,0.008686210640608035
+Hepatitis D,Viread,0.008686210640608035
+Hepatitis D,Dasabuvir / ombitasvir / paritaprevir / ritonavir,0.008686210640608035
+Hepatitis D,Ribavirin,0.00760043431053203
+Hepatitis D,Incivek,0.006514657980456026
+Hepatitis D,Simeprevir,0.003257328990228013
+Hepatitis D,Olysio,0.003257328990228013
+Hepatitis D,Boceprevir,0.002171552660152009
+Hepatitis D,Victrelis,0.002171552660152009
+Hepatitis D,Rebetol,0.002171552660152009
+Hepatitis D,Interferon alfa-2b,0.002171552660152009
+Hepatitis D,Intron A,0.002171552660152009
+Hepatitis D,Moderiba,0.0010857763300760044
+Hepatitis D,Epivir-HBV,0.0010857763300760044
+Hepatitis D,Copegus,0.0010857763300760044
+Hepatitis D,Mavyret,0.0010857763300760044
+Hepatitis D,Glecaprevir / pibrentasvir,0.0010857763300760044
+Hepatitis D,Lamivudine,0.0010857763300760044
+Hepatitis D,Ribasphere,0.0010857763300760044
+Hepatitis E,Ledipasvir / sofosbuvir,0.2953311617806732
+Hepatitis E,Harvoni,0.2909880564603692
+Hepatitis E,Sofosbuvir / velpatasvir,0.06948968512486428
+Hepatitis E,Epclusa,0.06406080347448426
+Hepatitis E,Sofosbuvir,0.04560260586319218
+Hepatitis E,Sovaldi,0.04234527687296417
+Hepatitis E,Zepatier,0.03040173724212812
+Hepatitis E,Elbasvir / grazoprevir,0.03040173724212812
+Hepatitis E,Peginterferon alfa-2a,0.01520086862106406
+Hepatitis E,Pegasys,0.010857763300760043
+Hepatitis E,Tenofovir,0.010857763300760043
+Hepatitis E,Daklinza,0.009771986970684038
+Hepatitis E,Telaprevir,0.009771986970684038
+Hepatitis E,Daclatasvir,0.009771986970684038
+Hepatitis E,Viekira Pak,0.008686210640608035
+Hepatitis E,Viread,0.008686210640608035
+Hepatitis E,Dasabuvir / ombitasvir / paritaprevir / ritonavir,0.008686210640608035
+Hepatitis E,Ribavirin,0.00760043431053203
+Hepatitis E,Incivek,0.006514657980456026
+Hepatitis E,Simeprevir,0.003257328990228013
+Hepatitis E,Olysio,0.003257328990228013
+Hepatitis E,Boceprevir,0.002171552660152009
+Hepatitis E,Victrelis,0.002171552660152009
+Hepatitis E,Rebetol,0.002171552660152009
+Hepatitis E,Interferon alfa-2b,0.002171552660152009
+Hepatitis E,Intron A,0.002171552660152009
+Hepatitis E,Moderiba,0.0010857763300760044
+Hepatitis E,Epivir-HBV,0.0010857763300760044
+Hepatitis E,Copegus,0.0010857763300760044
+Hepatitis E,Mavyret,0.0010857763300760044
+Hepatitis E,Glecaprevir / pibrentasvir,0.0010857763300760044
+Hepatitis E,Lamivudine,0.0010857763300760044
+Hepatitis E,Ribasphere,0.0010857763300760044
+Hypertension,Lisinopril,0.10876975519057949
+Hypertension,Losartan,0.06817477533312674
+Hypertension,Amlodipine,0.06693523396343352
+Hypertension,Nebivolol,0.04307406259683917
+Hypertension,Bystolic,0.041524635884722653
+Hypertension,Metoprolol,0.039975209172606135
+Hypertension,Olmesartan,0.02912922218779052
+Hypertension,Hydrochlorothiazide,0.028199566160520606
+Hypertension,Atenolol,0.025100712736287573
+Hypertension,Benicar,0.02479082739386427
+Hypertension,Valsartan,0.02479082739386427
+Hypertension,Norvasc,0.01735357917570499
+Hypertension,Amlodipine / olmesartan,0.01642392314843508
+Hypertension,Azor,0.01642392314843508
+Hypertension,Diovan,0.016114037806011776
+Hypertension,Carvedilol,0.01456461109389526
+Hypertension,Cozaar,0.014254725751471955
+Hypertension,Irbesartan,0.014254725751471955
+Hypertension,Clonidine,0.013634955066625348
+Hypertension,Ramipril,0.013634955066625348
+Hypertension,Exforge,0.012085528354508832
+Hypertension,Hydrochlorothiazide / lisinopril,0.012085528354508832
+Hypertension,Hydrochlorothiazide / losartan,0.011155872327238922
+Hypertension,Amlodipine / benazepril,0.008986674930275797
+Hypertension,Diltiazem,0.008676789587852495
+Hypertension,Telmisartan,0.008676789587852495
+Hypertension,Hydrochlorothiazide / triamterene,0.008676789587852495
+Hypertension,Avapro,0.008057018903005888
+Hypertension,Toprol-XL,0.008057018903005888
+Hypertension,Nifedipine,0.0077471335605825845
+Hypertension,Bisoprolol / hydrochlorothiazide,0.007437248218159281
+Hypertension,Micardis,0.007437248218159281
+Hypertension,Hydrochlorothiazide / olmesartan,0.007437248218159281
+Hypertension,Tekturna,0.007127362875735978
+Hypertension,Aliskiren,0.007127362875735978
+Hypertension,Benicar HCT,0.007127362875735978
+Hypertension,Spironolactone,0.006507592190889371
+Hypertension,Propranolol,0.006197706848466067
+Hypertension,Lotrel,0.005887821506042764
+Hypertension,Diovan HCT,0.005577936163619461
+Hypertension,Hydralazine,0.005577936163619461
+Hypertension,Hydrochlorothiazide / valsartan,0.005577936163619461
+Hypertension,Azilsartan medoxomil,0.005268050821196158
+Hypertension,Hyzaar,0.004648280136349551
+Hypertension,Amlodipine / hydrochlorothiazide / olmesartan,0.004648280136349551
+Hypertension,Candesartan,0.004648280136349551
+Hypertension,Tribenzor,0.004648280136349551
+Hypertension,Edarbi,0.004338394793926247
+Hypertension,Ziac,0.004338394793926247
+Hypertension,Coreg,0.004028509451502944
+Hypertension,Hydrochlorothiazide / telmisartan,0.0037186241090796405
+Hypertension,Azilsartan medoxomil / chlorthalidone,0.003408738766656337
+Hypertension,Benazepril,0.003408738766656337
+Hypertension,Edarbyclor,0.003408738766656337
+Hypertension,Micardis HCT,0.003408738766656337
+Hypertension,Perindopril,0.0030988534242330336
+Hypertension,Treprostinil,0.0030988534242330336
+Hypertension,Ambrisentan,0.0030988534242330336
+Hypertension,Verapamil,0.0027889680818097306
+Hypertension,Doxazosin,0.0027889680818097306
+Hypertension,Letairis,0.0027889680818097306
+Hypertension,Guanfacine,0.0027889680818097306
+Hypertension,Zestril,0.0027889680818097306
+Hypertension,Tyvaso,0.0027889680818097306
+Hypertension,Tenormin,0.0027889680818097306
+Hypertension,Prinivil,0.002479082739386427
+Hypertension,Terazosin,0.002479082739386427
+Hypertension,Sildenafil,0.002479082739386427
+Hypertension,Lopressor,0.002479082739386427
+Hypertension,Enalapril,0.002479082739386427
+Hypertension,Furosemide,0.002479082739386427
+Hypertension,Revatio,0.002479082739386427
+Hypertension,Valturna,0.002479082739386427
+Hypertension,Prazosin,0.0021691973969631237
+Hypertension,Amlodipine / telmisartan,0.0018593120545398203
+Hypertension,Bisoprolol,0.0018593120545398203
+Hypertension,Inderal,0.0018593120545398203
+Hypertension,Selexipag,0.0018593120545398203
+Hypertension,Hydrochlorothiazide / irbesartan,0.0018593120545398203
+Hypertension,Altace,0.0018593120545398203
+Hypertension,Chlorthalidone,0.0018593120545398203
+Hypertension,Twynsta,0.0018593120545398203
+Hypertension,Dyazide,0.0015494267121165168
+Hypertension,Atacand,0.0015494267121165168
+Hypertension,Lasix,0.0015494267121165168
+Hypertension,Felodipine,0.0015494267121165168
+Hypertension,Uptravi,0.0015494267121165168
+Hypertension,Cartia XT,0.0015494267121165168
+Hypertension,Adcirca,0.0015494267121165168
+Hypertension,Avalide,0.0015494267121165168
+Hypertension,Catapres-TTS,0.0015494267121165168
+Hypertension,Metoprolol Tartrate,0.0015494267121165168
+Hypertension,Tadalafil,0.0015494267121165168
+Hypertension,Latanoprost,0.0012395413696932136
+Hypertension,Zestoretic,0.0012395413696932136
+Hypertension,Tekturna HCT,0.0012395413696932136
+Hypertension,Midodrine,0.0012395413696932136
+Hypertension,Exforge HCT,0.0012395413696932136
+Hypertension,Methyldopa,0.0012395413696932136
+Hypertension,Eplerenone,0.0012395413696932136
+Hypertension,Aliskiren / hydrochlorothiazide,0.0012395413696932136
+Hypertension,Atenolol / chlorthalidone,0.0012395413696932136
+Hypertension,Cardizem,0.0012395413696932136
+Hypertension,Quinapril,0.0012395413696932136
+Hypertension,Amlodipine / atorvastatin,0.0009296560272699101
+Hypertension,Captopril,0.0009296560272699101
+Hypertension,Hytrin,0.0009296560272699101
+Hypertension,Minoxidil,0.0009296560272699101
+Hypertension,Aldactone,0.0009296560272699101
+Hypertension,Reserpine,0.0009296560272699101
+Hypertension,Lotensin,0.0009296560272699101
+Hypertension,Xalatan,0.0009296560272699101
+Hypertension,Tafluprost,0.0009296560272699101
+Hypertension,Trandolapril / verapamil,0.0009296560272699101
+Hypertension,Procardia XL,0.0009296560272699101
+Hypertension,Nifedical XL,0.0009296560272699101
+Hypertension,Coreg CR,0.0009296560272699101
+Hypertension,Tenex,0.0009296560272699101
+Hypertension,Tarka,0.0009296560272699101
+Hypertension,Moexipril,0.0006197706848466068
+Hypertension,Fosinopril,0.0006197706848466068
+Hypertension,Acebutolol,0.0006197706848466068
+Hypertension,Minipress,0.0006197706848466068
+Hypertension,Epoprostenol,0.0006197706848466068
+Hypertension,Univasc,0.0006197706848466068
+Hypertension,Macitentan,0.0006197706848466068
+Hypertension,Sectral,0.0006197706848466068
+Hypertension,Bimatoprost,0.0006197706848466068
+Hypertension,Bosentan,0.0006197706848466068
+Hypertension,Brimonidine / timolol,0.0006197706848466068
+Hypertension,Opsumit,0.0006197706848466068
+Hypertension,Combigan,0.0006197706848466068
+Hypertension,Caduet,0.0006197706848466068
+Hypertension,Zioptan,0.0006197706848466068
+Hypertension,Flolan,0.0006197706848466068
+Hypertension,Maxzide,0.0006197706848466068
+Hypertension,Tracleer,0.0006197706848466068
+Hypertension,Travoprost,0.0006197706848466068
+Hypertension,Travatan Z,0.0003098853424233034
+Hypertension,Uniretic,0.0003098853424233034
+Hypertension,Verelan PM,0.0003098853424233034
+Hypertension,Amlodipine / valsartan,0.0003098853424233034
+Hypertension,Cardura,0.0003098853424233034
+Hypertension,Calan SR,0.0003098853424233034
+Hypertension,Norepinephrine,0.0003098853424233034
+Hypertension,Brimonidine,0.0003098853424233034
+Hypertension,Timolol,0.0003098853424233034
+Hypertension,Microzide,0.0003098853424233034
+Hypertension,Levophed,0.0003098853424233034
+Hypertension,Riociguat,0.0003098853424233034
+Hypertension,Midamor,0.0003098853424233034
+Hypertension,Benazepril / hydrochlorothiazide,0.0003098853424233034
+Hypertension,Nadolol,0.0003098853424233034
+Hypertension,Aldomet,0.0003098853424233034
+Hypertension,Adalat CC,0.0003098853424233034
+Hypertension,Hydralazine / hydrochlorothiazide / reserpine,0.0003098853424233034
+Hypertension,Pindolol,0.0003098853424233034
+Hypertension,Labetalol,0.0003098853424233034
+Hypertension,Plendil,0.0003098853424233034
+Hypertension,Hydrochlorothiazide / moexipril,0.0003098853424233034
+Hypertension,Hydrochlorothiazide / spironolactone,0.0003098853424233034
+Hypertension,Prinzide,0.0003098853424233034
+Hypertension,Nitro-Dur,0.0003098853424233034
+Hypertension,Monopril,0.0003098853424233034
+Hypertension,Timoptic,0.0003098853424233034
+Hypertension,Cardizem LA,0.0003098853424233034
+Hypertension,Adempas,0.0003098853424233034
+Hypertension,Inderal LA,0.0003098853424233034
+Hypertension,Nitroglycerin,0.0003098853424233034
+Hypertension,Normodyne,0.0003098853424233034
+Hypertension,Corgard,0.0003098853424233034
+Hypertension,Remodulin,0.0003098853424233034
+Hypertension,Torsemide,0.0003098853424233034
+Hypertension,Corzide 80 / 5,0.0003098853424233034
+Hypertension,Tenoretic 50,0.0003098853424233034
+Hypertension,Bendroflumethiazide / nadolol,0.0003098853424233034
+Hypertension,Amiloride,0.0003098853424233034
+Hypertension,Inspra,0.0003098853424233034
+Hypertension,Aldactazide,0.0003098853424233034
+Hypertension,Lumigan,0.0003098853424233034
+Hypertension,Indapamide,0.0003098853424233034
+Hypertension,Travatan,0.0003098853424233034
+Hyperthyroidism,Methimazole,0.46153846153846156
+Hyperthyroidism,Calcitriol,0.11538461538461539
+Hyperthyroidism,Parathyroid hormone,0.11538461538461539
+Hyperthyroidism,Natpara,0.11538461538461539
+Hyperthyroidism,Teriparatide,0.038461538461538464
+Hyperthyroidism,Tapazole,0.038461538461538464
+Hyperthyroidism,Potassium iodide,0.038461538461538464
+Hyperthyroidism,Pima,0.038461538461538464
+Hyperthyroidism,Forteo,0.038461538461538464
+Hypoglycemia,Calcitriol,0.36363636363636365
+Hypoglycemia,Rocaltrol,0.18181818181818182
+Hypoglycemia,Glucose,0.09090909090909091
+Hypoglycemia,Proglycem,0.09090909090909091
+Hypoglycemia,Insta-Glucose,0.09090909090909091
+Hypoglycemia,Diazoxide,0.09090909090909091
+Hypoglycemia,Calcium carbonate,0.09090909090909091
+Hypothyroidism,Methimazole,0.46153846153846156
+Hypothyroidism,Calcitriol,0.11538461538461539
+Hypothyroidism,Parathyroid hormone,0.11538461538461539
+Hypothyroidism,Natpara,0.11538461538461539
+Hypothyroidism,Teriparatide,0.038461538461538464
+Hypothyroidism,Tapazole,0.038461538461538464
+Hypothyroidism,Potassium iodide,0.038461538461538464
+Hypothyroidism,Pima,0.038461538461538464
+Hypothyroidism,Forteo,0.038461538461538464
+Impetigo,Retapamulin,0.46153846153846156
+Impetigo,Altabax,0.46153846153846156
+Impetigo,Mupirocin,0.07692307692307693
+Jaundice,Phenobarbital,1.0
+Malaria,Malarone,0.27058823529411763
+Malaria,Atovaquone / proguanil,0.27058823529411763
+Malaria,Mefloquine,0.1411764705882353
+Malaria,Lariam,0.08235294117647059
+Malaria,Doxycycline,0.07058823529411765
+Malaria,Coartem,0.03529411764705882
+Malaria,Artemether / lumefantrine,0.03529411764705882
+Malaria,Daraprim,0.011764705882352941
+Malaria,Pyrimethamine / sulfadoxine,0.011764705882352941
+Malaria,Doxy 100,0.011764705882352941
+Malaria,Pyrimethamine,0.011764705882352941
+Malaria,Fansidar,0.011764705882352941
+Malaria,Halofantrine,0.011764705882352941
+Malaria,Atovaquone,0.011764705882352941
+Malaria,Halfan,0.011764705882352941
+Migraine,Topiramate,0.10545366795366795
+Migraine,Topamax,0.06805019305019305
+Migraine,Sumatriptan,0.06563706563706563
+Migraine,Amitriptyline,0.05888030888030888
+Migraine,Rizatriptan,0.04922779922779923
+Migraine,Nortriptyline,0.03523166023166023
+Migraine,Propranolol,0.03426640926640927
+Migraine,Imitrex,0.03088803088803089
+Migraine,Eletriptan,0.027992277992277992
+Migraine,Relpax,0.02750965250965251
+Migraine,Acetaminophen / aspirin / caffeine,0.024855212355212354
+Migraine,Zolmitriptan,0.022683397683397683
+Migraine,Maxalt,0.022442084942084942
+Migraine,Naproxen / sumatriptan,0.021476833976833976
+Migraine,Metoclopramide,0.020994208494208494
+Migraine,OnabotulinumtoxinA,0.020511583011583012
+Migraine,Botox,0.02002895752895753
+Migraine,Treximet,0.019787644787644786
+Migraine,Gabapentin,0.01833976833976834
+Migraine,Zomig,0.01447876447876448
+Migraine,Maxalt-MLT,0.01447876447876448
+Migraine,Divalproex sodium,0.014237451737451737
+Migraine,Aspirin / butalbital / caffeine,0.013513513513513514
+Migraine,Reglan,0.013513513513513514
+Migraine,Fiorinal,0.009893822393822393
+Migraine,Verapamil,0.009652509652509652
+Migraine,Frovatriptan,0.009411196911196911
+Migraine,Elavil,0.008928571428571428
+Migraine,Frova,0.008687258687258687
+Migraine,Sumavel DosePro,0.008687258687258687
+Migraine,Diclofenac,0.0074806949806949805
+Migraine,Depakote,0.00723938223938224
+Migraine,Naratriptan,0.00723938223938224
+Migraine,Almotriptan,0.006756756756756757
+Migraine,Inderal,0.0065154440154440154
+Migraine,Cyclobenzaprine,0.0065154440154440154
+Migraine,Amlodipine,0.006274131274131274
+Migraine,Cyproheptadine,0.006274131274131274
+Migraine,Axert,0.006032818532818533
+Migraine,Dihydroergotamine,0.006032818532818533
+Migraine,Cambia,0.006032818532818533
+Migraine,Zonisamide,0.006032818532818533
+Migraine,Amerge,0.004826254826254826
+Migraine,Depakote ER,0.004826254826254826
+Migraine,Atenolol,0.004584942084942085
+Migraine,Clonazepam,0.004584942084942085
+Migraine,Caffeine / ergotamine,0.004102316602316602
+Migraine,Neurontin,0.003861003861003861
+Migraine,Migranal,0.003861003861003861
+Migraine,Lisinopril,0.003861003861003861
+Migraine,Imitrex Statdose,0.00361969111969112
+Migraine,Nadolol,0.0033783783783783786
+Migraine,Zonegran,0.003137065637065637
+Migraine,Excedrin,0.003137065637065637
+Migraine,Metoprolol,0.0028957528957528956
+Migraine,Zomig-ZMT,0.0028957528957528956
+Migraine,Pregabalin,0.0026544401544401543
+Migraine,Flexeril,0.0026544401544401543
+Migraine,Baclofen,0.002413127413127413
+Migraine,Butalbital Compound,0.002171814671814672
+Migraine,Lamotrigine,0.002171814671814672
+Migraine,Inderal LA,0.0019305019305019305
+Migraine,Pamelor,0.0019305019305019305
+Migraine,Cafergot,0.0019305019305019305
+Migraine,Methylergonovine,0.0016891891891891893
+Migraine,Migergot,0.0014478764478764478
+Migraine,Candesartan,0.0014478764478764478
+Migraine,Methergine,0.0014478764478764478
+Migraine,Orphenadrine,0.0014478764478764478
+Migraine,Lyrica,0.0012065637065637065
+Migraine,Klonopin,0.0012065637065637065
+Migraine,Norvasc,0.0009652509652509653
+Migraine,D.H.E. 45,0.0009652509652509653
+Migraine,Olmesartan,0.0009652509652509653
+Migraine,Amrix,0.0009652509652509653
+Migraine,Zecuity,0.0009652509652509653
+Migraine,Venlafaxine,0.0009652509652509653
+Migraine,Riboflavin,0.0009652509652509653
+Migraine,Vitamin B2,0.0009652509652509653
+Migraine,InnoPran XL,0.0009652509652509653
+Migraine,Ergotamine,0.0007239382239382239
+Migraine,Clonidine,0.0007239382239382239
+Migraine,Goody's Extra-Strength Headache Powders,0.0007239382239382239
+Migraine,Acetaminophen / aspirin / caffeine / salicylamide,0.0007239382239382239
+Migraine,Benicar,0.0007239382239382239
+Migraine,Calan SR,0.00048262548262548264
+Migraine,Nardil,0.00048262548262548264
+Migraine,Catapres,0.00048262548262548264
+Migraine,Phenelzine,0.00048262548262548264
+Migraine,Valproic acid,0.00048262548262548264
+Migraine,Tenormin,0.00048262548262548264
+Migraine,Memantine,0.00048262548262548264
+Migraine,Calan,0.00048262548262548264
+Migraine,Onzetra Xsail,0.00048262548262548264
+Migraine,Bupropion,0.00048262548262548264
+Migraine,Alsuma,0.00024131274131274132
+Migraine,Wellbutrin,0.00024131274131274132
+Migraine,Verelan,0.00024131274131274132
+Migraine,Prinivil,0.00024131274131274132
+Migraine,Corgard,0.00024131274131274132
+Migraine,Nimodipine,0.00024131274131274132
+Migraine,Sansert,0.00024131274131274132
+Migraine,Ergomar,0.00024131274131274132
+Migraine,Norflex,0.00024131274131274132
+Migraine,Vanquish,0.00024131274131274132
+Migraine,Qudexy XR,0.00024131274131274132
+Migraine,Lioresal,0.00024131274131274132
+Migraine,Goody's Headache Powders,0.00024131274131274132
+Migraine,Imitrex Nasal,0.00024131274131274132
+Osteoarthristis,Sodium hyaluronate,0.0984009840098401
+Osteoarthristis,Diclofenac,0.08548585485854858
+Osteoarthristis,Euflexxa,0.07933579335793357
+Osteoarthristis,Hylan g-f 20,0.07134071340713408
+Osteoarthristis,Meloxicam,0.07134071340713408
+Osteoarthristis,Hyaluronan,0.06888068880688807
+Osteoarthristis,Orthovisc,0.06211562115621156
+Osteoarthristis,Synvisc-One,0.04858548585485855
+Osteoarthristis,Celecoxib,0.037515375153751536
+Osteoarthristis,Celebrex,0.03505535055350553
+Osteoarthristis,Voltaren Gel,0.03013530135301353
+Osteoarthristis,Mobic,0.025215252152521524
+Osteoarthristis,Naproxen,0.02152521525215252
+Osteoarthristis,Synvisc,0.02029520295202952
+Osteoarthristis,Voltaren,0.015990159901599015
+Osteoarthristis,Diclofenac / misoprostol,0.015375153751537515
+Osteoarthristis,Supartz,0.013530135301353014
+Osteoarthristis,Cymbalta,0.012915129151291513
+Osteoarthristis,Duloxetine,0.012915129151291513
+Osteoarthristis,Arthrotec,0.01107011070110701
+Osteoarthristis,Pennsaid,0.00984009840098401
+Osteoarthristis,Etodolac,0.00984009840098401
+Osteoarthristis,Capsaicin,0.00922509225092251
+Osteoarthristis,Esomeprazole / naproxen,0.007380073800738007
+Osteoarthristis,Famotidine / ibuprofen,0.006765067650676507
+Osteoarthristis,Nabumetone,0.006765067650676507
+Osteoarthristis,Vimovo,0.005535055350553505
+Osteoarthristis,Duexis,0.005535055350553505
+Osteoarthristis,Triamcinolone,0.005535055350553505
+Osteoarthristis,Bioflavonoids,0.0036900369003690036
+Osteoarthristis,Prednisone,0.0036900369003690036
+Osteoarthristis,Limbrel,0.0036900369003690036
+Osteoarthristis,Piroxicam,0.0036900369003690036
+Osteoarthristis,Methylprednisolone,0.0036900369003690036
+Osteoarthristis,Methyl salicylate,0.0036900369003690036
+Osteoarthristis,Lodine,0.0036900369003690036
+Osteoarthristis,Naprelan,0.003075030750307503
+Osteoarthristis,Naprosyn,0.003075030750307503
+Osteoarthristis,Salonpas Pain Patch,0.003075030750307503
+Osteoarthristis,Relafen,0.003075030750307503
+Osteoarthristis,Chondroitin / glucosamine,0.0024600246002460025
+Osteoarthristis,Zorvolex,0.0024600246002460025
+Osteoarthristis,Kenalog-40,0.0024600246002460025
+Osteoarthristis,Aleve,0.0024600246002460025
+Osteoarthristis,Trolamine salicylate,0.0024600246002460025
+Osteoarthristis,Feldene,0.0024600246002460025
+Osteoarthristis,Monovisc,0.0018450184501845018
+Osteoarthristis,Oxaprozin,0.0018450184501845018
+Osteoarthristis,Acetaminophen / codeine,0.0018450184501845018
+Osteoarthristis,Ketoprofen,0.0018450184501845018
+Osteoarthristis,Bextra,0.0018450184501845018
+Osteoarthristis,Chondroitin / glucosamine / methylsulfonylmethane,0.0018450184501845018
+Osteoarthristis,S-adenosylmethionine,0.0018450184501845018
+Osteoarthristis,Valdecoxib,0.0018450184501845018
+Osteoarthristis,Sulindac,0.0018450184501845018
+Osteoarthristis,Indomethacin,0.0018450184501845018
+Osteoarthristis,Depo-Medrol,0.0012300123001230013
+Osteoarthristis,Diflunisal,0.0012300123001230013
+Osteoarthristis,Kenalog-10,0.0012300123001230013
+Osteoarthristis,Capzasin-P,0.0012300123001230013
+Osteoarthristis,Zostrix,0.0012300123001230013
+Osteoarthristis,Acetaminophen / aspirin / caffeine,0.0012300123001230013
+Osteoarthristis,Ibuprofen,0.0012300123001230013
+Osteoarthristis,Cataflam,0.0012300123001230013
+Osteoarthristis,Capzasin-HP,0.0012300123001230013
+Osteoarthristis,Salsalate,0.0012300123001230013
+Osteoarthristis,Aspirin,0.0012300123001230013
+Osteoarthristis,Tylenol with Codeine #3,0.0012300123001230013
+Osteoarthristis,Indocin,0.0012300123001230013
+Osteoarthristis,Osteo Bi-Flex,0.0006150061500615006
+Osteoarthristis,Bioflavonoids / zinc glycinate,0.0006150061500615006
+Osteoarthristis,Disalcid,0.0006150061500615006
+Osteoarthristis,Tylenol with Codeine #4,0.0006150061500615006
+Osteoarthristis,Dolobid,0.0006150061500615006
+Osteoarthristis,Glucosamine,0.0006150061500615006
+Osteoarthristis,Excedrin,0.0006150061500615006
+Osteoarthristis,Solu-Medrol,0.0006150061500615006
+Osteoarthristis,Daypro,0.0006150061500615006
+Osteoarthristis,Limbrel 500,0.0006150061500615006
+Osteoarthristis,Acetaminophen / propoxyphene,0.0006150061500615006
+Osteoarthristis,Anaprox,0.0006150061500615006
+Osteoarthristis,Medrol Dosepak,0.0006150061500615006
+Osteoarthristis,Hyalgan,0.0006150061500615006
+Osteoarthristis,Motrin,0.0006150061500615006
+Paralysis (brain hemorrhage),Aspirin / dipyridamole,0.2692307692307692
+Paralysis (brain hemorrhage),Aggrenox,0.2692307692307692
+Paralysis (brain hemorrhage),Clopidogrel,0.15384615384615385
+Paralysis (brain hemorrhage),Plavix,0.1346153846153846
+Paralysis (brain hemorrhage),Apixaban,0.038461538461538464
+Paralysis (brain hemorrhage),Clonazepam,0.038461538461538464
+Paralysis (brain hemorrhage),Eliquis,0.038461538461538464
+Paralysis (brain hemorrhage),Nimotop,0.019230769230769232
+Paralysis (brain hemorrhage),Aspirin,0.019230769230769232
+Paralysis (brain hemorrhage),Nimodipine,0.019230769230769232
+Pneumonia,Levofloxacin,0.23655913978494625
+Pneumonia,Levaquin,0.13709677419354838
+Pneumonia,Moxifloxacin,0.09946236559139784
+Pneumonia,Avelox,0.08870967741935484
+Pneumonia,Clarithromycin,0.08602150537634409
+Pneumonia,Doxycycline,0.06720430107526881
+Pneumonia,Azithromycin,0.043010752688172046
+Pneumonia,Ceftriaxone,0.03763440860215054
+Pneumonia,Rocephin,0.03763440860215054
+Pneumonia,Amoxicillin / clavulanate,0.013440860215053764
+Pneumonia,Cefuroxime,0.013440860215053764
+Pneumonia,Amoxicillin,0.010752688172043012
+Pneumonia,Ceftin,0.010752688172043012
+Pneumonia,Biaxin XL,0.010752688172043012
+Pneumonia,Augmentin,0.008064516129032258
+Pneumonia,Cefdinir,0.008064516129032258
+Pneumonia,Biaxin,0.005376344086021506
+Pneumonia,Clindamycin,0.005376344086021506
+Pneumonia,Cefprozil,0.005376344086021506
+Pneumonia,Vancomycin,0.005376344086021506
+Pneumonia,Omnicef,0.005376344086021506
+Pneumonia,Factive,0.005376344086021506
+Pneumonia,Azithromycin Dose Pack,0.005376344086021506
+Pneumonia,Gemifloxacin,0.005376344086021506
+Pneumonia,Zithromax,0.005376344086021506
+Pneumonia,Amoxil,0.005376344086021506
+Pneumonia,Cefpodoxime,0.002688172043010753
+Pneumonia,Vantin,0.002688172043010753
+Pneumonia,Metronidazole,0.002688172043010753
+Pneumonia,Piperacillin / tazobactam,0.002688172043010753
+Pneumonia,Ciprofloxacin,0.002688172043010753
+Pneumonia,Fluconazole,0.002688172043010753
+Pneumonia,Zyvox,0.002688172043010753
+Pneumonia,Cefixime,0.002688172043010753
+Pneumonia,Penicillin VK,0.002688172043010753
+Pneumonia,Cefzil,0.002688172043010753
+Pneumonia,Linezolid,0.002688172043010753
+Pneumonia,Penicillin v potassium,0.002688172043010753
+Pneumonia,Lansoprazole,0.002688172043010753
+Pneumonia,Flagyl,0.002688172043010753
+Psoriasis,Apremilast,0.10195758564437195
+Psoriasis,Otezla,0.100326264274062
+Psoriasis,Adalimumab,0.07748776508972267
+Psoriasis,Humira,0.0766721044045677
+Psoriasis,Ustekinumab,0.07259380097879282
+Psoriasis,Stelara,0.07177814029363784
+Psoriasis,Methotrexate,0.05301794453507341
+Psoriasis,Betamethasone / calcipotriene,0.037520391517128875
+Psoriasis,Clobetasol,0.0367047308319739
+Psoriasis,Taclonex,0.02773246329526917
+Psoriasis,Etanercept,0.026916802610114192
+Psoriasis,Enbrel,0.02528548123980424
+Psoriasis,Ixekizumab,0.024469820554649267
+Psoriasis,Taltz,0.02365415986949429
+Psoriasis,Secukinumab,0.02365415986949429
+Psoriasis,Cosentyx,0.021207177814029365
+Psoriasis,Clobex,0.017128874388254486
+Psoriasis,Calcipotriene,0.012234910277324634
+Psoriasis,Mometasone,0.011419249592169658
+Psoriasis,Fluocinonide,0.011419249592169658
+Psoriasis,Dovonex,0.009787928221859706
+Psoriasis,Acitretin,0.009787928221859706
+Psoriasis,Elocon,0.00897226753670473
+Psoriasis,Triamcinolone,0.00897226753670473
+Psoriasis,Halobetasol,0.00897226753670473
+Psoriasis,Coal tar,0.008156606851549755
+Psoriasis,Desoximetasone,0.0065252854812398045
+Psoriasis,Olux,0.005709624796084829
+Psoriasis,Soriatane,0.005709624796084829
+Psoriasis,Psoriasin,0.004893964110929853
+Psoriasis,Kenalog,0.004078303425774877
+Psoriasis,Vectical,0.0032626427406199023
+Psoriasis,Calcitriol,0.0032626427406199023
+Psoriasis,Desonide,0.0032626427406199023
+Psoriasis,Taclonex Scalp,0.0032626427406199023
+Psoriasis,Flurandrenolide,0.0032626427406199023
+Psoriasis,Lidex,0.0032626427406199023
+Psoriasis,Siliq,0.0024469820554649264
+Psoriasis,Cyclosporine,0.0024469820554649264
+Psoriasis,Infliximab,0.0024469820554649264
+Psoriasis,Topicort,0.0024469820554649264
+Psoriasis,Enstilar,0.0024469820554649264
+Psoriasis,Brodalumab,0.0024469820554649264
+Psoriasis,Cordran Tape,0.0024469820554649264
+Psoriasis,Temovate,0.0016313213703099511
+Psoriasis,Prednisone,0.0016313213703099511
+Psoriasis,Tazarotene,0.0016313213703099511
+Psoriasis,Tazorac,0.0016313213703099511
+Psoriasis,Hydrocortisone,0.0016313213703099511
+Psoriasis,Remicade,0.0016313213703099511
+Psoriasis,MG217 Medicated Tar,0.0016313213703099511
+Psoriasis,Betamethasone,0.0016313213703099511
+Psoriasis,Anucort-HC,0.0008156606851549756
+Psoriasis,Neoral,0.0008156606851549756
+Psoriasis,Dexamethasone,0.0008156606851549756
+Psoriasis,Hydrocortisone / pramoxine,0.0008156606851549756
+Psoriasis,Pramosone,0.0008156606851549756
+Psoriasis,Ammonium lactate / halobetasol,0.0008156606851549756
+Psoriasis,Amevive,0.0008156606851549756
+Psoriasis,Scytera,0.0008156606851549756
+Psoriasis,Ultravate,0.0008156606851549756
+Psoriasis,Kenalog-10,0.0008156606851549756
+Psoriasis,Coal tar / salicylic acid / sulfur,0.0008156606851549756
+Psoriasis,Embeline,0.0008156606851549756
+Psoriasis,Clocortolone,0.0008156606851549756
+Psoriasis,Alefacept,0.0008156606851549756
+Psoriasis,Topicort LP,0.0008156606851549756
+Psoriasis,DesOwen,0.0008156606851549756
+Psoriasis,Cloderm,0.0008156606851549756
+Psoriasis,Alclometasone,0.0008156606851549756
+Psoriasis,Kenalog-40,0.0008156606851549756
+Tuberculosis,Isoniazid,0.6470588235294118
+Tuberculosis,Rifampin,0.29411764705882354
+Tuberculosis,Rifadin,0.058823529411764705
+Typhoid,Ciprofloxacin,0.5
+Typhoid,Cipro,0.5
+Urinary tract infection,Nitrofurantoin,0.2
+Urinary tract infection,Sulfamethoxazole / trimethoprim,0.14672897196261683
+Urinary tract infection,Ciprofloxacin,0.10327102803738318
+Urinary tract infection,Macrobid,0.0911214953271028
+Urinary tract infection,Cipro,0.054672897196261686
+Urinary tract infection,Bactrim,0.04719626168224299
+Urinary tract infection,Bactrim DS,0.038317757009345796
+Urinary tract infection,Tamsulosin,0.03644859813084112
+Urinary tract infection,Flomax,0.02850467289719626
+Urinary tract infection,Eflornithine,0.024766355140186914
+Urinary tract infection,Vaniqa,0.02383177570093458
+Urinary tract infection,Risperidone,0.017757009345794394
+Urinary tract infection,Levofloxacin,0.01588785046728972
+Urinary tract infection,Levaquin,0.011214953271028037
+Urinary tract infection,Amoxicillin,0.009813084112149532
+Urinary tract infection,Aripiprazole,0.009345794392523364
+Urinary tract infection,Risperdal,0.009345794392523364
+Urinary tract infection,Spironolactone,0.008411214953271028
+Urinary tract infection,Ceftriaxone,0.008411214953271028
+Urinary tract infection,Doxycycline,0.008411214953271028
+Urinary tract infection,Amoxicillin / clavulanate,0.008411214953271028
+Urinary tract infection,Abilify,0.008411214953271028
+Urinary tract infection,Rocephin,0.00794392523364486
+Urinary tract infection,Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,0.005607476635514018
+Urinary tract infection,Hyoscyamine / methenamine / methylene blue / phenyl salicylate,0.005607476635514018
+Urinary tract infection,Uribel,0.0051401869158878505
+Urinary tract infection,SMZ-TMP DS,0.004672897196261682
+Urinary tract infection,Trimethoprim,0.004672897196261682
+Urinary tract infection,Septra DS,0.004205607476635514
+Urinary tract infection,Cefuroxime,0.004205607476635514
+Urinary tract infection,Geodon,0.003738317757009346
+Urinary tract infection,Macrodantin,0.003738317757009346
+Urinary tract infection,Ziprasidone,0.003738317757009346
+Urinary tract infection,Augmentin,0.0032710280373831778
+Urinary tract infection,Septra,0.002803738317757009
+Urinary tract infection,Methenamine,0.002803738317757009
+Urinary tract infection,Hiprex,0.002336448598130841
+Urinary tract infection,Fluconazole,0.001869158878504673
+Urinary tract infection,Allopurinol,0.0014018691588785046
+Urinary tract infection,Venlafaxine,0.0014018691588785046
+Urinary tract infection,Diflucan,0.0009345794392523365
+Urinary tract infection,Ofloxacin,0.0009345794392523365
+Urinary tract infection,Uta,0.0009345794392523365
+Urinary tract infection,Cranberry,0.0009345794392523365
+Urinary tract infection,Memantine,0.0009345794392523365
+Urinary tract infection,Hyoscyamine / methenamine / methylene blue / sodium biphosphate,0.0009345794392523365
+Urinary tract infection,Sulfatrim,0.0009345794392523365
+Urinary tract infection,Cefixime,0.0009345794392523365
+Urinary tract infection,Ceftin,0.0009345794392523365
+Urinary tract infection,Effexor,0.0009345794392523365
+Urinary tract infection,Augmentin ES-600,0.00046728971962616824
+Urinary tract infection,Lactobacillus acidophilus,0.00046728971962616824
+Urinary tract infection,Urised,0.00046728971962616824
+Urinary tract infection,Doryx,0.00046728971962616824
+Urinary tract infection,Paliperidone,0.00046728971962616824
+Urinary tract infection,Doribax,0.00046728971962616824
+Urinary tract infection,Unasyn,0.00046728971962616824
+Urinary tract infection,Suprax,0.00046728971962616824
+Urinary tract infection,Vibramycin,0.00046728971962616824
+Urinary tract infection,Noroxin,0.00046728971962616824
+Urinary tract infection,Doripenem,0.00046728971962616824
+Urinary tract infection,Azo-Cranberry,0.00046728971962616824
+Urinary tract infection,Norfloxacin,0.00046728971962616824
+Urinary tract infection,Ampicillin / sulbactam,0.00046728971962616824
+Urinary tract infection,Acidophilus,0.00046728971962616824
+Urinary tract infection,Cytra-K,0.00046728971962616824
+Urinary tract infection,Phosphasal,0.00046728971962616824
+Urinary tract infection,Lithostat,0.00046728971962616824
+Urinary tract infection,Ampicillin,0.00046728971962616824
+Urinary tract infection,Amikacin,0.00046728971962616824
+Urinary tract infection,Citric acid / potassium citrate,0.00046728971962616824
+Urinary tract infection,Acetohydroxamic acid,0.00046728971962616824
+Urinary tract infection,Amoxil,0.00046728971962616824
+Urinary tract infection,Risperdal M-Tab,0.00046728971962616824
+Varicose veins,Polidocanol,0.6666666666666666
+Varicose veins,Horse chestnut,0.3333333333333333
+hepatitis A,Ledipasvir / sofosbuvir,0.2953311617806732
+hepatitis A,Harvoni,0.2909880564603692
+hepatitis A,Sofosbuvir / velpatasvir,0.06948968512486428
+hepatitis A,Epclusa,0.06406080347448426
+hepatitis A,Sofosbuvir,0.04560260586319218
+hepatitis A,Sovaldi,0.04234527687296417
+hepatitis A,Zepatier,0.03040173724212812
+hepatitis A,Elbasvir / grazoprevir,0.03040173724212812
+hepatitis A,Peginterferon alfa-2a,0.01520086862106406
+hepatitis A,Pegasys,0.010857763300760043
+hepatitis A,Tenofovir,0.010857763300760043
+hepatitis A,Daklinza,0.009771986970684038
+hepatitis A,Telaprevir,0.009771986970684038
+hepatitis A,Daclatasvir,0.009771986970684038
+hepatitis A,Viekira Pak,0.008686210640608035
+hepatitis A,Viread,0.008686210640608035
+hepatitis A,Dasabuvir / ombitasvir / paritaprevir / ritonavir,0.008686210640608035
+hepatitis A,Ribavirin,0.00760043431053203
+hepatitis A,Incivek,0.006514657980456026
+hepatitis A,Simeprevir,0.003257328990228013
+hepatitis A,Olysio,0.003257328990228013
+hepatitis A,Boceprevir,0.002171552660152009
+hepatitis A,Victrelis,0.002171552660152009
+hepatitis A,Rebetol,0.002171552660152009
+hepatitis A,Interferon alfa-2b,0.002171552660152009
+hepatitis A,Intron A,0.002171552660152009
+hepatitis A,Moderiba,0.0010857763300760044
+hepatitis A,Epivir-HBV,0.0010857763300760044
+hepatitis A,Copegus,0.0010857763300760044
+hepatitis A,Mavyret,0.0010857763300760044
+hepatitis A,Glecaprevir / pibrentasvir,0.0010857763300760044
+hepatitis A,Lamivudine,0.0010857763300760044
+hepatitis A,Ribasphere,0.0010857763300760044
