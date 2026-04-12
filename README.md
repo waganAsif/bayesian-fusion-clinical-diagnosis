@@ -53,6 +53,11 @@ Code and data for:
 ```
 Training.csv ──→ step1 ──→ disease_symptom_probabilities_unified_corrected.csv
                               (P(symptom|disease) ≥ 0.85, 271 associations)
+                           ──→ provides naming convention for step3
+
+symbipredict_2022.csv ──→ step3 ──→ test_cases_from_training_balanced_diverse.csv
+                                     (12,300 cases, 300/disease, 3-8 symptoms each)
+                                  ──→ step4 splits 50/50: KB construction + experiments
 
 drugsComTrain_raw.tsv ──→ step2 ──→ disease_drug_probabilities_unified_corrected.csv
                                      (P(drug|disease) via review counts, 2,103 associations)
