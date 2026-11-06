@@ -46,43 +46,7 @@ about one unrelated symptom each. Accuracy is the mean over 10 repetitions.
   as good as any fusion. Benchmarks that test on cases drawn from the knowledge
   table cannot tell fusion methods apart.
 
-## What changed from version 1 of this repository
 
-Checking version 1 of this repository turned up problems that this version corrects:
-
-1. **The evaluation data were not independent of the knowledge base.**
-   * SymbiPredict, used as the "separate" evaluation corpus, contains exactly the
-     same 304 symptom patterns as the Kaggle file.
-   * The knowledge base was estimated from half of the generated test cases, so a
-     simple lookup on it reached 98% accuracy.
-   * Version 2 keeps knowledge and training data apart and varies how complete the
-     knowledge base is.
-2. **Unfair comparisons.**
-   * The baselines were never temperature-scaled; the earlier table reported
-     T* = 1.00 for them. Every model is now calibrated in the same way.
-   * The knowledge-only model and a fair rule lookup are now reported, as are
-     paired statistical tests.
-3. **The data track mixed two kinds of quantity.** scikit-learn's Complement NB
-   stores negative log complement probabilities. These were fused in log space as
-   if they were log-likelihoods. The pooled models now use proper multinomial
-   likelihoods; Complement NB is kept as a baseline only.
-4. **Theory.**
-   * The claim that the temperature loss is convex in log T is false. It is convex
-     in 1/T, which is what the code now uses.
-   * The "asymptotically zero ECE" theorem and an unsupported generalisation bound
-     were removed.
-5. **The bigram "compositional prior" added nothing**, because it is a function of
-   the single-symptom priors. It is kept as an ablation and dropped from the main
-   model.
-6. **Treatment data.**
-   * The drug file in version 1 had truncated combination names (about 19,900
-     reviews), so "Abacavir / dolutegravir / lamivudine" appeared as "Abacavir".
-     Version 2 uses the original UCI train and test files (215,063 reviews).
-   * Effectiveness now comes from ratings, not review counts.
-   * Prevention conditions are excluded, loose condition mappings were removed and
-     brand names are merged with their active ingredients.
-7. **The experiment script in version 1 stopped before the experiments.** The full
-   pipeline is now included and tested.
 
 ## Repository structure
 
