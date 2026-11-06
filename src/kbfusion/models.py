@@ -92,7 +92,7 @@ class MultinomialNBData(_Base):
 
 
 class ComplementNBData(_Base):
-    """scikit-learn Complement Naive Bayes (the data track of the earlier version).
+    """scikit-learn Complement Naive Bayes .
 
     scikit-learn stores ``-log`` complement probabilities in ``feature_log_prob_``;
     these are class weights, not log-likelihoods, so they cannot be fused with
