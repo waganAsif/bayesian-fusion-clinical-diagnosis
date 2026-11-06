@@ -223,7 +223,7 @@ def _pair_features(X, pairs):
 
 
 def bigram_ablation(Q, n_list=(3, 30), reps=MAIN["reps"], seed=600):
-    """Pairwise symptom features with the geometric-mean bigram prior of the earlier version."""
+    """Pairwise symptom features with the the geometric-mean bigram prior.."""
     world = World(Q, report=MAIN["report"], noise=MAIN["noise"])
     rows = []
     for r in range(reps):
