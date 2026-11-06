@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Sample-size-adaptive fusion of expert knowledge and scarce patient data for symptom-based diagnosis: code and data"
+version: 2.0.0
+date-released: 2026-10-03
+license: MIT
+repository-code: "https://github.com/waganAsif/bayesian-fusion-clinical-diagnosis"
+authors:
+  - family-names: Wagan
+    given-names: Asif Ali
+    affiliation: "Mehran University of Engineering & Technology, Jamshoro, Pakistan"
+  - family-names: Narejo
+    given-names: Sanam
+  - family-names: Talpur
+    given-names: Shahnawaz
+keywords:
+  - clinical decision support
+  - Naive Bayes
+  - knowledge-informed machine learning
+  - opinion pooling
+  - calibration
