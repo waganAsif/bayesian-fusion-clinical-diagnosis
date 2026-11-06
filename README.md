@@ -167,7 +167,7 @@ posterior = models.softmax_proba(scaler.transform(model.logits(X_new)))
 |---|---|---|
 | Kaggle, *Disease Prediction Using Machine Learning* (kaushil268), Training.csv | Knowledge table and simulation template | See the Kaggle dataset page |
 | SymbiPredict, Mendeley Data, DOI [10.17632/dv5z3v2xyd.1](https://doi.org/10.17632/dv5z3v2xyd.1) | Duplication check only | See the Mendeley page |
-| UCI Drug Review Dataset (Drugs.com), DOI [10.24432/C5SK5S](https://doi.org/10.24432/C5SK5S) | Treatment illustration | CC BY 4.0; cite Gräßer et al. (2018) |
+| UCI Drug Review Dataset (Drugs.com), DOI [10.24432/C5SK5S](https://doi.org/10.24432/C55G6J) | Treatment illustration | CC BY 4.0; cite Gräßer et al. (2018) |
 
 The treatment ranking is an illustration of how uncertainty propagates. It ignores
 side effects, contraindications, dosing and cost, and must not be used for clinical
