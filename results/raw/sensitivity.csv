@@ -1,0 +1,1961 @@
+rep,n_per_disease,kappa,eps,model,accuracy
+0,1,1.0,0.001,Geometric pool (adaptive),0.8031707317073171
+0,1,1.0,0.001,Arithmetic pool (adaptive),0.8221951219512195
+0,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8329268292682926
+0,1,1.0,0.01,Geometric pool (adaptive),0.8004878048780488
+0,1,1.0,0.01,Arithmetic pool (adaptive),0.8224390243902439
+0,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8214634146341463
+0,1,1.0,0.1,Geometric pool (adaptive),0.7819512195121952
+0,1,1.0,0.1,Arithmetic pool (adaptive),0.8156097560975609
+0,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7478048780487805
+0,1,3.0,0.001,Geometric pool (adaptive),0.7878048780487805
+0,1,3.0,0.001,Arithmetic pool (adaptive),0.81
+0,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8441463414634146
+0,1,3.0,0.01,Geometric pool (adaptive),0.7939024390243903
+0,1,3.0,0.01,Arithmetic pool (adaptive),0.8119512195121952
+0,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8421951219512195
+0,1,3.0,0.1,Geometric pool (adaptive),0.7897560975609756
+0,1,3.0,0.1,Arithmetic pool (adaptive),0.805609756097561
+0,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8031707317073171
+0,1,10.0,0.001,Geometric pool (adaptive),0.7821951219512195
+0,1,10.0,0.001,Arithmetic pool (adaptive),0.8019512195121952
+0,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8263414634146341
+0,1,10.0,0.01,Geometric pool (adaptive),0.7880487804878049
+0,1,10.0,0.01,Arithmetic pool (adaptive),0.7970731707317074
+0,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8265853658536585
+0,1,10.0,0.1,Geometric pool (adaptive),0.7887804878048781
+0,1,10.0,0.1,Arithmetic pool (adaptive),0.7943902439024391
+0,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.817560975609756
+0,1,30.0,0.001,Geometric pool (adaptive),0.7787804878048781
+0,1,30.0,0.001,Arithmetic pool (adaptive),0.795609756097561
+0,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8114634146341464
+0,1,30.0,0.01,Geometric pool (adaptive),0.7831707317073171
+0,1,30.0,0.01,Arithmetic pool (adaptive),0.7917073170731708
+0,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8156097560975609
+0,1,30.0,0.1,Geometric pool (adaptive),0.7824390243902439
+0,1,30.0,0.1,Arithmetic pool (adaptive),0.7865853658536586
+0,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8102439024390244
+0,1,100.0,0.001,Geometric pool (adaptive),0.7773170731707317
+0,1,100.0,0.001,Arithmetic pool (adaptive),0.7885365853658537
+0,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8026829268292683
+0,1,100.0,0.01,Geometric pool (adaptive),0.7802439024390244
+0,1,100.0,0.01,Arithmetic pool (adaptive),0.7880487804878049
+0,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.7995121951219513
+0,1,100.0,0.1,Geometric pool (adaptive),0.7792682926829269
+0,1,100.0,0.1,Arithmetic pool (adaptive),0.7809756097560976
+0,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.7960975609756098
+0,1,,0.001,Knowledge only,0.7714634146341464
+0,1,,0.01,Knowledge only,0.7795121951219512
+0,1,,0.1,Knowledge only,0.7760975609756098
+0,1,,,Data only (NB),0.6643902439024391
+0,3,1.0,0.001,Geometric pool (adaptive),0.84
+0,3,1.0,0.001,Arithmetic pool (adaptive),0.8697560975609756
+0,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8665853658536585
+0,3,1.0,0.01,Geometric pool (adaptive),0.843170731707317
+0,3,1.0,0.01,Arithmetic pool (adaptive),0.8692682926829268
+0,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.86
+0,3,1.0,0.1,Geometric pool (adaptive),0.8404878048780487
+0,3,1.0,0.1,Arithmetic pool (adaptive),0.8521951219512195
+0,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.834390243902439
+0,3,3.0,0.001,Geometric pool (adaptive),0.8163414634146341
+0,3,3.0,0.001,Arithmetic pool (adaptive),0.8492682926829268
+0,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8734146341463415
+0,3,3.0,0.01,Geometric pool (adaptive),0.8224390243902439
+0,3,3.0,0.01,Arithmetic pool (adaptive),0.8504878048780488
+0,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8717073170731707
+0,3,3.0,0.1,Geometric pool (adaptive),0.8282926829268292
+0,3,3.0,0.1,Arithmetic pool (adaptive),0.8451219512195122
+0,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8521951219512195
+0,3,10.0,0.001,Geometric pool (adaptive),0.7946341463414635
+0,3,10.0,0.001,Arithmetic pool (adaptive),0.8302439024390244
+0,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8553658536585366
+0,3,10.0,0.01,Geometric pool (adaptive),0.8009756097560976
+0,3,10.0,0.01,Arithmetic pool (adaptive),0.8336585365853658
+0,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.855609756097561
+0,3,10.0,0.1,Geometric pool (adaptive),0.8078048780487805
+0,3,10.0,0.1,Arithmetic pool (adaptive),0.8217073170731707
+0,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8541463414634146
+0,3,30.0,0.001,Geometric pool (adaptive),0.7885365853658537
+0,3,30.0,0.001,Arithmetic pool (adaptive),0.818780487804878
+0,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8351219512195122
+0,3,30.0,0.01,Geometric pool (adaptive),0.7931707317073171
+0,3,30.0,0.01,Arithmetic pool (adaptive),0.8160975609756097
+0,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.838780487804878
+0,3,30.0,0.1,Geometric pool (adaptive),0.7946341463414635
+0,3,30.0,0.1,Arithmetic pool (adaptive),0.8070731707317074
+0,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8317073170731707
+0,3,100.0,0.001,Geometric pool (adaptive),0.7841463414634147
+0,3,100.0,0.001,Arithmetic pool (adaptive),0.8117073170731708
+0,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8190243902439024
+0,3,100.0,0.01,Geometric pool (adaptive),0.7885365853658537
+0,3,100.0,0.01,Arithmetic pool (adaptive),0.7995121951219513
+0,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8226829268292682
+0,3,100.0,0.1,Geometric pool (adaptive),0.7878048780487805
+0,3,100.0,0.1,Arithmetic pool (adaptive),0.7929268292682927
+0,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8114634146341464
+0,3,,0.001,Knowledge only,0.7714634146341464
+0,3,,0.01,Knowledge only,0.7795121951219512
+0,3,,0.1,Knowledge only,0.7760975609756098
+0,3,,,Data only (NB),0.8139024390243902
+0,10,1.0,0.001,Geometric pool (adaptive),0.8946341463414634
+0,10,1.0,0.001,Arithmetic pool (adaptive),0.9
+0,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8980487804878049
+0,10,1.0,0.01,Geometric pool (adaptive),0.8939024390243903
+0,10,1.0,0.01,Arithmetic pool (adaptive),0.8995121951219512
+0,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8958536585365854
+0,10,1.0,0.1,Geometric pool (adaptive),0.8917073170731707
+0,10,1.0,0.1,Arithmetic pool (adaptive),0.8917073170731707
+0,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8921951219512195
+0,10,3.0,0.001,Geometric pool (adaptive),0.8797560975609756
+0,10,3.0,0.001,Arithmetic pool (adaptive),0.9009756097560976
+0,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9026829268292683
+0,10,3.0,0.01,Geometric pool (adaptive),0.8834146341463415
+0,10,3.0,0.01,Arithmetic pool (adaptive),0.9004878048780488
+0,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9004878048780488
+0,10,3.0,0.1,Geometric pool (adaptive),0.8897560975609756
+0,10,3.0,0.1,Arithmetic pool (adaptive),0.8946341463414634
+0,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8921951219512195
+0,10,10.0,0.001,Geometric pool (adaptive),0.845609756097561
+0,10,10.0,0.001,Arithmetic pool (adaptive),0.8882926829268293
+0,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9007317073170732
+0,10,10.0,0.01,Geometric pool (adaptive),0.8560975609756097
+0,10,10.0,0.01,Arithmetic pool (adaptive),0.8907317073170732
+0,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9
+0,10,10.0,0.1,Geometric pool (adaptive),0.8658536585365854
+0,10,10.0,0.1,Arithmetic pool (adaptive),0.8909756097560976
+0,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8941463414634147
+0,10,30.0,0.001,Geometric pool (adaptive),0.8070731707317074
+0,10,30.0,0.001,Arithmetic pool (adaptive),0.868780487804878
+0,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8795121951219512
+0,10,30.0,0.01,Geometric pool (adaptive),0.8217073170731707
+0,10,30.0,0.01,Arithmetic pool (adaptive),0.8680487804878049
+0,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8834146341463415
+0,10,30.0,0.1,Geometric pool (adaptive),0.8314634146341463
+0,10,30.0,0.1,Arithmetic pool (adaptive),0.8678048780487805
+0,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8853658536585366
+0,10,100.0,0.001,Geometric pool (adaptive),0.7946341463414635
+0,10,100.0,0.001,Arithmetic pool (adaptive),0.8504878048780488
+0,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8553658536585366
+0,10,100.0,0.01,Geometric pool (adaptive),0.7990243902439025
+0,10,100.0,0.01,Arithmetic pool (adaptive),0.8446341463414634
+0,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8602439024390244
+0,10,100.0,0.1,Geometric pool (adaptive),0.8053658536585366
+0,10,100.0,0.1,Arithmetic pool (adaptive),0.8273170731707317
+0,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8529268292682927
+0,10,,0.001,Knowledge only,0.7714634146341464
+0,10,,0.01,Knowledge only,0.7795121951219512
+0,10,,0.1,Knowledge only,0.7760975609756098
+0,10,,,Data only (NB),0.8921951219512195
+0,30,1.0,0.001,Geometric pool (adaptive),0.9178048780487805
+0,30,1.0,0.001,Arithmetic pool (adaptive),0.9202439024390244
+0,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9202439024390244
+0,30,1.0,0.01,Geometric pool (adaptive),0.9178048780487805
+0,30,1.0,0.01,Arithmetic pool (adaptive),0.9197560975609756
+0,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9192682926829269
+0,30,1.0,0.1,Geometric pool (adaptive),0.9190243902439025
+0,30,1.0,0.1,Arithmetic pool (adaptive),0.9197560975609756
+0,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.92
+0,30,3.0,0.001,Geometric pool (adaptive),0.9185365853658537
+0,30,3.0,0.001,Arithmetic pool (adaptive),0.9190243902439025
+0,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9192682926829269
+0,30,3.0,0.01,Geometric pool (adaptive),0.9182926829268293
+0,30,3.0,0.01,Arithmetic pool (adaptive),0.9190243902439025
+0,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9195121951219513
+0,30,3.0,0.1,Geometric pool (adaptive),0.9175609756097561
+0,30,3.0,0.1,Arithmetic pool (adaptive),0.9204878048780488
+0,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9192682926829269
+0,30,10.0,0.001,Geometric pool (adaptive),0.8960975609756098
+0,30,10.0,0.001,Arithmetic pool (adaptive),0.9214634146341464
+0,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9190243902439025
+0,30,10.0,0.01,Geometric pool (adaptive),0.9070731707317073
+0,30,10.0,0.01,Arithmetic pool (adaptive),0.9214634146341464
+0,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9202439024390244
+0,30,10.0,0.1,Geometric pool (adaptive),0.9160975609756098
+0,30,10.0,0.1,Arithmetic pool (adaptive),0.9209756097560976
+0,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9190243902439025
+0,30,30.0,0.001,Geometric pool (adaptive),0.8573170731707317
+0,30,30.0,0.001,Arithmetic pool (adaptive),0.9131707317073171
+0,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.915609756097561
+0,30,30.0,0.01,Geometric pool (adaptive),0.8704878048780488
+0,30,30.0,0.01,Arithmetic pool (adaptive),0.9151219512195122
+0,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9185365853658537
+0,30,30.0,0.1,Geometric pool (adaptive),0.8924390243902439
+0,30,30.0,0.1,Arithmetic pool (adaptive),0.9202439024390244
+0,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9180487804878049
+0,30,100.0,0.001,Geometric pool (adaptive),0.812439024390244
+0,30,100.0,0.001,Arithmetic pool (adaptive),0.8921951219512195
+0,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.89
+0,30,100.0,0.01,Geometric pool (adaptive),0.8314634146341463
+0,30,100.0,0.01,Arithmetic pool (adaptive),0.8929268292682927
+0,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.896829268292683
+0,30,100.0,0.1,Geometric pool (adaptive),0.8424390243902439
+0,30,100.0,0.1,Arithmetic pool (adaptive),0.8939024390243903
+0,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8982926829268293
+0,30,,0.001,Knowledge only,0.7714634146341464
+0,30,,0.01,Knowledge only,0.7795121951219512
+0,30,,0.1,Knowledge only,0.7760975609756098
+0,30,,,Data only (NB),0.9202439024390244
+1,1,1.0,0.001,Geometric pool (adaptive),0.7885365853658537
+1,1,1.0,0.001,Arithmetic pool (adaptive),0.8163414634146341
+1,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8341463414634146
+1,1,1.0,0.01,Geometric pool (adaptive),0.7902439024390244
+1,1,1.0,0.01,Arithmetic pool (adaptive),0.8170731707317073
+1,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8248780487804878
+1,1,1.0,0.1,Geometric pool (adaptive),0.7829268292682927
+1,1,1.0,0.1,Arithmetic pool (adaptive),0.8104878048780488
+1,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7480487804878049
+1,1,3.0,0.001,Geometric pool (adaptive),0.7817073170731708
+1,1,3.0,0.001,Arithmetic pool (adaptive),0.8036585365853659
+1,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8390243902439024
+1,1,3.0,0.01,Geometric pool (adaptive),0.7826829268292683
+1,1,3.0,0.01,Arithmetic pool (adaptive),0.8046341463414635
+1,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8375609756097561
+1,1,3.0,0.1,Geometric pool (adaptive),0.7834146341463415
+1,1,3.0,0.1,Arithmetic pool (adaptive),0.7975609756097561
+1,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8075609756097561
+1,1,10.0,0.001,Geometric pool (adaptive),0.7746341463414634
+1,1,10.0,0.001,Arithmetic pool (adaptive),0.7975609756097561
+1,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8239024390243902
+1,1,10.0,0.01,Geometric pool (adaptive),0.78
+1,1,10.0,0.01,Arithmetic pool (adaptive),0.7926829268292683
+1,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8234146341463414
+1,1,10.0,0.1,Geometric pool (adaptive),0.7785365853658537
+1,1,10.0,0.1,Arithmetic pool (adaptive),0.7885365853658537
+1,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8126829268292682
+1,1,30.0,0.001,Geometric pool (adaptive),0.7697560975609756
+1,1,30.0,0.001,Arithmetic pool (adaptive),0.7917073170731708
+1,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8058536585365854
+1,1,30.0,0.01,Geometric pool (adaptive),0.7748780487804878
+1,1,30.0,0.01,Arithmetic pool (adaptive),0.7865853658536586
+1,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8080487804878049
+1,1,30.0,0.1,Geometric pool (adaptive),0.7748780487804878
+1,1,30.0,0.1,Arithmetic pool (adaptive),0.7809756097560976
+1,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8014634146341464
+1,1,100.0,0.001,Geometric pool (adaptive),0.7692682926829268
+1,1,100.0,0.001,Arithmetic pool (adaptive),0.7846341463414634
+1,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.7980487804878049
+1,1,100.0,0.01,Geometric pool (adaptive),0.7717073170731708
+1,1,100.0,0.01,Arithmetic pool (adaptive),0.7821951219512195
+1,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.7943902439024391
+1,1,100.0,0.1,Geometric pool (adaptive),0.7739024390243903
+1,1,100.0,0.1,Arithmetic pool (adaptive),0.776829268292683
+1,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.7902439024390244
+1,1,,0.001,Knowledge only,0.7678048780487805
+1,1,,0.01,Knowledge only,0.7709756097560976
+1,1,,0.1,Knowledge only,0.7697560975609756
+1,1,,,Data only (NB),0.6346341463414634
+1,3,1.0,0.001,Geometric pool (adaptive),0.8307317073170731
+1,3,1.0,0.001,Arithmetic pool (adaptive),0.8668292682926829
+1,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8680487804878049
+1,3,1.0,0.01,Geometric pool (adaptive),0.8351219512195122
+1,3,1.0,0.01,Arithmetic pool (adaptive),0.865609756097561
+1,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8626829268292683
+1,3,1.0,0.1,Geometric pool (adaptive),0.8353658536585366
+1,3,1.0,0.1,Arithmetic pool (adaptive),0.8524390243902439
+1,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8373170731707317
+1,3,3.0,0.001,Geometric pool (adaptive),0.81
+1,3,3.0,0.001,Arithmetic pool (adaptive),0.8436585365853658
+1,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8736585365853659
+1,3,3.0,0.01,Geometric pool (adaptive),0.8170731707317073
+1,3,3.0,0.01,Arithmetic pool (adaptive),0.845609756097561
+1,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.871219512195122
+1,3,3.0,0.1,Geometric pool (adaptive),0.8195121951219512
+1,3,3.0,0.1,Arithmetic pool (adaptive),0.8434146341463414
+1,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.85
+1,3,10.0,0.001,Geometric pool (adaptive),0.791219512195122
+1,3,10.0,0.001,Arithmetic pool (adaptive),0.8260975609756097
+1,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8524390243902439
+1,3,10.0,0.01,Geometric pool (adaptive),0.7990243902439025
+1,3,10.0,0.01,Arithmetic pool (adaptive),0.8278048780487804
+1,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8546341463414634
+1,3,10.0,0.1,Geometric pool (adaptive),0.8
+1,3,10.0,0.1,Arithmetic pool (adaptive),0.8195121951219512
+1,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8517073170731707
+1,3,30.0,0.001,Geometric pool (adaptive),0.7824390243902439
+1,3,30.0,0.001,Arithmetic pool (adaptive),0.8136585365853658
+1,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8309756097560975
+1,3,30.0,0.01,Geometric pool (adaptive),0.7880487804878049
+1,3,30.0,0.01,Arithmetic pool (adaptive),0.811219512195122
+1,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8324390243902439
+1,3,30.0,0.1,Geometric pool (adaptive),0.7887804878048781
+1,3,30.0,0.1,Arithmetic pool (adaptive),0.801219512195122
+1,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.828780487804878
+1,3,100.0,0.001,Geometric pool (adaptive),0.7748780487804878
+1,3,100.0,0.001,Arithmetic pool (adaptive),0.8078048780487805
+1,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8151219512195121
+1,3,100.0,0.01,Geometric pool (adaptive),0.7795121951219512
+1,3,100.0,0.01,Arithmetic pool (adaptive),0.7946341463414635
+1,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8170731707317073
+1,3,100.0,0.1,Geometric pool (adaptive),0.7797560975609756
+1,3,100.0,0.1,Arithmetic pool (adaptive),0.7887804878048781
+1,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8095121951219513
+1,3,,0.001,Knowledge only,0.7678048780487805
+1,3,,0.01,Knowledge only,0.7709756097560976
+1,3,,0.1,Knowledge only,0.7697560975609756
+1,3,,,Data only (NB),0.8178048780487804
+1,10,1.0,0.001,Geometric pool (adaptive),0.8951219512195122
+1,10,1.0,0.001,Arithmetic pool (adaptive),0.8982926829268293
+1,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8970731707317073
+1,10,1.0,0.01,Geometric pool (adaptive),0.8946341463414634
+1,10,1.0,0.01,Arithmetic pool (adaptive),0.8978048780487805
+1,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8963414634146342
+1,10,1.0,0.1,Geometric pool (adaptive),0.8939024390243903
+1,10,1.0,0.1,Arithmetic pool (adaptive),0.894390243902439
+1,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8936585365853659
+1,10,3.0,0.001,Geometric pool (adaptive),0.8780487804878049
+1,10,3.0,0.001,Arithmetic pool (adaptive),0.9
+1,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9009756097560976
+1,10,3.0,0.01,Geometric pool (adaptive),0.8848780487804878
+1,10,3.0,0.01,Arithmetic pool (adaptive),0.8985365853658537
+1,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8987804878048781
+1,10,3.0,0.1,Geometric pool (adaptive),0.8902439024390244
+1,10,3.0,0.1,Arithmetic pool (adaptive),0.8939024390243903
+1,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8951219512195122
+1,10,10.0,0.001,Geometric pool (adaptive),0.8329268292682926
+1,10,10.0,0.001,Arithmetic pool (adaptive),0.8870731707317073
+1,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8982926829268293
+1,10,10.0,0.01,Geometric pool (adaptive),0.8480487804878049
+1,10,10.0,0.01,Arithmetic pool (adaptive),0.8890243902439025
+1,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8990243902439025
+1,10,10.0,0.1,Geometric pool (adaptive),0.8614634146341463
+1,10,10.0,0.1,Arithmetic pool (adaptive),0.8919512195121951
+1,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8939024390243903
+1,10,30.0,0.001,Geometric pool (adaptive),0.8043902439024391
+1,10,30.0,0.001,Arithmetic pool (adaptive),0.8619512195121951
+1,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8768292682926829
+1,10,30.0,0.01,Geometric pool (adaptive),0.8151219512195121
+1,10,30.0,0.01,Arithmetic pool (adaptive),0.8648780487804878
+1,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8802439024390244
+1,10,30.0,0.1,Geometric pool (adaptive),0.8197560975609756
+1,10,30.0,0.1,Arithmetic pool (adaptive),0.8607317073170732
+1,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8817073170731707
+1,10,100.0,0.001,Geometric pool (adaptive),0.7880487804878049
+1,10,100.0,0.001,Arithmetic pool (adaptive),0.8409756097560975
+1,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8509756097560975
+1,10,100.0,0.01,Geometric pool (adaptive),0.7926829268292683
+1,10,100.0,0.01,Arithmetic pool (adaptive),0.8358536585365853
+1,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8551219512195122
+1,10,100.0,0.1,Geometric pool (adaptive),0.8017073170731708
+1,10,100.0,0.1,Arithmetic pool (adaptive),0.8190243902439024
+1,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8429268292682927
+1,10,,0.001,Knowledge only,0.7678048780487805
+1,10,,0.01,Knowledge only,0.7709756097560976
+1,10,,0.1,Knowledge only,0.7697560975609756
+1,10,,,Data only (NB),0.8929268292682927
+1,30,1.0,0.001,Geometric pool (adaptive),0.9090243902439025
+1,30,1.0,0.001,Arithmetic pool (adaptive),0.9102439024390244
+1,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.91
+1,30,1.0,0.01,Geometric pool (adaptive),0.9102439024390244
+1,30,1.0,0.01,Arithmetic pool (adaptive),0.9107317073170732
+1,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.91
+1,30,1.0,0.1,Geometric pool (adaptive),0.9102439024390244
+1,30,1.0,0.1,Arithmetic pool (adaptive),0.9107317073170732
+1,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9104878048780488
+1,30,3.0,0.001,Geometric pool (adaptive),0.9063414634146342
+1,30,3.0,0.001,Arithmetic pool (adaptive),0.9104878048780488
+1,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9104878048780488
+1,30,3.0,0.01,Geometric pool (adaptive),0.9085365853658537
+1,30,3.0,0.01,Arithmetic pool (adaptive),0.9102439024390244
+1,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9107317073170732
+1,30,3.0,0.1,Geometric pool (adaptive),0.9082926829268293
+1,30,3.0,0.1,Arithmetic pool (adaptive),0.9124390243902439
+1,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9117073170731708
+1,30,10.0,0.001,Geometric pool (adaptive),0.8887804878048781
+1,30,10.0,0.001,Arithmetic pool (adaptive),0.9078048780487805
+1,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9097560975609756
+1,30,10.0,0.01,Geometric pool (adaptive),0.896829268292683
+1,30,10.0,0.01,Arithmetic pool (adaptive),0.9109756097560976
+1,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9109756097560976
+1,30,10.0,0.1,Geometric pool (adaptive),0.9041463414634147
+1,30,10.0,0.1,Arithmetic pool (adaptive),0.9143902439024391
+1,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9119512195121952
+1,30,30.0,0.001,Geometric pool (adaptive),0.8473170731707317
+1,30,30.0,0.001,Arithmetic pool (adaptive),0.8980487804878049
+1,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8997560975609756
+1,30,30.0,0.01,Geometric pool (adaptive),0.8617073170731707
+1,30,30.0,0.01,Arithmetic pool (adaptive),0.9029268292682927
+1,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9051219512195122
+1,30,30.0,0.1,Geometric pool (adaptive),0.8807317073170732
+1,30,30.0,0.1,Arithmetic pool (adaptive),0.9097560975609756
+1,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9107317073170732
+1,30,100.0,0.001,Geometric pool (adaptive),0.8097560975609757
+1,30,100.0,0.001,Arithmetic pool (adaptive),0.8809756097560976
+1,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8797560975609756
+1,30,100.0,0.01,Geometric pool (adaptive),0.8221951219512195
+1,30,100.0,0.01,Arithmetic pool (adaptive),0.8809756097560976
+1,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8853658536585366
+1,30,100.0,0.1,Geometric pool (adaptive),0.8329268292682926
+1,30,100.0,0.1,Arithmetic pool (adaptive),0.8841463414634146
+1,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8885365853658537
+1,30,,0.001,Knowledge only,0.7678048780487805
+1,30,,0.01,Knowledge only,0.7709756097560976
+1,30,,0.1,Knowledge only,0.7697560975609756
+1,30,,,Data only (NB),0.91
+2,1,1.0,0.001,Geometric pool (adaptive),0.7980487804878049
+2,1,1.0,0.001,Arithmetic pool (adaptive),0.8160975609756097
+2,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8258536585365853
+2,1,1.0,0.01,Geometric pool (adaptive),0.7973170731707317
+2,1,1.0,0.01,Arithmetic pool (adaptive),0.8182926829268292
+2,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.81
+2,1,1.0,0.1,Geometric pool (adaptive),0.781219512195122
+2,1,1.0,0.1,Arithmetic pool (adaptive),0.8121951219512196
+2,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7102439024390244
+2,1,3.0,0.001,Geometric pool (adaptive),0.7829268292682927
+2,1,3.0,0.001,Arithmetic pool (adaptive),0.8087804878048781
+2,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8382926829268292
+2,1,3.0,0.01,Geometric pool (adaptive),0.7902439024390244
+2,1,3.0,0.01,Arithmetic pool (adaptive),0.8082926829268293
+2,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8392682926829268
+2,1,3.0,0.1,Geometric pool (adaptive),0.7897560975609756
+2,1,3.0,0.1,Arithmetic pool (adaptive),0.8063414634146342
+2,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7873170731707317
+2,1,10.0,0.001,Geometric pool (adaptive),0.7807317073170732
+2,1,10.0,0.001,Arithmetic pool (adaptive),0.8034146341463415
+2,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8204878048780487
+2,1,10.0,0.01,Geometric pool (adaptive),0.7841463414634147
+2,1,10.0,0.01,Arithmetic pool (adaptive),0.7936585365853659
+2,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8224390243902439
+2,1,10.0,0.1,Geometric pool (adaptive),0.7873170731707317
+2,1,10.0,0.1,Arithmetic pool (adaptive),0.8009756097560976
+2,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8173170731707317
+2,1,30.0,0.001,Geometric pool (adaptive),0.7778048780487805
+2,1,30.0,0.001,Arithmetic pool (adaptive),0.7960975609756098
+2,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8117073170731708
+2,1,30.0,0.01,Geometric pool (adaptive),0.7831707317073171
+2,1,30.0,0.01,Arithmetic pool (adaptive),0.7907317073170732
+2,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.813170731707317
+2,1,30.0,0.1,Geometric pool (adaptive),0.7853658536585366
+2,1,30.0,0.1,Arithmetic pool (adaptive),0.79
+2,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8090243902439025
+2,1,100.0,0.001,Geometric pool (adaptive),0.7751219512195122
+2,1,100.0,0.001,Arithmetic pool (adaptive),0.7882926829268293
+2,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8043902439024391
+2,1,100.0,0.01,Geometric pool (adaptive),0.7787804878048781
+2,1,100.0,0.01,Arithmetic pool (adaptive),0.7873170731707317
+2,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.7990243902439025
+2,1,100.0,0.1,Geometric pool (adaptive),0.7829268292682927
+2,1,100.0,0.1,Arithmetic pool (adaptive),0.7853658536585366
+2,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8031707317073171
+2,1,,0.001,Knowledge only,0.77
+2,1,,0.01,Knowledge only,0.776829268292683
+2,1,,0.1,Knowledge only,0.7780487804878049
+2,1,,,Data only (NB),0.6214634146341463
+2,3,1.0,0.001,Geometric pool (adaptive),0.8356097560975609
+2,3,1.0,0.001,Arithmetic pool (adaptive),0.8717073170731707
+2,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8614634146341463
+2,3,1.0,0.01,Geometric pool (adaptive),0.834390243902439
+2,3,1.0,0.01,Arithmetic pool (adaptive),0.8695121951219512
+2,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8541463414634146
+2,3,1.0,0.1,Geometric pool (adaptive),0.8241463414634146
+2,3,1.0,0.1,Arithmetic pool (adaptive),0.845609756097561
+2,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.818780487804878
+2,3,3.0,0.001,Geometric pool (adaptive),0.8165853658536585
+2,3,3.0,0.001,Arithmetic pool (adaptive),0.8539024390243902
+2,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8751219512195122
+2,3,3.0,0.01,Geometric pool (adaptive),0.824390243902439
+2,3,3.0,0.01,Arithmetic pool (adaptive),0.8553658536585366
+2,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8729268292682927
+2,3,3.0,0.1,Geometric pool (adaptive),0.8239024390243902
+2,3,3.0,0.1,Arithmetic pool (adaptive),0.8460975609756097
+2,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8390243902439024
+2,3,10.0,0.001,Geometric pool (adaptive),0.7931707317073171
+2,3,10.0,0.001,Arithmetic pool (adaptive),0.8363414634146341
+2,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8595121951219512
+2,3,10.0,0.01,Geometric pool (adaptive),0.8004878048780488
+2,3,10.0,0.01,Arithmetic pool (adaptive),0.8356097560975609
+2,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8619512195121951
+2,3,10.0,0.1,Geometric pool (adaptive),0.81
+2,3,10.0,0.1,Arithmetic pool (adaptive),0.828780487804878
+2,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.848780487804878
+2,3,30.0,0.001,Geometric pool (adaptive),0.7895121951219513
+2,3,30.0,0.001,Arithmetic pool (adaptive),0.823170731707317
+2,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8397560975609756
+2,3,30.0,0.01,Geometric pool (adaptive),0.7936585365853659
+2,3,30.0,0.01,Arithmetic pool (adaptive),0.818780487804878
+2,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8419512195121951
+2,3,30.0,0.1,Geometric pool (adaptive),0.7982926829268293
+2,3,30.0,0.1,Arithmetic pool (adaptive),0.8168292682926829
+2,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.84
+2,3,100.0,0.001,Geometric pool (adaptive),0.7865853658536586
+2,3,100.0,0.001,Arithmetic pool (adaptive),0.8170731707317073
+2,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8263414634146341
+2,3,100.0,0.01,Geometric pool (adaptive),0.7907317073170732
+2,3,100.0,0.01,Arithmetic pool (adaptive),0.8007317073170732
+2,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8258536585365853
+2,3,100.0,0.1,Geometric pool (adaptive),0.7902439024390244
+2,3,100.0,0.1,Arithmetic pool (adaptive),0.7982926829268293
+2,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8197560975609756
+2,3,,0.001,Knowledge only,0.77
+2,3,,0.01,Knowledge only,0.776829268292683
+2,3,,0.1,Knowledge only,0.7780487804878049
+2,3,,,Data only (NB),0.7921951219512195
+2,10,1.0,0.001,Geometric pool (adaptive),0.8960975609756098
+2,10,1.0,0.001,Arithmetic pool (adaptive),0.9019512195121951
+2,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9007317073170732
+2,10,1.0,0.01,Geometric pool (adaptive),0.8963414634146342
+2,10,1.0,0.01,Arithmetic pool (adaptive),0.901219512195122
+2,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8990243902439025
+2,10,1.0,0.1,Geometric pool (adaptive),0.894390243902439
+2,10,1.0,0.1,Arithmetic pool (adaptive),0.8953658536585366
+2,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8941463414634147
+2,10,3.0,0.001,Geometric pool (adaptive),0.8804878048780488
+2,10,3.0,0.001,Arithmetic pool (adaptive),0.9041463414634147
+2,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9026829268292683
+2,10,3.0,0.01,Geometric pool (adaptive),0.8917073170731707
+2,10,3.0,0.01,Arithmetic pool (adaptive),0.9041463414634147
+2,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9036585365853659
+2,10,3.0,0.1,Geometric pool (adaptive),0.8917073170731707
+2,10,3.0,0.1,Arithmetic pool (adaptive),0.8980487804878049
+2,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.895609756097561
+2,10,10.0,0.001,Geometric pool (adaptive),0.8407317073170731
+2,10,10.0,0.001,Arithmetic pool (adaptive),0.8914634146341464
+2,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8995121951219512
+2,10,10.0,0.01,Geometric pool (adaptive),0.8509756097560975
+2,10,10.0,0.01,Arithmetic pool (adaptive),0.8921951219512195
+2,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9
+2,10,10.0,0.1,Geometric pool (adaptive),0.8721951219512195
+2,10,10.0,0.1,Arithmetic pool (adaptive),0.8948780487804878
+2,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8978048780487805
+2,10,30.0,0.001,Geometric pool (adaptive),0.8085365853658537
+2,10,30.0,0.001,Arithmetic pool (adaptive),0.868780487804878
+2,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8851219512195122
+2,10,30.0,0.01,Geometric pool (adaptive),0.8209756097560975
+2,10,30.0,0.01,Arithmetic pool (adaptive),0.8692682926829268
+2,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.891219512195122
+2,10,30.0,0.1,Geometric pool (adaptive),0.8348780487804878
+2,10,30.0,0.1,Arithmetic pool (adaptive),0.8709756097560976
+2,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8892682926829268
+2,10,100.0,0.001,Geometric pool (adaptive),0.7980487804878049
+2,10,100.0,0.001,Arithmetic pool (adaptive),0.8519512195121951
+2,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8575609756097561
+2,10,100.0,0.01,Geometric pool (adaptive),0.8009756097560976
+2,10,100.0,0.01,Arithmetic pool (adaptive),0.8458536585365853
+2,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8604878048780488
+2,10,100.0,0.1,Geometric pool (adaptive),0.8136585365853658
+2,10,100.0,0.1,Arithmetic pool (adaptive),0.834390243902439
+2,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8546341463414634
+2,10,,0.001,Knowledge only,0.77
+2,10,,0.01,Knowledge only,0.776829268292683
+2,10,,0.1,Knowledge only,0.7780487804878049
+2,10,,,Data only (NB),0.8934146341463415
+2,30,1.0,0.001,Geometric pool (adaptive),0.9080487804878049
+2,30,1.0,0.001,Arithmetic pool (adaptive),0.9080487804878049
+2,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9080487804878049
+2,30,1.0,0.01,Geometric pool (adaptive),0.9085365853658537
+2,30,1.0,0.01,Arithmetic pool (adaptive),0.9078048780487805
+2,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9078048780487805
+2,30,1.0,0.1,Geometric pool (adaptive),0.9078048780487805
+2,30,1.0,0.1,Arithmetic pool (adaptive),0.9080487804878049
+2,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9080487804878049
+2,30,3.0,0.001,Geometric pool (adaptive),0.9053658536585366
+2,30,3.0,0.001,Arithmetic pool (adaptive),0.9095121951219513
+2,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9090243902439025
+2,30,3.0,0.01,Geometric pool (adaptive),0.9073170731707317
+2,30,3.0,0.01,Arithmetic pool (adaptive),0.9097560975609756
+2,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9095121951219513
+2,30,3.0,0.1,Geometric pool (adaptive),0.9078048780487805
+2,30,3.0,0.1,Arithmetic pool (adaptive),0.9092682926829269
+2,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9078048780487805
+2,30,10.0,0.001,Geometric pool (adaptive),0.8926829268292683
+2,30,10.0,0.001,Arithmetic pool (adaptive),0.9075609756097561
+2,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9082926829268293
+2,30,10.0,0.01,Geometric pool (adaptive),0.8975609756097561
+2,30,10.0,0.01,Arithmetic pool (adaptive),0.91
+2,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9082926829268293
+2,30,10.0,0.1,Geometric pool (adaptive),0.9053658536585366
+2,30,10.0,0.1,Arithmetic pool (adaptive),0.9119512195121952
+2,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9104878048780488
+2,30,30.0,0.001,Geometric pool (adaptive),0.85
+2,30,30.0,0.001,Arithmetic pool (adaptive),0.9021951219512195
+2,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.9019512195121951
+2,30,30.0,0.01,Geometric pool (adaptive),0.8660975609756097
+2,30,30.0,0.01,Arithmetic pool (adaptive),0.905609756097561
+2,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9070731707317073
+2,30,30.0,0.1,Geometric pool (adaptive),0.8882926829268293
+2,30,30.0,0.1,Arithmetic pool (adaptive),0.9104878048780488
+2,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9087804878048781
+2,30,100.0,0.001,Geometric pool (adaptive),0.8148780487804878
+2,30,100.0,0.001,Arithmetic pool (adaptive),0.8909756097560976
+2,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8873170731707317
+2,30,100.0,0.01,Geometric pool (adaptive),0.8278048780487804
+2,30,100.0,0.01,Arithmetic pool (adaptive),0.8873170731707317
+2,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8934146341463415
+2,30,100.0,0.1,Geometric pool (adaptive),0.8402439024390244
+2,30,100.0,0.1,Arithmetic pool (adaptive),0.8875609756097561
+2,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8948780487804878
+2,30,,0.001,Knowledge only,0.77
+2,30,,0.01,Knowledge only,0.776829268292683
+2,30,,0.1,Knowledge only,0.7780487804878049
+2,30,,,Data only (NB),0.9073170731707317
+3,1,1.0,0.001,Geometric pool (adaptive),0.7987804878048781
+3,1,1.0,0.001,Arithmetic pool (adaptive),0.8236585365853658
+3,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8319512195121951
+3,1,1.0,0.01,Geometric pool (adaptive),0.7985365853658537
+3,1,1.0,0.01,Arithmetic pool (adaptive),0.8253658536585365
+3,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8136585365853658
+3,1,1.0,0.1,Geometric pool (adaptive),0.7802439024390244
+3,1,1.0,0.1,Arithmetic pool (adaptive),0.8134146341463414
+3,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7336585365853658
+3,1,3.0,0.001,Geometric pool (adaptive),0.7841463414634147
+3,1,3.0,0.001,Arithmetic pool (adaptive),0.811219512195122
+3,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8426829268292683
+3,1,3.0,0.01,Geometric pool (adaptive),0.7907317073170732
+3,1,3.0,0.01,Arithmetic pool (adaptive),0.8134146341463414
+3,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8407317073170731
+3,1,3.0,0.1,Geometric pool (adaptive),0.7892682926829269
+3,1,3.0,0.1,Arithmetic pool (adaptive),0.8117073170731708
+3,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7958536585365854
+3,1,10.0,0.001,Geometric pool (adaptive),0.7785365853658537
+3,1,10.0,0.001,Arithmetic pool (adaptive),0.8073170731707318
+3,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8290243902439024
+3,1,10.0,0.01,Geometric pool (adaptive),0.7841463414634147
+3,1,10.0,0.01,Arithmetic pool (adaptive),0.7975609756097561
+3,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8282926829268292
+3,1,10.0,0.1,Geometric pool (adaptive),0.7858536585365854
+3,1,10.0,0.1,Arithmetic pool (adaptive),0.796829268292683
+3,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8158536585365853
+3,1,30.0,0.001,Geometric pool (adaptive),0.7763414634146342
+3,1,30.0,0.001,Arithmetic pool (adaptive),0.8004878048780488
+3,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8121951219512196
+3,1,30.0,0.01,Geometric pool (adaptive),0.78
+3,1,30.0,0.01,Arithmetic pool (adaptive),0.7865853658536586
+3,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8156097560975609
+3,1,30.0,0.1,Geometric pool (adaptive),0.7773170731707317
+3,1,30.0,0.1,Arithmetic pool (adaptive),0.7804878048780488
+3,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.814390243902439
+3,1,100.0,0.001,Geometric pool (adaptive),0.7731707317073171
+3,1,100.0,0.001,Arithmetic pool (adaptive),0.7836585365853659
+3,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8070731707317074
+3,1,100.0,0.01,Geometric pool (adaptive),0.7770731707317073
+3,1,100.0,0.01,Arithmetic pool (adaptive),0.7819512195121952
+3,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8
+3,1,100.0,0.1,Geometric pool (adaptive),0.7734146341463415
+3,1,100.0,0.1,Arithmetic pool (adaptive),0.776829268292683
+3,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.7992682926829269
+3,1,,0.001,Knowledge only,0.7685365853658537
+3,1,,0.01,Knowledge only,0.7721951219512195
+3,1,,0.1,Knowledge only,0.7707317073170732
+3,1,,,Data only (NB),0.6331707317073171
+3,3,1.0,0.001,Geometric pool (adaptive),0.8407317073170731
+3,3,1.0,0.001,Arithmetic pool (adaptive),0.8739024390243902
+3,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.875609756097561
+3,3,1.0,0.01,Geometric pool (adaptive),0.8407317073170731
+3,3,1.0,0.01,Arithmetic pool (adaptive),0.8697560975609756
+3,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8695121951219512
+3,3,1.0,0.1,Geometric pool (adaptive),0.8426829268292683
+3,3,1.0,0.1,Arithmetic pool (adaptive),0.8578048780487805
+3,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.843170731707317
+3,3,3.0,0.001,Geometric pool (adaptive),0.8212195121951219
+3,3,3.0,0.001,Arithmetic pool (adaptive),0.8568292682926829
+3,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8802439024390244
+3,3,3.0,0.01,Geometric pool (adaptive),0.8263414634146341
+3,3,3.0,0.01,Arithmetic pool (adaptive),0.8568292682926829
+3,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8795121951219512
+3,3,3.0,0.1,Geometric pool (adaptive),0.8302439024390244
+3,3,3.0,0.1,Arithmetic pool (adaptive),0.8482926829268292
+3,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.858780487804878
+3,3,10.0,0.001,Geometric pool (adaptive),0.7880487804878049
+3,3,10.0,0.001,Arithmetic pool (adaptive),0.8417073170731707
+3,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8621951219512195
+3,3,10.0,0.01,Geometric pool (adaptive),0.7997560975609757
+3,3,10.0,0.01,Arithmetic pool (adaptive),0.8439024390243902
+3,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8636585365853658
+3,3,10.0,0.1,Geometric pool (adaptive),0.812439024390244
+3,3,10.0,0.1,Arithmetic pool (adaptive),0.8339024390243902
+3,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8560975609756097
+3,3,30.0,0.001,Geometric pool (adaptive),0.7826829268292683
+3,3,30.0,0.001,Arithmetic pool (adaptive),0.8292682926829268
+3,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8446341463414634
+3,3,30.0,0.01,Geometric pool (adaptive),0.7873170731707317
+3,3,30.0,0.01,Arithmetic pool (adaptive),0.8192682926829268
+3,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8473170731707317
+3,3,30.0,0.1,Geometric pool (adaptive),0.7958536585365854
+3,3,30.0,0.1,Arithmetic pool (adaptive),0.8139024390243902
+3,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8395121951219512
+3,3,100.0,0.001,Geometric pool (adaptive),0.7782926829268293
+3,3,100.0,0.001,Arithmetic pool (adaptive),0.8202439024390243
+3,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8314634146341463
+3,3,100.0,0.01,Geometric pool (adaptive),0.7829268292682927
+3,3,100.0,0.01,Arithmetic pool (adaptive),0.7934146341463415
+3,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8292682926829268
+3,3,100.0,0.1,Geometric pool (adaptive),0.781219512195122
+3,3,100.0,0.1,Arithmetic pool (adaptive),0.7921951219512195
+3,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8214634146341463
+3,3,,0.001,Knowledge only,0.7685365853658537
+3,3,,0.01,Knowledge only,0.7721951219512195
+3,3,,0.1,Knowledge only,0.7707317073170732
+3,3,,,Data only (NB),0.827560975609756
+3,10,1.0,0.001,Geometric pool (adaptive),0.9004878048780488
+3,10,1.0,0.001,Arithmetic pool (adaptive),0.9095121951219513
+3,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9092682926829269
+3,10,1.0,0.01,Geometric pool (adaptive),0.9039024390243903
+3,10,1.0,0.01,Arithmetic pool (adaptive),0.9078048780487805
+3,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9087804878048781
+3,10,1.0,0.1,Geometric pool (adaptive),0.9017073170731708
+3,10,1.0,0.1,Arithmetic pool (adaptive),0.9041463414634147
+3,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9026829268292683
+3,10,3.0,0.001,Geometric pool (adaptive),0.884390243902439
+3,10,3.0,0.001,Arithmetic pool (adaptive),0.9031707317073171
+3,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9102439024390244
+3,10,3.0,0.01,Geometric pool (adaptive),0.8914634146341464
+3,10,3.0,0.01,Arithmetic pool (adaptive),0.9048780487804878
+3,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9090243902439025
+3,10,3.0,0.1,Geometric pool (adaptive),0.8953658536585366
+3,10,3.0,0.1,Arithmetic pool (adaptive),0.9053658536585366
+3,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9036585365853659
+3,10,10.0,0.001,Geometric pool (adaptive),0.8417073170731707
+3,10,10.0,0.001,Arithmetic pool (adaptive),0.8904878048780488
+3,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8990243902439025
+3,10,10.0,0.01,Geometric pool (adaptive),0.8551219512195122
+3,10,10.0,0.01,Arithmetic pool (adaptive),0.8919512195121951
+3,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9021951219512195
+3,10,10.0,0.1,Geometric pool (adaptive),0.8709756097560976
+3,10,10.0,0.1,Arithmetic pool (adaptive),0.8965853658536586
+3,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9041463414634147
+3,10,30.0,0.001,Geometric pool (adaptive),0.8046341463414635
+3,10,30.0,0.001,Arithmetic pool (adaptive),0.871219512195122
+3,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8829268292682927
+3,10,30.0,0.01,Geometric pool (adaptive),0.8192682926829268
+3,10,30.0,0.01,Arithmetic pool (adaptive),0.8721951219512195
+3,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8853658536585366
+3,10,30.0,0.1,Geometric pool (adaptive),0.8356097560975609
+3,10,30.0,0.1,Arithmetic pool (adaptive),0.8673170731707317
+3,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8880487804878049
+3,10,100.0,0.001,Geometric pool (adaptive),0.7875609756097561
+3,10,100.0,0.001,Arithmetic pool (adaptive),0.853170731707317
+3,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8585365853658536
+3,10,100.0,0.01,Geometric pool (adaptive),0.7917073170731708
+3,10,100.0,0.01,Arithmetic pool (adaptive),0.8453658536585366
+3,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8624390243902439
+3,10,100.0,0.1,Geometric pool (adaptive),0.8063414634146342
+3,10,100.0,0.1,Arithmetic pool (adaptive),0.834390243902439
+3,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8507317073170731
+3,10,,0.001,Knowledge only,0.7685365853658537
+3,10,,0.01,Knowledge only,0.7721951219512195
+3,10,,0.1,Knowledge only,0.7707317073170732
+3,10,,,Data only (NB),0.9031707317073171
+3,30,1.0,0.001,Geometric pool (adaptive),0.9192682926829269
+3,30,1.0,0.001,Arithmetic pool (adaptive),0.9202439024390244
+3,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.92
+3,30,1.0,0.01,Geometric pool (adaptive),0.9190243902439025
+3,30,1.0,0.01,Arithmetic pool (adaptive),0.9197560975609756
+3,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9192682926829269
+3,30,1.0,0.1,Geometric pool (adaptive),0.9190243902439025
+3,30,1.0,0.1,Arithmetic pool (adaptive),0.9197560975609756
+3,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9195121951219513
+3,30,3.0,0.001,Geometric pool (adaptive),0.9148780487804878
+3,30,3.0,0.001,Arithmetic pool (adaptive),0.9197560975609756
+3,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9197560975609756
+3,30,3.0,0.01,Geometric pool (adaptive),0.9163414634146342
+3,30,3.0,0.01,Arithmetic pool (adaptive),0.9207317073170732
+3,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9197560975609756
+3,30,3.0,0.1,Geometric pool (adaptive),0.9185365853658537
+3,30,3.0,0.1,Arithmetic pool (adaptive),0.9195121951219513
+3,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9185365853658537
+3,30,10.0,0.001,Geometric pool (adaptive),0.8929268292682927
+3,30,10.0,0.001,Arithmetic pool (adaptive),0.9165853658536586
+3,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9173170731707317
+3,30,10.0,0.01,Geometric pool (adaptive),0.9039024390243903
+3,30,10.0,0.01,Arithmetic pool (adaptive),0.9182926829268293
+3,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9187804878048781
+3,30,10.0,0.1,Geometric pool (adaptive),0.9129268292682927
+3,30,10.0,0.1,Arithmetic pool (adaptive),0.9204878048780488
+3,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9187804878048781
+3,30,30.0,0.001,Geometric pool (adaptive),0.8553658536585366
+3,30,30.0,0.001,Arithmetic pool (adaptive),0.9058536585365854
+3,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.9065853658536586
+3,30,30.0,0.01,Geometric pool (adaptive),0.8702439024390244
+3,30,30.0,0.01,Arithmetic pool (adaptive),0.9080487804878049
+3,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.911219512195122
+3,30,30.0,0.1,Geometric pool (adaptive),0.8892682926829268
+3,30,30.0,0.1,Arithmetic pool (adaptive),0.9160975609756098
+3,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9153658536585366
+3,30,100.0,0.001,Geometric pool (adaptive),0.8104878048780488
+3,30,100.0,0.001,Arithmetic pool (adaptive),0.8863414634146342
+3,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8846341463414634
+3,30,100.0,0.01,Geometric pool (adaptive),0.8258536585365853
+3,30,100.0,0.01,Arithmetic pool (adaptive),0.8863414634146342
+3,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8902439024390244
+3,30,100.0,0.1,Geometric pool (adaptive),0.844390243902439
+3,30,100.0,0.1,Arithmetic pool (adaptive),0.8887804878048781
+3,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8914634146341464
+3,30,,0.001,Knowledge only,0.7685365853658537
+3,30,,0.01,Knowledge only,0.7721951219512195
+3,30,,0.1,Knowledge only,0.7707317073170732
+3,30,,,Data only (NB),0.9192682926829269
+4,1,1.0,0.001,Geometric pool (adaptive),0.7841463414634147
+4,1,1.0,0.001,Arithmetic pool (adaptive),0.8090243902439025
+4,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8117073170731708
+4,1,1.0,0.01,Geometric pool (adaptive),0.7834146341463415
+4,1,1.0,0.01,Arithmetic pool (adaptive),0.8104878048780488
+4,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.7951219512195122
+4,1,1.0,0.1,Geometric pool (adaptive),0.7651219512195122
+4,1,1.0,0.1,Arithmetic pool (adaptive),0.7997560975609757
+4,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7034146341463414
+4,1,3.0,0.001,Geometric pool (adaptive),0.7773170731707317
+4,1,3.0,0.001,Arithmetic pool (adaptive),0.8019512195121952
+4,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8278048780487804
+4,1,3.0,0.01,Geometric pool (adaptive),0.78
+4,1,3.0,0.01,Arithmetic pool (adaptive),0.8
+4,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8251219512195122
+4,1,3.0,0.1,Geometric pool (adaptive),0.775609756097561
+4,1,3.0,0.1,Arithmetic pool (adaptive),0.7965853658536586
+4,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7731707317073171
+4,1,10.0,0.001,Geometric pool (adaptive),0.7746341463414634
+4,1,10.0,0.001,Arithmetic pool (adaptive),0.7978048780487805
+4,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.813170731707317
+4,1,10.0,0.01,Geometric pool (adaptive),0.7773170731707317
+4,1,10.0,0.01,Arithmetic pool (adaptive),0.7878048780487805
+4,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8141463414634146
+4,1,10.0,0.1,Geometric pool (adaptive),0.7758536585365854
+4,1,10.0,0.1,Arithmetic pool (adaptive),0.7860975609756098
+4,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8004878048780488
+4,1,30.0,0.001,Geometric pool (adaptive),0.7709756097560976
+4,1,30.0,0.001,Arithmetic pool (adaptive),0.7887804878048781
+4,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8034146341463415
+4,1,30.0,0.01,Geometric pool (adaptive),0.7741463414634147
+4,1,30.0,0.01,Arithmetic pool (adaptive),0.7839024390243903
+4,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8026829268292683
+4,1,30.0,0.1,Geometric pool (adaptive),0.77
+4,1,30.0,0.1,Arithmetic pool (adaptive),0.7785365853658537
+4,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8004878048780488
+4,1,100.0,0.001,Geometric pool (adaptive),0.7641463414634146
+4,1,100.0,0.001,Arithmetic pool (adaptive),0.7826829268292683
+4,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.7982926829268293
+4,1,100.0,0.01,Geometric pool (adaptive),0.7658536585365854
+4,1,100.0,0.01,Arithmetic pool (adaptive),0.7792682926829269
+4,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.7878048780487805
+4,1,100.0,0.1,Geometric pool (adaptive),0.7680487804878049
+4,1,100.0,0.1,Arithmetic pool (adaptive),0.7692682926829268
+4,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.79
+4,1,,0.001,Knowledge only,0.7595121951219512
+4,1,,0.01,Knowledge only,0.7614634146341464
+4,1,,0.1,Knowledge only,0.7595121951219512
+4,1,,,Data only (NB),0.5682926829268292
+4,3,1.0,0.001,Geometric pool (adaptive),0.8397560975609756
+4,3,1.0,0.001,Arithmetic pool (adaptive),0.8673170731707317
+4,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8639024390243902
+4,3,1.0,0.01,Geometric pool (adaptive),0.8419512195121951
+4,3,1.0,0.01,Arithmetic pool (adaptive),0.8665853658536585
+4,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8573170731707317
+4,3,1.0,0.1,Geometric pool (adaptive),0.8358536585365853
+4,3,1.0,0.1,Arithmetic pool (adaptive),0.8548780487804878
+4,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8292682926829268
+4,3,3.0,0.001,Geometric pool (adaptive),0.8156097560975609
+4,3,3.0,0.001,Arithmetic pool (adaptive),0.8492682926829268
+4,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8741463414634146
+4,3,3.0,0.01,Geometric pool (adaptive),0.8253658536585365
+4,3,3.0,0.01,Arithmetic pool (adaptive),0.8492682926829268
+4,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.871219512195122
+4,3,3.0,0.1,Geometric pool (adaptive),0.8292682926829268
+4,3,3.0,0.1,Arithmetic pool (adaptive),0.8492682926829268
+4,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8465853658536585
+4,3,10.0,0.001,Geometric pool (adaptive),0.7892682926829269
+4,3,10.0,0.001,Arithmetic pool (adaptive),0.83
+4,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8602439024390244
+4,3,10.0,0.01,Geometric pool (adaptive),0.7970731707317074
+4,3,10.0,0.01,Arithmetic pool (adaptive),0.8317073170731707
+4,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8597560975609756
+4,3,10.0,0.1,Geometric pool (adaptive),0.8073170731707318
+4,3,10.0,0.1,Arithmetic pool (adaptive),0.8241463414634146
+4,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8546341463414634
+4,3,30.0,0.001,Geometric pool (adaptive),0.7860975609756098
+4,3,30.0,0.001,Arithmetic pool (adaptive),0.8195121951219512
+4,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8365853658536585
+4,3,30.0,0.01,Geometric pool (adaptive),0.7890243902439025
+4,3,30.0,0.01,Arithmetic pool (adaptive),0.812439024390244
+4,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8380487804878048
+4,3,30.0,0.1,Geometric pool (adaptive),0.7943902439024391
+4,3,30.0,0.1,Arithmetic pool (adaptive),0.8085365853658537
+4,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8348780487804878
+4,3,100.0,0.001,Geometric pool (adaptive),0.7804878048780488
+4,3,100.0,0.001,Arithmetic pool (adaptive),0.8129268292682926
+4,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8224390243902439
+4,3,100.0,0.01,Geometric pool (adaptive),0.7826829268292683
+4,3,100.0,0.01,Arithmetic pool (adaptive),0.7953658536585366
+4,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8217073170731707
+4,3,100.0,0.1,Geometric pool (adaptive),0.7790243902439025
+4,3,100.0,0.1,Arithmetic pool (adaptive),0.7890243902439025
+4,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8170731707317073
+4,3,,0.001,Knowledge only,0.7595121951219512
+4,3,,0.01,Knowledge only,0.7614634146341464
+4,3,,0.1,Knowledge only,0.7595121951219512
+4,3,,,Data only (NB),0.8043902439024391
+4,10,1.0,0.001,Geometric pool (adaptive),0.8931707317073171
+4,10,1.0,0.001,Arithmetic pool (adaptive),0.9004878048780488
+4,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9014634146341464
+4,10,1.0,0.01,Geometric pool (adaptive),0.895609756097561
+4,10,1.0,0.01,Arithmetic pool (adaptive),0.9009756097560976
+4,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9004878048780488
+4,10,1.0,0.1,Geometric pool (adaptive),0.8973170731707317
+4,10,1.0,0.1,Arithmetic pool (adaptive),0.8985365853658537
+4,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8960975609756098
+4,10,3.0,0.001,Geometric pool (adaptive),0.8768292682926829
+4,10,3.0,0.001,Arithmetic pool (adaptive),0.9007317073170732
+4,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9017073170731708
+4,10,3.0,0.01,Geometric pool (adaptive),0.8853658536585366
+4,10,3.0,0.01,Arithmetic pool (adaptive),0.9019512195121951
+4,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9002439024390244
+4,10,3.0,0.1,Geometric pool (adaptive),0.8907317073170732
+4,10,3.0,0.1,Arithmetic pool (adaptive),0.9
+4,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8990243902439025
+4,10,10.0,0.001,Geometric pool (adaptive),0.8353658536585366
+4,10,10.0,0.001,Arithmetic pool (adaptive),0.8851219512195122
+4,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8963414634146342
+4,10,10.0,0.01,Geometric pool (adaptive),0.8519512195121951
+4,10,10.0,0.01,Arithmetic pool (adaptive),0.8882926829268293
+4,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8987804878048781
+4,10,10.0,0.1,Geometric pool (adaptive),0.865609756097561
+4,10,10.0,0.1,Arithmetic pool (adaptive),0.8909756097560976
+4,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8960975609756098
+4,10,30.0,0.001,Geometric pool (adaptive),0.8026829268292683
+4,10,30.0,0.001,Arithmetic pool (adaptive),0.8658536585365854
+4,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8773170731707317
+4,10,30.0,0.01,Geometric pool (adaptive),0.8141463414634146
+4,10,30.0,0.01,Arithmetic pool (adaptive),0.8660975609756097
+4,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8819512195121951
+4,10,30.0,0.1,Geometric pool (adaptive),0.827560975609756
+4,10,30.0,0.1,Arithmetic pool (adaptive),0.8653658536585366
+4,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8834146341463415
+4,10,100.0,0.001,Geometric pool (adaptive),0.79
+4,10,100.0,0.001,Arithmetic pool (adaptive),0.8495121951219512
+4,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8548780487804878
+4,10,100.0,0.01,Geometric pool (adaptive),0.7931707317073171
+4,10,100.0,0.01,Arithmetic pool (adaptive),0.8402439024390244
+4,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.855609756097561
+4,10,100.0,0.1,Geometric pool (adaptive),0.8041463414634147
+4,10,100.0,0.1,Arithmetic pool (adaptive),0.8280487804878048
+4,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8475609756097561
+4,10,,0.001,Knowledge only,0.7595121951219512
+4,10,,0.01,Knowledge only,0.7614634146341464
+4,10,,0.1,Knowledge only,0.7595121951219512
+4,10,,,Data only (NB),0.8951219512195122
+4,30,1.0,0.001,Geometric pool (adaptive),0.9070731707317073
+4,30,1.0,0.001,Arithmetic pool (adaptive),0.9095121951219513
+4,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9095121951219513
+4,30,1.0,0.01,Geometric pool (adaptive),0.9085365853658537
+4,30,1.0,0.01,Arithmetic pool (adaptive),0.9095121951219513
+4,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9095121951219513
+4,30,1.0,0.1,Geometric pool (adaptive),0.9087804878048781
+4,30,1.0,0.1,Arithmetic pool (adaptive),0.9090243902439025
+4,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9087804878048781
+4,30,3.0,0.001,Geometric pool (adaptive),0.9065853658536586
+4,30,3.0,0.001,Arithmetic pool (adaptive),0.9090243902439025
+4,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.91
+4,30,3.0,0.01,Geometric pool (adaptive),0.9080487804878049
+4,30,3.0,0.01,Arithmetic pool (adaptive),0.9097560975609756
+4,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9102439024390244
+4,30,3.0,0.1,Geometric pool (adaptive),0.9073170731707317
+4,30,3.0,0.1,Arithmetic pool (adaptive),0.9109756097560976
+4,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9095121951219513
+4,30,10.0,0.001,Geometric pool (adaptive),0.8870731707317073
+4,30,10.0,0.001,Arithmetic pool (adaptive),0.9080487804878049
+4,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9085365853658537
+4,30,10.0,0.01,Geometric pool (adaptive),0.8951219512195122
+4,30,10.0,0.01,Arithmetic pool (adaptive),0.9104878048780488
+4,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9095121951219513
+4,30,10.0,0.1,Geometric pool (adaptive),0.9024390243902439
+4,30,10.0,0.1,Arithmetic pool (adaptive),0.9143902439024391
+4,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9117073170731708
+4,30,30.0,0.001,Geometric pool (adaptive),0.8482926829268292
+4,30,30.0,0.001,Arithmetic pool (adaptive),0.8975609756097561
+4,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.9004878048780488
+4,30,30.0,0.01,Geometric pool (adaptive),0.8653658536585366
+4,30,30.0,0.01,Arithmetic pool (adaptive),0.9014634146341464
+4,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9051219512195122
+4,30,30.0,0.1,Geometric pool (adaptive),0.881219512195122
+4,30,30.0,0.1,Arithmetic pool (adaptive),0.9102439024390244
+4,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9087804878048781
+4,30,100.0,0.001,Geometric pool (adaptive),0.8104878048780488
+4,30,100.0,0.001,Arithmetic pool (adaptive),0.8802439024390244
+4,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.878780487804878
+4,30,100.0,0.01,Geometric pool (adaptive),0.8207317073170731
+4,30,100.0,0.01,Arithmetic pool (adaptive),0.8819512195121951
+4,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.884390243902439
+4,30,100.0,0.1,Geometric pool (adaptive),0.8353658536585366
+4,30,100.0,0.1,Arithmetic pool (adaptive),0.8836585365853659
+4,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8868292682926829
+4,30,,0.001,Knowledge only,0.7595121951219512
+4,30,,0.01,Knowledge only,0.7614634146341464
+4,30,,0.1,Knowledge only,0.7595121951219512
+4,30,,,Data only (NB),0.9087804878048781
+5,1,1.0,0.001,Geometric pool (adaptive),0.8075609756097561
+5,1,1.0,0.001,Arithmetic pool (adaptive),0.8280487804878048
+5,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8446341463414634
+5,1,1.0,0.01,Geometric pool (adaptive),0.8073170731707318
+5,1,1.0,0.01,Arithmetic pool (adaptive),0.83
+5,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8334146341463414
+5,1,1.0,0.1,Geometric pool (adaptive),0.7902439024390244
+5,1,1.0,0.1,Arithmetic pool (adaptive),0.8263414634146341
+5,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.774390243902439
+5,1,3.0,0.001,Geometric pool (adaptive),0.7836585365853659
+5,1,3.0,0.001,Arithmetic pool (adaptive),0.814390243902439
+5,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8565853658536585
+5,1,3.0,0.01,Geometric pool (adaptive),0.795609756097561
+5,1,3.0,0.01,Arithmetic pool (adaptive),0.8165853658536585
+5,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8553658536585366
+5,1,3.0,0.1,Geometric pool (adaptive),0.7929268292682927
+5,1,3.0,0.1,Arithmetic pool (adaptive),0.8156097560975609
+5,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8170731707317073
+5,1,10.0,0.001,Geometric pool (adaptive),0.7758536585365854
+5,1,10.0,0.001,Arithmetic pool (adaptive),0.8082926829268293
+5,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8321951219512195
+5,1,10.0,0.01,Geometric pool (adaptive),0.7829268292682927
+5,1,10.0,0.01,Arithmetic pool (adaptive),0.8007317073170732
+5,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8336585365853658
+5,1,10.0,0.1,Geometric pool (adaptive),0.7885365853658537
+5,1,10.0,0.1,Arithmetic pool (adaptive),0.8004878048780488
+5,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.83
+5,1,30.0,0.001,Geometric pool (adaptive),0.7697560975609756
+5,1,30.0,0.001,Arithmetic pool (adaptive),0.8017073170731708
+5,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8151219512195121
+5,1,30.0,0.01,Geometric pool (adaptive),0.7746341463414634
+5,1,30.0,0.01,Arithmetic pool (adaptive),0.786829268292683
+5,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8182926829268292
+5,1,30.0,0.1,Geometric pool (adaptive),0.7778048780487805
+5,1,30.0,0.1,Arithmetic pool (adaptive),0.786829268292683
+5,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8185365853658536
+5,1,100.0,0.001,Geometric pool (adaptive),0.7651219512195122
+5,1,100.0,0.001,Arithmetic pool (adaptive),0.7880487804878049
+5,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8078048780487805
+5,1,100.0,0.01,Geometric pool (adaptive),0.77
+5,1,100.0,0.01,Arithmetic pool (adaptive),0.7795121951219512
+5,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8043902439024391
+5,1,100.0,0.1,Geometric pool (adaptive),0.7719512195121951
+5,1,100.0,0.1,Arithmetic pool (adaptive),0.7785365853658537
+5,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.802439024390244
+5,1,,0.001,Knowledge only,0.7624390243902439
+5,1,,0.01,Knowledge only,0.7631707317073171
+5,1,,0.1,Knowledge only,0.7653658536585366
+5,1,,,Data only (NB),0.6643902439024391
+5,3,1.0,0.001,Geometric pool (adaptive),0.8475609756097561
+5,3,1.0,0.001,Arithmetic pool (adaptive),0.8797560975609756
+5,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8717073170731707
+5,3,1.0,0.01,Geometric pool (adaptive),0.8475609756097561
+5,3,1.0,0.01,Arithmetic pool (adaptive),0.878780487804878
+5,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.865609756097561
+5,3,1.0,0.1,Geometric pool (adaptive),0.8468292682926829
+5,3,1.0,0.1,Arithmetic pool (adaptive),0.8590243902439024
+5,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8448780487804878
+5,3,3.0,0.001,Geometric pool (adaptive),0.8270731707317073
+5,3,3.0,0.001,Arithmetic pool (adaptive),0.864390243902439
+5,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.885609756097561
+5,3,3.0,0.01,Geometric pool (adaptive),0.8339024390243902
+5,3,3.0,0.01,Arithmetic pool (adaptive),0.8660975609756097
+5,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8817073170731707
+5,3,3.0,0.1,Geometric pool (adaptive),0.8356097560975609
+5,3,3.0,0.1,Arithmetic pool (adaptive),0.8604878048780488
+5,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8575609756097561
+5,3,10.0,0.001,Geometric pool (adaptive),0.8
+5,3,10.0,0.001,Arithmetic pool (adaptive),0.8426829268292683
+5,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8690243902439024
+5,3,10.0,0.01,Geometric pool (adaptive),0.8109756097560976
+5,3,10.0,0.01,Arithmetic pool (adaptive),0.8436585365853658
+5,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8709756097560976
+5,3,10.0,0.1,Geometric pool (adaptive),0.8209756097560975
+5,3,10.0,0.1,Arithmetic pool (adaptive),0.8421951219512195
+5,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8619512195121951
+5,3,30.0,0.001,Geometric pool (adaptive),0.7943902439024391
+5,3,30.0,0.001,Arithmetic pool (adaptive),0.8346341463414634
+5,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8495121951219512
+5,3,30.0,0.01,Geometric pool (adaptive),0.7982926829268293
+5,3,30.0,0.01,Arithmetic pool (adaptive),0.8268292682926829
+5,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8521951219512195
+5,3,30.0,0.1,Geometric pool (adaptive),0.8046341463414635
+5,3,30.0,0.1,Arithmetic pool (adaptive),0.8212195121951219
+5,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8514634146341463
+5,3,100.0,0.001,Geometric pool (adaptive),0.781219512195122
+5,3,100.0,0.001,Arithmetic pool (adaptive),0.8221951219512195
+5,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8348780487804878
+5,3,100.0,0.01,Geometric pool (adaptive),0.7897560975609756
+5,3,100.0,0.01,Arithmetic pool (adaptive),0.8080487804878049
+5,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8326829268292683
+5,3,100.0,0.1,Geometric pool (adaptive),0.7890243902439025
+5,3,100.0,0.1,Arithmetic pool (adaptive),0.802439024390244
+5,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8285365853658536
+5,3,,0.001,Knowledge only,0.7624390243902439
+5,3,,0.01,Knowledge only,0.7631707317073171
+5,3,,0.1,Knowledge only,0.7653658536585366
+5,3,,,Data only (NB),0.8278048780487804
+5,10,1.0,0.001,Geometric pool (adaptive),0.9058536585365854
+5,10,1.0,0.001,Arithmetic pool (adaptive),0.9165853658536586
+5,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9153658536585366
+5,10,1.0,0.01,Geometric pool (adaptive),0.9053658536585366
+5,10,1.0,0.01,Arithmetic pool (adaptive),0.9153658536585366
+5,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9136585365853659
+5,10,1.0,0.1,Geometric pool (adaptive),0.905609756097561
+5,10,1.0,0.1,Arithmetic pool (adaptive),0.9119512195121952
+5,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9087804878048781
+5,10,3.0,0.001,Geometric pool (adaptive),0.8909756097560976
+5,10,3.0,0.001,Arithmetic pool (adaptive),0.9153658536585366
+5,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9195121951219513
+5,10,3.0,0.01,Geometric pool (adaptive),0.8963414634146342
+5,10,3.0,0.01,Arithmetic pool (adaptive),0.915609756097561
+5,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9180487804878049
+5,10,3.0,0.1,Geometric pool (adaptive),0.9017073170731708
+5,10,3.0,0.1,Arithmetic pool (adaptive),0.9102439024390244
+5,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9092682926829269
+5,10,10.0,0.001,Geometric pool (adaptive),0.8485365853658536
+5,10,10.0,0.001,Arithmetic pool (adaptive),0.8975609756097561
+5,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9119512195121952
+5,10,10.0,0.01,Geometric pool (adaptive),0.8665853658536585
+5,10,10.0,0.01,Arithmetic pool (adaptive),0.8987804878048781
+5,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9121951219512195
+5,10,10.0,0.1,Geometric pool (adaptive),0.8802439024390244
+5,10,10.0,0.1,Arithmetic pool (adaptive),0.9034146341463415
+5,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9058536585365854
+5,10,30.0,0.001,Geometric pool (adaptive),0.8156097560975609
+5,10,30.0,0.001,Arithmetic pool (adaptive),0.8795121951219512
+5,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8909756097560976
+5,10,30.0,0.01,Geometric pool (adaptive),0.8251219512195122
+5,10,30.0,0.01,Arithmetic pool (adaptive),0.8790243902439024
+5,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8953658536585366
+5,10,30.0,0.1,Geometric pool (adaptive),0.845609756097561
+5,10,30.0,0.1,Arithmetic pool (adaptive),0.8817073170731707
+5,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8941463414634147
+5,10,100.0,0.001,Geometric pool (adaptive),0.7985365853658537
+5,10,100.0,0.001,Arithmetic pool (adaptive),0.8604878048780488
+5,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8695121951219512
+5,10,100.0,0.01,Geometric pool (adaptive),0.8031707317073171
+5,10,100.0,0.01,Arithmetic pool (adaptive),0.8536585365853658
+5,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8695121951219512
+5,10,100.0,0.1,Geometric pool (adaptive),0.8163414634146341
+5,10,100.0,0.1,Arithmetic pool (adaptive),0.8436585365853658
+5,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8653658536585366
+5,10,,0.001,Knowledge only,0.7624390243902439
+5,10,,0.01,Knowledge only,0.7631707317073171
+5,10,,0.1,Knowledge only,0.7653658536585366
+5,10,,,Data only (NB),0.9070731707317073
+5,30,1.0,0.001,Geometric pool (adaptive),0.9192682926829269
+5,30,1.0,0.001,Arithmetic pool (adaptive),0.9197560975609756
+5,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9192682926829269
+5,30,1.0,0.01,Geometric pool (adaptive),0.9192682926829269
+5,30,1.0,0.01,Arithmetic pool (adaptive),0.92
+5,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9197560975609756
+5,30,1.0,0.1,Geometric pool (adaptive),0.9185365853658537
+5,30,1.0,0.1,Arithmetic pool (adaptive),0.9197560975609756
+5,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9195121951219513
+5,30,3.0,0.001,Geometric pool (adaptive),0.9185365853658537
+5,30,3.0,0.001,Arithmetic pool (adaptive),0.9209756097560976
+5,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9204878048780488
+5,30,3.0,0.01,Geometric pool (adaptive),0.9178048780487805
+5,30,3.0,0.01,Arithmetic pool (adaptive),0.9195121951219513
+5,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9192682926829269
+5,30,3.0,0.1,Geometric pool (adaptive),0.9185365853658537
+5,30,3.0,0.1,Arithmetic pool (adaptive),0.9192682926829269
+5,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9190243902439025
+5,30,10.0,0.001,Geometric pool (adaptive),0.9021951219512195
+5,30,10.0,0.001,Arithmetic pool (adaptive),0.922439024390244
+5,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.922439024390244
+5,30,10.0,0.01,Geometric pool (adaptive),0.9078048780487805
+5,30,10.0,0.01,Arithmetic pool (adaptive),0.9234146341463415
+5,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9243902439024391
+5,30,10.0,0.1,Geometric pool (adaptive),0.9153658536585366
+5,30,10.0,0.1,Arithmetic pool (adaptive),0.9229268292682927
+5,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9207317073170732
+5,30,30.0,0.001,Geometric pool (adaptive),0.8631707317073171
+5,30,30.0,0.001,Arithmetic pool (adaptive),0.9141463414634147
+5,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.9153658536585366
+5,30,30.0,0.01,Geometric pool (adaptive),0.8778048780487805
+5,30,30.0,0.01,Arithmetic pool (adaptive),0.9158536585365854
+5,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9195121951219513
+5,30,30.0,0.1,Geometric pool (adaptive),0.894390243902439
+5,30,30.0,0.1,Arithmetic pool (adaptive),0.9229268292682927
+5,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9221951219512196
+5,30,100.0,0.001,Geometric pool (adaptive),0.82
+5,30,100.0,0.001,Arithmetic pool (adaptive),0.8958536585365854
+5,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8951219512195122
+5,30,100.0,0.01,Geometric pool (adaptive),0.8326829268292683
+5,30,100.0,0.01,Arithmetic pool (adaptive),0.8965853658536586
+5,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.9002439024390244
+5,30,100.0,0.1,Geometric pool (adaptive),0.8504878048780488
+5,30,100.0,0.1,Arithmetic pool (adaptive),0.896829268292683
+5,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.9002439024390244
+5,30,,0.001,Knowledge only,0.7624390243902439
+5,30,,0.01,Knowledge only,0.7631707317073171
+5,30,,0.1,Knowledge only,0.7653658536585366
+5,30,,,Data only (NB),0.9190243902439025
+6,1,1.0,0.001,Geometric pool (adaptive),0.7692682926829268
+6,1,1.0,0.001,Arithmetic pool (adaptive),0.7929268292682927
+6,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.7970731707317074
+6,1,1.0,0.01,Geometric pool (adaptive),0.765609756097561
+6,1,1.0,0.01,Arithmetic pool (adaptive),0.7936585365853659
+6,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.7829268292682927
+6,1,1.0,0.1,Geometric pool (adaptive),0.7478048780487805
+6,1,1.0,0.1,Arithmetic pool (adaptive),0.7751219512195122
+6,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7080487804878048
+6,1,3.0,0.001,Geometric pool (adaptive),0.7624390243902439
+6,1,3.0,0.001,Arithmetic pool (adaptive),0.7814634146341464
+6,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8156097560975609
+6,1,3.0,0.01,Geometric pool (adaptive),0.7663414634146342
+6,1,3.0,0.01,Arithmetic pool (adaptive),0.7875609756097561
+6,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8095121951219513
+6,1,3.0,0.1,Geometric pool (adaptive),0.7595121951219512
+6,1,3.0,0.1,Arithmetic pool (adaptive),0.7746341463414634
+6,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7631707317073171
+6,1,10.0,0.001,Geometric pool (adaptive),0.7526829268292683
+6,1,10.0,0.001,Arithmetic pool (adaptive),0.7782926829268293
+6,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.7985365853658537
+6,1,10.0,0.01,Geometric pool (adaptive),0.7609756097560976
+6,1,10.0,0.01,Arithmetic pool (adaptive),0.7748780487804878
+6,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.7987804878048781
+6,1,10.0,0.1,Geometric pool (adaptive),0.7495121951219512
+6,1,10.0,0.1,Arithmetic pool (adaptive),0.7653658536585366
+6,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.7797560975609756
+6,1,30.0,0.001,Geometric pool (adaptive),0.7470731707317073
+6,1,30.0,0.001,Arithmetic pool (adaptive),0.774390243902439
+6,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.7819512195121952
+6,1,30.0,0.01,Geometric pool (adaptive),0.7517073170731707
+6,1,30.0,0.01,Arithmetic pool (adaptive),0.7675609756097561
+6,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.7890243902439025
+6,1,30.0,0.1,Geometric pool (adaptive),0.7463414634146341
+6,1,30.0,0.1,Arithmetic pool (adaptive),0.7573170731707317
+6,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.7773170731707317
+6,1,100.0,0.001,Geometric pool (adaptive),0.7404878048780488
+6,1,100.0,0.001,Arithmetic pool (adaptive),0.765609756097561
+6,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.7775609756097561
+6,1,100.0,0.01,Geometric pool (adaptive),0.7453658536585366
+6,1,100.0,0.01,Arithmetic pool (adaptive),0.7621951219512195
+6,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.7765853658536586
+6,1,100.0,0.1,Geometric pool (adaptive),0.7419512195121951
+6,1,100.0,0.1,Arithmetic pool (adaptive),0.7470731707317073
+6,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.77
+6,1,,0.001,Knowledge only,0.7365853658536585
+6,1,,0.01,Knowledge only,0.7480487804878049
+6,1,,0.1,Knowledge only,0.7402439024390244
+6,1,,,Data only (NB),0.6260975609756098
+6,3,1.0,0.001,Geometric pool (adaptive),0.8190243902439024
+6,3,1.0,0.001,Arithmetic pool (adaptive),0.8617073170731707
+6,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8604878048780488
+6,3,1.0,0.01,Geometric pool (adaptive),0.8212195121951219
+6,3,1.0,0.01,Arithmetic pool (adaptive),0.8604878048780488
+6,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8519512195121951
+6,3,1.0,0.1,Geometric pool (adaptive),0.8146341463414634
+6,3,1.0,0.1,Arithmetic pool (adaptive),0.8404878048780487
+6,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8226829268292682
+6,3,3.0,0.001,Geometric pool (adaptive),0.7992682926829269
+6,3,3.0,0.001,Arithmetic pool (adaptive),0.8426829268292683
+6,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8702439024390244
+6,3,3.0,0.01,Geometric pool (adaptive),0.8051219512195122
+6,3,3.0,0.01,Arithmetic pool (adaptive),0.8434146341463414
+6,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8685365853658537
+6,3,3.0,0.1,Geometric pool (adaptive),0.8026829268292683
+6,3,3.0,0.1,Arithmetic pool (adaptive),0.8321951219512195
+6,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8375609756097561
+6,3,10.0,0.001,Geometric pool (adaptive),0.7729268292682927
+6,3,10.0,0.001,Arithmetic pool (adaptive),0.8173170731707317
+6,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.853170731707317
+6,3,10.0,0.01,Geometric pool (adaptive),0.7795121951219512
+6,3,10.0,0.01,Arithmetic pool (adaptive),0.8207317073170731
+6,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8529268292682927
+6,3,10.0,0.1,Geometric pool (adaptive),0.7904878048780488
+6,3,10.0,0.1,Arithmetic pool (adaptive),0.8114634146341464
+6,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8414634146341463
+6,3,30.0,0.001,Geometric pool (adaptive),0.761219512195122
+6,3,30.0,0.001,Arithmetic pool (adaptive),0.8087804878048781
+6,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.824390243902439
+6,3,30.0,0.01,Geometric pool (adaptive),0.771219512195122
+6,3,30.0,0.01,Arithmetic pool (adaptive),0.8087804878048781
+6,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8295121951219512
+6,3,30.0,0.1,Geometric pool (adaptive),0.7668292682926829
+6,3,30.0,0.1,Arithmetic pool (adaptive),0.7973170731707317
+6,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8180487804878048
+6,3,100.0,0.001,Geometric pool (adaptive),0.7536585365853659
+6,3,100.0,0.001,Arithmetic pool (adaptive),0.8019512195121952
+6,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.81
+6,3,100.0,0.01,Geometric pool (adaptive),0.7629268292682927
+6,3,100.0,0.01,Arithmetic pool (adaptive),0.785609756097561
+6,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8129268292682926
+6,3,100.0,0.1,Geometric pool (adaptive),0.755609756097561
+6,3,100.0,0.1,Arithmetic pool (adaptive),0.7687804878048781
+6,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.802439024390244
+6,3,,0.001,Knowledge only,0.7365853658536585
+6,3,,0.01,Knowledge only,0.7480487804878049
+6,3,,0.1,Knowledge only,0.7402439024390244
+6,3,,,Data only (NB),0.8026829268292683
+6,10,1.0,0.001,Geometric pool (adaptive),0.8931707317073171
+6,10,1.0,0.001,Arithmetic pool (adaptive),0.9017073170731708
+6,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9014634146341464
+6,10,1.0,0.01,Geometric pool (adaptive),0.8939024390243903
+6,10,1.0,0.01,Arithmetic pool (adaptive),0.9007317073170732
+6,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9007317073170732
+6,10,1.0,0.1,Geometric pool (adaptive),0.8939024390243903
+6,10,1.0,0.1,Arithmetic pool (adaptive),0.896829268292683
+6,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8963414634146342
+6,10,3.0,0.001,Geometric pool (adaptive),0.8736585365853659
+6,10,3.0,0.001,Arithmetic pool (adaptive),0.8982926829268293
+6,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9021951219512195
+6,10,3.0,0.01,Geometric pool (adaptive),0.8824390243902439
+6,10,3.0,0.01,Arithmetic pool (adaptive),0.8978048780487805
+6,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9021951219512195
+6,10,3.0,0.1,Geometric pool (adaptive),0.8902439024390244
+6,10,3.0,0.1,Arithmetic pool (adaptive),0.8963414634146342
+6,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.896829268292683
+6,10,10.0,0.001,Geometric pool (adaptive),0.8292682926829268
+6,10,10.0,0.001,Arithmetic pool (adaptive),0.8865853658536585
+6,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8970731707317073
+6,10,10.0,0.01,Geometric pool (adaptive),0.8434146341463414
+6,10,10.0,0.01,Arithmetic pool (adaptive),0.8895121951219512
+6,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8978048780487805
+6,10,10.0,0.1,Geometric pool (adaptive),0.8570731707317073
+6,10,10.0,0.1,Arithmetic pool (adaptive),0.8897560975609756
+6,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8941463414634147
+6,10,30.0,0.001,Geometric pool (adaptive),0.7963414634146342
+6,10,30.0,0.001,Arithmetic pool (adaptive),0.8629268292682927
+6,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8763414634146341
+6,10,30.0,0.01,Geometric pool (adaptive),0.8078048780487805
+6,10,30.0,0.01,Arithmetic pool (adaptive),0.8621951219512195
+6,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8802439024390244
+6,10,30.0,0.1,Geometric pool (adaptive),0.8163414634146341
+6,10,30.0,0.1,Arithmetic pool (adaptive),0.8578048780487805
+6,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8824390243902439
+6,10,100.0,0.001,Geometric pool (adaptive),0.7741463414634147
+6,10,100.0,0.001,Arithmetic pool (adaptive),0.8441463414634146
+6,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.85
+6,10,100.0,0.01,Geometric pool (adaptive),0.7809756097560976
+6,10,100.0,0.01,Arithmetic pool (adaptive),0.8351219512195122
+6,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8558536585365853
+6,10,100.0,0.1,Geometric pool (adaptive),0.7897560975609756
+6,10,100.0,0.1,Arithmetic pool (adaptive),0.8180487804878048
+6,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8412195121951219
+6,10,,0.001,Knowledge only,0.7365853658536585
+6,10,,0.01,Knowledge only,0.7480487804878049
+6,10,,0.1,Knowledge only,0.7402439024390244
+6,10,,,Data only (NB),0.894390243902439
+6,30,1.0,0.001,Geometric pool (adaptive),0.9136585365853659
+6,30,1.0,0.001,Arithmetic pool (adaptive),0.9124390243902439
+6,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9124390243902439
+6,30,1.0,0.01,Geometric pool (adaptive),0.9129268292682927
+6,30,1.0,0.01,Arithmetic pool (adaptive),0.9119512195121952
+6,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9119512195121952
+6,30,1.0,0.1,Geometric pool (adaptive),0.9119512195121952
+6,30,1.0,0.1,Arithmetic pool (adaptive),0.9119512195121952
+6,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9119512195121952
+6,30,3.0,0.001,Geometric pool (adaptive),0.9104878048780488
+6,30,3.0,0.001,Arithmetic pool (adaptive),0.9146341463414634
+6,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9136585365853659
+6,30,3.0,0.01,Geometric pool (adaptive),0.9117073170731708
+6,30,3.0,0.01,Arithmetic pool (adaptive),0.9134146341463415
+6,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9129268292682927
+6,30,3.0,0.1,Geometric pool (adaptive),0.9129268292682927
+6,30,3.0,0.1,Arithmetic pool (adaptive),0.9129268292682927
+6,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9121951219512195
+6,30,10.0,0.001,Geometric pool (adaptive),0.8914634146341464
+6,30,10.0,0.001,Arithmetic pool (adaptive),0.9151219512195122
+6,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9151219512195122
+6,30,10.0,0.01,Geometric pool (adaptive),0.8997560975609756
+6,30,10.0,0.01,Arithmetic pool (adaptive),0.9158536585365854
+6,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9165853658536586
+6,30,10.0,0.1,Geometric pool (adaptive),0.906829268292683
+6,30,10.0,0.1,Arithmetic pool (adaptive),0.9160975609756098
+6,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9146341463414634
+6,30,30.0,0.001,Geometric pool (adaptive),0.844390243902439
+6,30,30.0,0.001,Arithmetic pool (adaptive),0.9048780487804878
+6,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.9070731707317073
+6,30,30.0,0.01,Geometric pool (adaptive),0.8614634146341463
+6,30,30.0,0.01,Arithmetic pool (adaptive),0.9075609756097561
+6,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9095121951219513
+6,30,30.0,0.1,Geometric pool (adaptive),0.8851219512195122
+6,30,30.0,0.1,Arithmetic pool (adaptive),0.9129268292682927
+6,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9121951219512195
+6,30,100.0,0.001,Geometric pool (adaptive),0.802439024390244
+6,30,100.0,0.001,Arithmetic pool (adaptive),0.8846341463414634
+6,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8873170731707317
+6,30,100.0,0.01,Geometric pool (adaptive),0.8182926829268292
+6,30,100.0,0.01,Arithmetic pool (adaptive),0.8853658536585366
+6,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8929268292682927
+6,30,100.0,0.1,Geometric pool (adaptive),0.8295121951219512
+6,30,100.0,0.1,Arithmetic pool (adaptive),0.8892682926829268
+6,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8919512195121951
+6,30,,0.001,Knowledge only,0.7365853658536585
+6,30,,0.01,Knowledge only,0.7480487804878049
+6,30,,0.1,Knowledge only,0.7402439024390244
+6,30,,,Data only (NB),0.9109756097560976
+7,1,1.0,0.001,Geometric pool (adaptive),0.8
+7,1,1.0,0.001,Arithmetic pool (adaptive),0.8265853658536585
+7,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8363414634146341
+7,1,1.0,0.01,Geometric pool (adaptive),0.7963414634146342
+7,1,1.0,0.01,Arithmetic pool (adaptive),0.8263414634146341
+7,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8204878048780487
+7,1,1.0,0.1,Geometric pool (adaptive),0.7780487804878049
+7,1,1.0,0.1,Arithmetic pool (adaptive),0.8141463414634146
+7,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.735609756097561
+7,1,3.0,0.001,Geometric pool (adaptive),0.7917073170731708
+7,1,3.0,0.001,Arithmetic pool (adaptive),0.8165853658536585
+7,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8385365853658536
+7,1,3.0,0.01,Geometric pool (adaptive),0.7963414634146342
+7,1,3.0,0.01,Arithmetic pool (adaptive),0.8126829268292682
+7,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8385365853658536
+7,1,3.0,0.1,Geometric pool (adaptive),0.7934146341463415
+7,1,3.0,0.1,Arithmetic pool (adaptive),0.8168292682926829
+7,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7987804878048781
+7,1,10.0,0.001,Geometric pool (adaptive),0.7902439024390244
+7,1,10.0,0.001,Arithmetic pool (adaptive),0.8104878048780488
+7,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8282926829268292
+7,1,10.0,0.01,Geometric pool (adaptive),0.7919512195121952
+7,1,10.0,0.01,Arithmetic pool (adaptive),0.7997560975609757
+7,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8278048780487804
+7,1,10.0,0.1,Geometric pool (adaptive),0.7943902439024391
+7,1,10.0,0.1,Arithmetic pool (adaptive),0.8019512195121952
+7,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8134146341463414
+7,1,30.0,0.001,Geometric pool (adaptive),0.7863414634146342
+7,1,30.0,0.001,Arithmetic pool (adaptive),0.8031707317073171
+7,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8190243902439024
+7,1,30.0,0.01,Geometric pool (adaptive),0.7865853658536586
+7,1,30.0,0.01,Arithmetic pool (adaptive),0.7946341463414635
+7,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8151219512195121
+7,1,30.0,0.1,Geometric pool (adaptive),0.7875609756097561
+7,1,30.0,0.1,Arithmetic pool (adaptive),0.7939024390243903
+7,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8178048780487804
+7,1,100.0,0.001,Geometric pool (adaptive),0.7804878048780488
+7,1,100.0,0.001,Arithmetic pool (adaptive),0.7941463414634147
+7,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8129268292682926
+7,1,100.0,0.01,Geometric pool (adaptive),0.7778048780487805
+7,1,100.0,0.01,Arithmetic pool (adaptive),0.7907317073170732
+7,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8014634146341464
+7,1,100.0,0.1,Geometric pool (adaptive),0.7782926829268293
+7,1,100.0,0.1,Arithmetic pool (adaptive),0.7809756097560976
+7,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8039024390243903
+7,1,,0.001,Knowledge only,0.7765853658536586
+7,1,,0.01,Knowledge only,0.7731707317073171
+7,1,,0.1,Knowledge only,0.7734146341463415
+7,1,,,Data only (NB),0.6392682926829268
+7,3,1.0,0.001,Geometric pool (adaptive),0.8478048780487805
+7,3,1.0,0.001,Arithmetic pool (adaptive),0.8768292682926829
+7,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8770731707317073
+7,3,1.0,0.01,Geometric pool (adaptive),0.8509756097560975
+7,3,1.0,0.01,Arithmetic pool (adaptive),0.875609756097561
+7,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8685365853658537
+7,3,1.0,0.1,Geometric pool (adaptive),0.8478048780487805
+7,3,1.0,0.1,Arithmetic pool (adaptive),0.8592682926829268
+7,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.843170731707317
+7,3,3.0,0.001,Geometric pool (adaptive),0.8268292682926829
+7,3,3.0,0.001,Arithmetic pool (adaptive),0.858780487804878
+7,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8814634146341463
+7,3,3.0,0.01,Geometric pool (adaptive),0.8353658536585366
+7,3,3.0,0.01,Arithmetic pool (adaptive),0.8604878048780488
+7,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8795121951219512
+7,3,3.0,0.1,Geometric pool (adaptive),0.8402439024390244
+7,3,3.0,0.1,Arithmetic pool (adaptive),0.8560975609756097
+7,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8578048780487805
+7,3,10.0,0.001,Geometric pool (adaptive),0.8014634146341464
+7,3,10.0,0.001,Arithmetic pool (adaptive),0.8395121951219512
+7,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8636585365853658
+7,3,10.0,0.01,Geometric pool (adaptive),0.8070731707317074
+7,3,10.0,0.01,Arithmetic pool (adaptive),0.843170731707317
+7,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8670731707317073
+7,3,10.0,0.1,Geometric pool (adaptive),0.8239024390243902
+7,3,10.0,0.1,Arithmetic pool (adaptive),0.8334146341463414
+7,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8617073170731707
+7,3,30.0,0.001,Geometric pool (adaptive),0.7963414634146342
+7,3,30.0,0.001,Arithmetic pool (adaptive),0.8319512195121951
+7,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8465853658536585
+7,3,30.0,0.01,Geometric pool (adaptive),0.7982926829268293
+7,3,30.0,0.01,Arithmetic pool (adaptive),0.8248780487804878
+7,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8478048780487805
+7,3,30.0,0.1,Geometric pool (adaptive),0.8065853658536586
+7,3,30.0,0.1,Arithmetic pool (adaptive),0.8256097560975609
+7,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8460975609756097
+7,3,100.0,0.001,Geometric pool (adaptive),0.79
+7,3,100.0,0.001,Arithmetic pool (adaptive),0.8260975609756097
+7,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8317073170731707
+7,3,100.0,0.01,Geometric pool (adaptive),0.7926829268292683
+7,3,100.0,0.01,Arithmetic pool (adaptive),0.8053658536585366
+7,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8319512195121951
+7,3,100.0,0.1,Geometric pool (adaptive),0.7963414634146342
+7,3,100.0,0.1,Arithmetic pool (adaptive),0.8019512195121952
+7,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8307317073170731
+7,3,,0.001,Knowledge only,0.7765853658536586
+7,3,,0.01,Knowledge only,0.7731707317073171
+7,3,,0.1,Knowledge only,0.7734146341463415
+7,3,,,Data only (NB),0.8314634146341463
+7,10,1.0,0.001,Geometric pool (adaptive),0.9024390243902439
+7,10,1.0,0.001,Arithmetic pool (adaptive),0.9070731707317073
+7,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9080487804878049
+7,10,1.0,0.01,Geometric pool (adaptive),0.9019512195121951
+7,10,1.0,0.01,Arithmetic pool (adaptive),0.906829268292683
+7,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9080487804878049
+7,10,1.0,0.1,Geometric pool (adaptive),0.9034146341463415
+7,10,1.0,0.1,Arithmetic pool (adaptive),0.9058536585365854
+7,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9063414634146342
+7,10,3.0,0.001,Geometric pool (adaptive),0.8868292682926829
+7,10,3.0,0.001,Arithmetic pool (adaptive),0.9060975609756098
+7,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9095121951219513
+7,10,3.0,0.01,Geometric pool (adaptive),0.8941463414634147
+7,10,3.0,0.01,Arithmetic pool (adaptive),0.9065853658536586
+7,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9078048780487805
+7,10,3.0,0.1,Geometric pool (adaptive),0.9004878048780488
+7,10,3.0,0.1,Arithmetic pool (adaptive),0.9046341463414634
+7,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.905609756097561
+7,10,10.0,0.001,Geometric pool (adaptive),0.848780487804878
+7,10,10.0,0.001,Arithmetic pool (adaptive),0.894390243902439
+7,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9026829268292683
+7,10,10.0,0.01,Geometric pool (adaptive),0.8595121951219512
+7,10,10.0,0.01,Arithmetic pool (adaptive),0.8948780487804878
+7,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9063414634146342
+7,10,10.0,0.1,Geometric pool (adaptive),0.8731707317073171
+7,10,10.0,0.1,Arithmetic pool (adaptive),0.9007317073170732
+7,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9021951219512195
+7,10,30.0,0.001,Geometric pool (adaptive),0.8180487804878048
+7,10,30.0,0.001,Arithmetic pool (adaptive),0.8758536585365854
+7,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8863414634146342
+7,10,30.0,0.01,Geometric pool (adaptive),0.8304878048780487
+7,10,30.0,0.01,Arithmetic pool (adaptive),0.8731707317073171
+7,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8907317073170732
+7,10,30.0,0.1,Geometric pool (adaptive),0.8419512195121951
+7,10,30.0,0.1,Arithmetic pool (adaptive),0.8719512195121951
+7,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8907317073170732
+7,10,100.0,0.001,Geometric pool (adaptive),0.8043902439024391
+7,10,100.0,0.001,Arithmetic pool (adaptive),0.854390243902439
+7,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8614634146341463
+7,10,100.0,0.01,Geometric pool (adaptive),0.8053658536585366
+7,10,100.0,0.01,Arithmetic pool (adaptive),0.8509756097560975
+7,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8621951219512195
+7,10,100.0,0.1,Geometric pool (adaptive),0.8197560975609756
+7,10,100.0,0.1,Arithmetic pool (adaptive),0.8409756097560975
+7,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8568292682926829
+7,10,,0.001,Knowledge only,0.7765853658536586
+7,10,,0.01,Knowledge only,0.7731707317073171
+7,10,,0.1,Knowledge only,0.7734146341463415
+7,10,,,Data only (NB),0.9051219512195122
+7,30,1.0,0.001,Geometric pool (adaptive),0.9163414634146342
+7,30,1.0,0.001,Arithmetic pool (adaptive),0.9143902439024391
+7,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9141463414634147
+7,30,1.0,0.01,Geometric pool (adaptive),0.915609756097561
+7,30,1.0,0.01,Arithmetic pool (adaptive),0.9146341463414634
+7,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9139024390243903
+7,30,1.0,0.1,Geometric pool (adaptive),0.9136585365853659
+7,30,1.0,0.1,Arithmetic pool (adaptive),0.9143902439024391
+7,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9141463414634147
+7,30,3.0,0.001,Geometric pool (adaptive),0.9136585365853659
+7,30,3.0,0.001,Arithmetic pool (adaptive),0.916829268292683
+7,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9163414634146342
+7,30,3.0,0.01,Geometric pool (adaptive),0.9146341463414634
+7,30,3.0,0.01,Arithmetic pool (adaptive),0.9163414634146342
+7,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9158536585365854
+7,30,3.0,0.1,Geometric pool (adaptive),0.9151219512195122
+7,30,3.0,0.1,Arithmetic pool (adaptive),0.9173170731707317
+7,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9165853658536586
+7,30,10.0,0.001,Geometric pool (adaptive),0.8997560975609756
+7,30,10.0,0.001,Arithmetic pool (adaptive),0.915609756097561
+7,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9163414634146342
+7,30,10.0,0.01,Geometric pool (adaptive),0.9078048780487805
+7,30,10.0,0.01,Arithmetic pool (adaptive),0.916829268292683
+7,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9173170731707317
+7,30,10.0,0.1,Geometric pool (adaptive),0.9121951219512195
+7,30,10.0,0.1,Arithmetic pool (adaptive),0.9209756097560976
+7,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9190243902439025
+7,30,30.0,0.001,Geometric pool (adaptive),0.8607317073170732
+7,30,30.0,0.001,Arithmetic pool (adaptive),0.9109756097560976
+7,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.91
+7,30,30.0,0.01,Geometric pool (adaptive),0.874390243902439
+7,30,30.0,0.01,Arithmetic pool (adaptive),0.9146341463414634
+7,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9153658536585366
+7,30,30.0,0.1,Geometric pool (adaptive),0.8936585365853659
+7,30,30.0,0.1,Arithmetic pool (adaptive),0.9163414634146342
+7,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9158536585365854
+7,30,100.0,0.001,Geometric pool (adaptive),0.8248780487804878
+7,30,100.0,0.001,Arithmetic pool (adaptive),0.8951219512195122
+7,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8926829268292683
+7,30,100.0,0.01,Geometric pool (adaptive),0.8375609756097561
+7,30,100.0,0.01,Arithmetic pool (adaptive),0.8924390243902439
+7,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.9004878048780488
+7,30,100.0,0.1,Geometric pool (adaptive),0.85
+7,30,100.0,0.1,Arithmetic pool (adaptive),0.8939024390243903
+7,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.9
+7,30,,0.001,Knowledge only,0.7765853658536586
+7,30,,0.01,Knowledge only,0.7731707317073171
+7,30,,0.1,Knowledge only,0.7734146341463415
+7,30,,,Data only (NB),0.9129268292682927
+8,1,1.0,0.001,Geometric pool (adaptive),0.785609756097561
+8,1,1.0,0.001,Arithmetic pool (adaptive),0.8104878048780488
+8,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8248780487804878
+8,1,1.0,0.01,Geometric pool (adaptive),0.79
+8,1,1.0,0.01,Arithmetic pool (adaptive),0.8119512195121952
+8,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8165853658536585
+8,1,1.0,0.1,Geometric pool (adaptive),0.7765853658536586
+8,1,1.0,0.1,Arithmetic pool (adaptive),0.8102439024390244
+8,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7121951219512195
+8,1,3.0,0.001,Geometric pool (adaptive),0.7665853658536586
+8,1,3.0,0.001,Arithmetic pool (adaptive),0.7960975609756098
+8,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8365853658536585
+8,1,3.0,0.01,Geometric pool (adaptive),0.7770731707317073
+8,1,3.0,0.01,Arithmetic pool (adaptive),0.7963414634146342
+8,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.833170731707317
+8,1,3.0,0.1,Geometric pool (adaptive),0.7770731707317073
+8,1,3.0,0.1,Arithmetic pool (adaptive),0.7941463414634147
+8,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7904878048780488
+8,1,10.0,0.001,Geometric pool (adaptive),0.7602439024390244
+8,1,10.0,0.001,Arithmetic pool (adaptive),0.7890243902439025
+8,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8134146341463414
+8,1,10.0,0.01,Geometric pool (adaptive),0.7670731707317073
+8,1,10.0,0.01,Arithmetic pool (adaptive),0.7760975609756098
+8,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8153658536585365
+8,1,10.0,0.1,Geometric pool (adaptive),0.7692682926829268
+8,1,10.0,0.1,Arithmetic pool (adaptive),0.7787804878048781
+8,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8139024390243902
+8,1,30.0,0.001,Geometric pool (adaptive),0.7551219512195122
+8,1,30.0,0.001,Arithmetic pool (adaptive),0.7753658536585366
+8,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8014634146341464
+8,1,30.0,0.01,Geometric pool (adaptive),0.7609756097560976
+8,1,30.0,0.01,Arithmetic pool (adaptive),0.7670731707317073
+8,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8046341463414635
+8,1,30.0,0.1,Geometric pool (adaptive),0.7631707317073171
+8,1,30.0,0.1,Arithmetic pool (adaptive),0.7658536585365854
+8,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.796829268292683
+8,1,100.0,0.001,Geometric pool (adaptive),0.754390243902439
+8,1,100.0,0.001,Arithmetic pool (adaptive),0.7629268292682927
+8,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.7887804878048781
+8,1,100.0,0.01,Geometric pool (adaptive),0.7587804878048781
+8,1,100.0,0.01,Arithmetic pool (adaptive),0.7653658536585366
+8,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.7787804878048781
+8,1,100.0,0.1,Geometric pool (adaptive),0.7590243902439024
+8,1,100.0,0.1,Arithmetic pool (adaptive),0.7585365853658537
+8,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.7824390243902439
+8,1,,0.001,Knowledge only,0.7509756097560976
+8,1,,0.01,Knowledge only,0.7568292682926829
+8,1,,0.1,Knowledge only,0.7526829268292683
+8,1,,,Data only (NB),0.6121951219512195
+8,3,1.0,0.001,Geometric pool (adaptive),0.8365853658536585
+8,3,1.0,0.001,Arithmetic pool (adaptive),0.8785365853658537
+8,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8785365853658537
+8,3,1.0,0.01,Geometric pool (adaptive),0.8409756097560975
+8,3,1.0,0.01,Arithmetic pool (adaptive),0.8773170731707317
+8,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8731707317073171
+8,3,1.0,0.1,Geometric pool (adaptive),0.8414634146341463
+8,3,1.0,0.1,Arithmetic pool (adaptive),0.8609756097560975
+8,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8419512195121951
+8,3,3.0,0.001,Geometric pool (adaptive),0.8114634146341464
+8,3,3.0,0.001,Arithmetic pool (adaptive),0.8541463414634146
+8,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8826829268292683
+8,3,3.0,0.01,Geometric pool (adaptive),0.8178048780487804
+8,3,3.0,0.01,Arithmetic pool (adaptive),0.8548780487804878
+8,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8802439024390244
+8,3,3.0,0.1,Geometric pool (adaptive),0.8258536585365853
+8,3,3.0,0.1,Arithmetic pool (adaptive),0.8529268292682927
+8,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8607317073170732
+8,3,10.0,0.001,Geometric pool (adaptive),0.776829268292683
+8,3,10.0,0.001,Arithmetic pool (adaptive),0.8282926829268292
+8,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.86
+8,3,10.0,0.01,Geometric pool (adaptive),0.7885365853658537
+8,3,10.0,0.01,Arithmetic pool (adaptive),0.83
+8,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8629268292682927
+8,3,10.0,0.1,Geometric pool (adaptive),0.8002439024390244
+8,3,10.0,0.1,Arithmetic pool (adaptive),0.8224390243902439
+8,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8602439024390244
+8,3,30.0,0.001,Geometric pool (adaptive),0.7687804878048781
+8,3,30.0,0.001,Arithmetic pool (adaptive),0.8158536585365853
+8,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8353658536585366
+8,3,30.0,0.01,Geometric pool (adaptive),0.7736585365853659
+8,3,30.0,0.01,Arithmetic pool (adaptive),0.8092682926829269
+8,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8370731707317073
+8,3,30.0,0.1,Geometric pool (adaptive),0.7824390243902439
+8,3,30.0,0.1,Arithmetic pool (adaptive),0.8017073170731708
+8,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8326829268292683
+8,3,100.0,0.001,Geometric pool (adaptive),0.7631707317073171
+8,3,100.0,0.001,Arithmetic pool (adaptive),0.8043902439024391
+8,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8180487804878048
+8,3,100.0,0.01,Geometric pool (adaptive),0.77
+8,3,100.0,0.01,Arithmetic pool (adaptive),0.7853658536585366
+8,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8160975609756097
+8,3,100.0,0.1,Geometric pool (adaptive),0.7692682926829268
+8,3,100.0,0.1,Arithmetic pool (adaptive),0.7780487804878049
+8,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8082926829268293
+8,3,,0.001,Knowledge only,0.7509756097560976
+8,3,,0.01,Knowledge only,0.7568292682926829
+8,3,,0.1,Knowledge only,0.7526829268292683
+8,3,,,Data only (NB),0.8226829268292682
+8,10,1.0,0.001,Geometric pool (adaptive),0.8970731707317073
+8,10,1.0,0.001,Arithmetic pool (adaptive),0.9060975609756098
+8,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9051219512195122
+8,10,1.0,0.01,Geometric pool (adaptive),0.8982926829268293
+8,10,1.0,0.01,Arithmetic pool (adaptive),0.904390243902439
+8,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9017073170731708
+8,10,1.0,0.1,Geometric pool (adaptive),0.8978048780487805
+8,10,1.0,0.1,Arithmetic pool (adaptive),0.8990243902439025
+8,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8987804878048781
+8,10,3.0,0.001,Geometric pool (adaptive),0.8814634146341463
+8,10,3.0,0.001,Arithmetic pool (adaptive),0.9026829268292683
+8,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.91
+8,10,3.0,0.01,Geometric pool (adaptive),0.8875609756097561
+8,10,3.0,0.01,Arithmetic pool (adaptive),0.9034146341463415
+8,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9065853658536586
+8,10,3.0,0.1,Geometric pool (adaptive),0.8946341463414634
+8,10,3.0,0.1,Arithmetic pool (adaptive),0.9002439024390244
+8,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9002439024390244
+8,10,10.0,0.001,Geometric pool (adaptive),0.8314634146341463
+8,10,10.0,0.001,Arithmetic pool (adaptive),0.8882926829268293
+8,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9004878048780488
+8,10,10.0,0.01,Geometric pool (adaptive),0.8492682926829268
+8,10,10.0,0.01,Arithmetic pool (adaptive),0.8904878048780488
+8,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9017073170731708
+8,10,10.0,0.1,Geometric pool (adaptive),0.8673170731707317
+8,10,10.0,0.1,Arithmetic pool (adaptive),0.8939024390243903
+8,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8970731707317073
+8,10,30.0,0.001,Geometric pool (adaptive),0.791219512195122
+8,10,30.0,0.001,Arithmetic pool (adaptive),0.8680487804878049
+8,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8807317073170732
+8,10,30.0,0.01,Geometric pool (adaptive),0.8092682926829269
+8,10,30.0,0.01,Arithmetic pool (adaptive),0.8673170731707317
+8,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8836585365853659
+8,10,30.0,0.1,Geometric pool (adaptive),0.8256097560975609
+8,10,30.0,0.1,Arithmetic pool (adaptive),0.8682926829268293
+8,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8878048780487805
+8,10,100.0,0.001,Geometric pool (adaptive),0.7775609756097561
+8,10,100.0,0.001,Arithmetic pool (adaptive),0.8492682926829268
+8,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.855609756097561
+8,10,100.0,0.01,Geometric pool (adaptive),0.7821951219512195
+8,10,100.0,0.01,Arithmetic pool (adaptive),0.8358536585365853
+8,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8573170731707317
+8,10,100.0,0.1,Geometric pool (adaptive),0.7939024390243903
+8,10,100.0,0.1,Arithmetic pool (adaptive),0.8234146341463414
+8,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.85
+8,10,,0.001,Knowledge only,0.7509756097560976
+8,10,,0.01,Knowledge only,0.7568292682926829
+8,10,,0.1,Knowledge only,0.7526829268292683
+8,10,,,Data only (NB),0.8987804878048781
+8,30,1.0,0.001,Geometric pool (adaptive),0.9139024390243903
+8,30,1.0,0.001,Arithmetic pool (adaptive),0.9143902439024391
+8,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9141463414634147
+8,30,1.0,0.01,Geometric pool (adaptive),0.9148780487804878
+8,30,1.0,0.01,Arithmetic pool (adaptive),0.9139024390243903
+8,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9136585365853659
+8,30,1.0,0.1,Geometric pool (adaptive),0.9136585365853659
+8,30,1.0,0.1,Arithmetic pool (adaptive),0.9134146341463415
+8,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9134146341463415
+8,30,3.0,0.001,Geometric pool (adaptive),0.9131707317073171
+8,30,3.0,0.001,Arithmetic pool (adaptive),0.9143902439024391
+8,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9148780487804878
+8,30,3.0,0.01,Geometric pool (adaptive),0.9151219512195122
+8,30,3.0,0.01,Arithmetic pool (adaptive),0.9143902439024391
+8,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9148780487804878
+8,30,3.0,0.1,Geometric pool (adaptive),0.9139024390243903
+8,30,3.0,0.1,Arithmetic pool (adaptive),0.9148780487804878
+8,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9146341463414634
+8,30,10.0,0.001,Geometric pool (adaptive),0.8941463414634147
+8,30,10.0,0.001,Arithmetic pool (adaptive),0.9163414634146342
+8,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9158536585365854
+8,30,10.0,0.01,Geometric pool (adaptive),0.9029268292682927
+8,30,10.0,0.01,Arithmetic pool (adaptive),0.9163414634146342
+8,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.9163414634146342
+8,30,10.0,0.1,Geometric pool (adaptive),0.9114634146341464
+8,30,10.0,0.1,Arithmetic pool (adaptive),0.915609756097561
+8,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.915609756097561
+8,30,30.0,0.001,Geometric pool (adaptive),0.848780487804878
+8,30,30.0,0.001,Arithmetic pool (adaptive),0.9026829268292683
+8,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.905609756097561
+8,30,30.0,0.01,Geometric pool (adaptive),0.8680487804878049
+8,30,30.0,0.01,Arithmetic pool (adaptive),0.9048780487804878
+8,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.91
+8,30,30.0,0.1,Geometric pool (adaptive),0.8897560975609756
+8,30,30.0,0.1,Arithmetic pool (adaptive),0.9146341463414634
+8,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9146341463414634
+8,30,100.0,0.001,Geometric pool (adaptive),0.7997560975609757
+8,30,100.0,0.001,Arithmetic pool (adaptive),0.8878048780487805
+8,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8853658536585366
+8,30,100.0,0.01,Geometric pool (adaptive),0.8148780487804878
+8,30,100.0,0.01,Arithmetic pool (adaptive),0.8846341463414634
+8,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8890243902439025
+8,30,100.0,0.1,Geometric pool (adaptive),0.8370731707317073
+8,30,100.0,0.1,Arithmetic pool (adaptive),0.8890243902439025
+8,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8924390243902439
+8,30,,0.001,Knowledge only,0.7509756097560976
+8,30,,0.01,Knowledge only,0.7568292682926829
+8,30,,0.1,Knowledge only,0.7526829268292683
+8,30,,,Data only (NB),0.9134146341463415
+9,1,1.0,0.001,Geometric pool (adaptive),0.806829268292683
+9,1,1.0,0.001,Arithmetic pool (adaptive),0.8212195121951219
+9,1,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8285365853658536
+9,1,1.0,0.01,Geometric pool (adaptive),0.8014634146341464
+9,1,1.0,0.01,Arithmetic pool (adaptive),0.8214634146341463
+9,1,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8136585365853658
+9,1,1.0,0.1,Geometric pool (adaptive),0.7797560975609756
+9,1,1.0,0.1,Arithmetic pool (adaptive),0.8078048780487805
+9,1,1.0,0.1,Arithmetic pool (Dirichlet prior),0.7251219512195122
+9,1,3.0,0.001,Geometric pool (adaptive),0.7973170731707317
+9,1,3.0,0.001,Arithmetic pool (adaptive),0.8146341463414634
+9,1,3.0,0.001,Arithmetic pool (Dirichlet prior),0.8409756097560975
+9,1,3.0,0.01,Geometric pool (adaptive),0.8
+9,1,3.0,0.01,Arithmetic pool (adaptive),0.8136585365853658
+9,1,3.0,0.01,Arithmetic pool (Dirichlet prior),0.8382926829268292
+9,1,3.0,0.1,Geometric pool (adaptive),0.7963414634146342
+9,1,3.0,0.1,Arithmetic pool (adaptive),0.813170731707317
+9,1,3.0,0.1,Arithmetic pool (Dirichlet prior),0.7880487804878049
+9,1,10.0,0.001,Geometric pool (adaptive),0.7921951219512195
+9,1,10.0,0.001,Arithmetic pool (adaptive),0.8119512195121952
+9,1,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8224390243902439
+9,1,10.0,0.01,Geometric pool (adaptive),0.7960975609756098
+9,1,10.0,0.01,Arithmetic pool (adaptive),0.8046341463414635
+9,1,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8236585365853658
+9,1,10.0,0.1,Geometric pool (adaptive),0.7946341463414635
+9,1,10.0,0.1,Arithmetic pool (adaptive),0.8007317073170732
+9,1,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8095121951219513
+9,1,30.0,0.001,Geometric pool (adaptive),0.7892682926829269
+9,1,30.0,0.001,Arithmetic pool (adaptive),0.8043902439024391
+9,1,30.0,0.001,Arithmetic pool (Dirichlet prior),0.814390243902439
+9,1,30.0,0.01,Geometric pool (adaptive),0.7926829268292683
+9,1,30.0,0.01,Arithmetic pool (adaptive),0.7987804878048781
+9,1,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8153658536585365
+9,1,30.0,0.1,Geometric pool (adaptive),0.7875609756097561
+9,1,30.0,0.1,Arithmetic pool (adaptive),0.7936585365853659
+9,1,30.0,0.1,Arithmetic pool (Dirichlet prior),0.814390243902439
+9,1,100.0,0.001,Geometric pool (adaptive),0.7836585365853659
+9,1,100.0,0.001,Arithmetic pool (adaptive),0.7990243902439025
+9,1,100.0,0.001,Arithmetic pool (Dirichlet prior),0.81
+9,1,100.0,0.01,Geometric pool (adaptive),0.7892682926829269
+9,1,100.0,0.01,Arithmetic pool (adaptive),0.7970731707317074
+9,1,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8041463414634147
+9,1,100.0,0.1,Geometric pool (adaptive),0.7841463414634147
+9,1,100.0,0.1,Arithmetic pool (adaptive),0.7858536585365854
+9,1,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8029268292682927
+9,1,,0.001,Knowledge only,0.7790243902439025
+9,1,,0.01,Knowledge only,0.7851219512195122
+9,1,,0.1,Knowledge only,0.7817073170731708
+9,1,,,Data only (NB),0.6239024390243902
+9,3,1.0,0.001,Geometric pool (adaptive),0.8470731707317073
+9,3,1.0,0.001,Arithmetic pool (adaptive),0.8731707317073171
+9,3,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8726829268292683
+9,3,1.0,0.01,Geometric pool (adaptive),0.8492682926829268
+9,3,1.0,0.01,Arithmetic pool (adaptive),0.875609756097561
+9,3,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8670731707317073
+9,3,1.0,0.1,Geometric pool (adaptive),0.85
+9,3,1.0,0.1,Arithmetic pool (adaptive),0.8621951219512195
+9,3,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8482926829268292
+9,3,3.0,0.001,Geometric pool (adaptive),0.8239024390243902
+9,3,3.0,0.001,Arithmetic pool (adaptive),0.8578048780487805
+9,3,3.0,0.001,Arithmetic pool (Dirichlet prior),0.878780487804878
+9,3,3.0,0.01,Geometric pool (adaptive),0.8304878048780487
+9,3,3.0,0.01,Arithmetic pool (adaptive),0.8582926829268293
+9,3,3.0,0.01,Arithmetic pool (Dirichlet prior),0.88
+9,3,3.0,0.1,Geometric pool (adaptive),0.8317073170731707
+9,3,3.0,0.1,Arithmetic pool (adaptive),0.8595121951219512
+9,3,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8607317073170732
+9,3,10.0,0.001,Geometric pool (adaptive),0.8070731707317074
+9,3,10.0,0.001,Arithmetic pool (adaptive),0.8426829268292683
+9,3,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8641463414634146
+9,3,10.0,0.01,Geometric pool (adaptive),0.8121951219512196
+9,3,10.0,0.01,Arithmetic pool (adaptive),0.8429268292682927
+9,3,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8653658536585366
+9,3,10.0,0.1,Geometric pool (adaptive),0.8153658536585365
+9,3,10.0,0.1,Arithmetic pool (adaptive),0.8365853658536585
+9,3,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8626829268292683
+9,3,30.0,0.001,Geometric pool (adaptive),0.8026829268292683
+9,3,30.0,0.001,Arithmetic pool (adaptive),0.8321951219512195
+9,3,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8451219512195122
+9,3,30.0,0.01,Geometric pool (adaptive),0.806829268292683
+9,3,30.0,0.01,Arithmetic pool (adaptive),0.8236585365853658
+9,3,30.0,0.01,Arithmetic pool (Dirichlet prior),0.85
+9,3,30.0,0.1,Geometric pool (adaptive),0.8082926829268293
+9,3,30.0,0.1,Arithmetic pool (adaptive),0.8195121951219512
+9,3,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8441463414634146
+9,3,100.0,0.001,Geometric pool (adaptive),0.795609756097561
+9,3,100.0,0.001,Arithmetic pool (adaptive),0.8236585365853658
+9,3,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8334146341463414
+9,3,100.0,0.01,Geometric pool (adaptive),0.8029268292682927
+9,3,100.0,0.01,Arithmetic pool (adaptive),0.8134146341463414
+9,3,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8326829268292683
+9,3,100.0,0.1,Geometric pool (adaptive),0.7985365853658537
+9,3,100.0,0.1,Arithmetic pool (adaptive),0.8058536585365854
+9,3,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8241463414634146
+9,3,,0.001,Knowledge only,0.7790243902439025
+9,3,,0.01,Knowledge only,0.7851219512195122
+9,3,,0.1,Knowledge only,0.7817073170731708
+9,3,,,Data only (NB),0.8319512195121951
+9,10,1.0,0.001,Geometric pool (adaptive),0.8978048780487805
+9,10,1.0,0.001,Arithmetic pool (adaptive),0.9024390243902439
+9,10,1.0,0.001,Arithmetic pool (Dirichlet prior),0.8990243902439025
+9,10,1.0,0.01,Geometric pool (adaptive),0.8995121951219512
+9,10,1.0,0.01,Arithmetic pool (adaptive),0.9014634146341464
+9,10,1.0,0.01,Arithmetic pool (Dirichlet prior),0.8987804878048781
+9,10,1.0,0.1,Geometric pool (adaptive),0.8975609756097561
+9,10,1.0,0.1,Arithmetic pool (adaptive),0.8970731707317073
+9,10,1.0,0.1,Arithmetic pool (Dirichlet prior),0.8963414634146342
+9,10,3.0,0.001,Geometric pool (adaptive),0.8817073170731707
+9,10,3.0,0.001,Arithmetic pool (adaptive),0.9017073170731708
+9,10,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9036585365853659
+9,10,3.0,0.01,Geometric pool (adaptive),0.8895121951219512
+9,10,3.0,0.01,Arithmetic pool (adaptive),0.9004878048780488
+9,10,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9036585365853659
+9,10,3.0,0.1,Geometric pool (adaptive),0.8941463414634147
+9,10,3.0,0.1,Arithmetic pool (adaptive),0.9002439024390244
+9,10,3.0,0.1,Arithmetic pool (Dirichlet prior),0.8970731707317073
+9,10,10.0,0.001,Geometric pool (adaptive),0.8468292682926829
+9,10,10.0,0.001,Arithmetic pool (adaptive),0.8892682926829268
+9,10,10.0,0.001,Arithmetic pool (Dirichlet prior),0.8980487804878049
+9,10,10.0,0.01,Geometric pool (adaptive),0.8580487804878049
+9,10,10.0,0.01,Arithmetic pool (adaptive),0.891219512195122
+9,10,10.0,0.01,Arithmetic pool (Dirichlet prior),0.8987804878048781
+9,10,10.0,0.1,Geometric pool (adaptive),0.8714634146341463
+9,10,10.0,0.1,Arithmetic pool (adaptive),0.8939024390243903
+9,10,10.0,0.1,Arithmetic pool (Dirichlet prior),0.8992682926829269
+9,10,30.0,0.001,Geometric pool (adaptive),0.8160975609756097
+9,10,30.0,0.001,Arithmetic pool (adaptive),0.8658536585365854
+9,10,30.0,0.001,Arithmetic pool (Dirichlet prior),0.8814634146341463
+9,10,30.0,0.01,Geometric pool (adaptive),0.8265853658536585
+9,10,30.0,0.01,Arithmetic pool (adaptive),0.8695121951219512
+9,10,30.0,0.01,Arithmetic pool (Dirichlet prior),0.8817073170731707
+9,10,30.0,0.1,Geometric pool (adaptive),0.8380487804878048
+9,10,30.0,0.1,Arithmetic pool (adaptive),0.8709756097560976
+9,10,30.0,0.1,Arithmetic pool (Dirichlet prior),0.8870731707317073
+9,10,100.0,0.001,Geometric pool (adaptive),0.8060975609756098
+9,10,100.0,0.001,Arithmetic pool (adaptive),0.8519512195121951
+9,10,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8546341463414634
+9,10,100.0,0.01,Geometric pool (adaptive),0.8107317073170732
+9,10,100.0,0.01,Arithmetic pool (adaptive),0.8509756097560975
+9,10,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8631707317073171
+9,10,100.0,0.1,Geometric pool (adaptive),0.8163414634146341
+9,10,100.0,0.1,Arithmetic pool (adaptive),0.8390243902439024
+9,10,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8568292682926829
+9,10,,0.001,Knowledge only,0.7790243902439025
+9,10,,0.01,Knowledge only,0.7851219512195122
+9,10,,0.1,Knowledge only,0.7817073170731708
+9,10,,,Data only (NB),0.8953658536585366
+9,30,1.0,0.001,Geometric pool (adaptive),0.91
+9,30,1.0,0.001,Arithmetic pool (adaptive),0.9095121951219513
+9,30,1.0,0.001,Arithmetic pool (Dirichlet prior),0.9082926829268293
+9,30,1.0,0.01,Geometric pool (adaptive),0.9102439024390244
+9,30,1.0,0.01,Arithmetic pool (adaptive),0.9092682926829269
+9,30,1.0,0.01,Arithmetic pool (Dirichlet prior),0.9080487804878049
+9,30,1.0,0.1,Geometric pool (adaptive),0.9090243902439025
+9,30,1.0,0.1,Arithmetic pool (adaptive),0.9085365853658537
+9,30,1.0,0.1,Arithmetic pool (Dirichlet prior),0.9082926829268293
+9,30,3.0,0.001,Geometric pool (adaptive),0.9097560975609756
+9,30,3.0,0.001,Arithmetic pool (adaptive),0.9102439024390244
+9,30,3.0,0.001,Arithmetic pool (Dirichlet prior),0.9102439024390244
+9,30,3.0,0.01,Geometric pool (adaptive),0.911219512195122
+9,30,3.0,0.01,Arithmetic pool (adaptive),0.9107317073170732
+9,30,3.0,0.01,Arithmetic pool (Dirichlet prior),0.9109756097560976
+9,30,3.0,0.1,Geometric pool (adaptive),0.9097560975609756
+9,30,3.0,0.1,Arithmetic pool (adaptive),0.9114634146341464
+9,30,3.0,0.1,Arithmetic pool (Dirichlet prior),0.9107317073170732
+9,30,10.0,0.001,Geometric pool (adaptive),0.8963414634146342
+9,30,10.0,0.001,Arithmetic pool (adaptive),0.9104878048780488
+9,30,10.0,0.001,Arithmetic pool (Dirichlet prior),0.9087804878048781
+9,30,10.0,0.01,Geometric pool (adaptive),0.9021951219512195
+9,30,10.0,0.01,Arithmetic pool (adaptive),0.9114634146341464
+9,30,10.0,0.01,Arithmetic pool (Dirichlet prior),0.911219512195122
+9,30,10.0,0.1,Geometric pool (adaptive),0.9060975609756098
+9,30,10.0,0.1,Arithmetic pool (adaptive),0.911219512195122
+9,30,10.0,0.1,Arithmetic pool (Dirichlet prior),0.9107317073170732
+9,30,30.0,0.001,Geometric pool (adaptive),0.8573170731707317
+9,30,30.0,0.001,Arithmetic pool (adaptive),0.9034146341463415
+9,30,30.0,0.001,Arithmetic pool (Dirichlet prior),0.9024390243902439
+9,30,30.0,0.01,Geometric pool (adaptive),0.871219512195122
+9,30,30.0,0.01,Arithmetic pool (adaptive),0.9082926829268293
+9,30,30.0,0.01,Arithmetic pool (Dirichlet prior),0.9082926829268293
+9,30,30.0,0.1,Geometric pool (adaptive),0.8934146341463415
+9,30,30.0,0.1,Arithmetic pool (adaptive),0.91
+9,30,30.0,0.1,Arithmetic pool (Dirichlet prior),0.9085365853658537
+9,30,100.0,0.001,Geometric pool (adaptive),0.8229268292682926
+9,30,100.0,0.001,Arithmetic pool (adaptive),0.8907317073170732
+9,30,100.0,0.001,Arithmetic pool (Dirichlet prior),0.8865853658536585
+9,30,100.0,0.01,Geometric pool (adaptive),0.8329268292682926
+9,30,100.0,0.01,Arithmetic pool (adaptive),0.8892682926829268
+9,30,100.0,0.01,Arithmetic pool (Dirichlet prior),0.8941463414634147
+9,30,100.0,0.1,Geometric pool (adaptive),0.848780487804878
+9,30,100.0,0.1,Arithmetic pool (adaptive),0.8958536585365854
+9,30,100.0,0.1,Arithmetic pool (Dirichlet prior),0.8939024390243903
+9,30,,0.001,Knowledge only,0.7790243902439025
+9,30,,0.01,Knowledge only,0.7851219512195122
+9,30,,0.1,Knowledge only,0.7817073170731708
+9,30,,,Data only (NB),0.9075609756097561
