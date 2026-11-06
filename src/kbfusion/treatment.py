@@ -1,17 +1,11 @@
 """Illustrative treatment ranking from Drugs.com reviews.
 
-What changed from the earlier version
--------------------------------------
-* Effectiveness is the share of reviews rating the drug 7/10 or higher, shrunk
-  towards the condition average, instead of the drug's share of review counts
-  (which measured popularity, not benefit).
-* "Prevention" / "prophylaxis" conditions are excluded, so prophylactic use is
-  no longer counted as treatment.
-* Only clinically matching conditions are mapped to the 41 diseases; loose
-  mappings (e.g. osteoporosis -> osteoarthritis, heart failure -> heart attack,
-  stroke -> brain haemorrhage) were removed.
-* Brand names are merged with their active ingredients (e.g. Malarone and
-  atovaquone/proguanil), using a hand-curated table.
+Effectiveness is the share of reviews rating the drug 7/10 or higher, shrunk
+towards the condition average. "Prevention" and "prophylaxis" conditions are
+excluded, so prophylactic use is not counted as treatment. Only clinically
+matching conditions are mapped to the 41 diseases. Brand names are merged with
+their active ingredients (e.g. Malarone and atovaquone/proguanil) using a
+hand-curated table.
 
 The expected-utility ranking ignores side effects, contraindications, dosing
 and cost. It is a demonstration of how diagnostic uncertainty propagates, not a
