@@ -16,8 +16,7 @@ be incomplete, and only a handful of labelled patients per disease. Should the t
 sources be combined, and if so how? We compare two pooling rules for Naive Bayes
 likelihoods, each with a weight that fades as a disease accumulates cases:
 
-* **Geometric (log-linear) pool**: averages log-probabilities. This is the
-  "log-space convex combination" used in version 1 of this repository.
+* **Geometric (log-linear) pool**: averages log-probabilities.
 * **Arithmetic pool**: averages probabilities. With an adaptive weight it is
   exactly a Dirichlet prior centred on the knowledge table (Proposition 1 in the paper).
 
