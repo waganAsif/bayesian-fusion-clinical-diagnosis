@@ -1,0 +1,16 @@
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccc@{}}
+\toprule
+Model & $n=1$ & $n=3$ & $n=10$ & $n=100$ \\
+\midrule
+Rule lookup & $0.768 \pm 0.009$$^{\dagger}$ & $0.768 \pm 0.009$$^{\dagger}$ & $0.768 \pm 0.009$$^{\dagger}$ & $0.768 \pm 0.009$$^{\dagger}$ \\
+Knowledge only & $0.769 \pm 0.008$$^{\dagger}$ & $0.769 \pm 0.008$$^{\dagger}$ & $0.769 \pm 0.008$$^{\dagger}$ & $0.769 \pm 0.008$$^{\dagger}$ \\
+Data only (Naive Bayes) & $0.634 \pm 0.034$$^{\dagger}$ & $0.809 \pm 0.017$$^{\dagger}$ & $0.894 \pm 0.007$ & $0.921 \pm 0.003$$^{\dagger}$ \\
+Complement NB & $0.636 \pm 0.027$$^{\dagger}$ & $0.751 \pm 0.014$$^{\dagger}$ & $0.794 \pm 0.010$$^{\dagger}$ & $0.831 \pm 0.006$$^{\dagger}$ \\
+Logistic regression & $0.648 \pm 0.029$$^{\dagger}$ & $0.809 \pm 0.019$$^{\dagger}$ & $0.892 \pm 0.008$ & $\mathbf{0.930 \pm 0.003}$$^{\dagger}$ \\
+Gradient boosting & $0.419 \pm 0.022$$^{\dagger}$ & $0.524 \pm 0.025$$^{\dagger}$ & $0.743 \pm 0.015$$^{\dagger}$ & $0.904 \pm 0.003$$^{\dagger}$ \\
+\midrule
+Geometric pool ($\lambda$ = 0.5) & $0.793 \pm 0.008$$^{\dagger}$ & $0.824 \pm 0.005$$^{\dagger}$ & $0.853 \pm 0.006$$^{\dagger}$ & $0.878 \pm 0.006$$^{\dagger}$ \\
+Geometric pool (adaptive) & $0.781 \pm 0.007$$^{\dagger}$ & $0.801 \pm 0.006$$^{\dagger}$ & $0.853 \pm 0.006$$^{\dagger}$ & $0.919 \pm 0.003$$^{\dagger}$ \\
+Arithmetic pool (adaptive) & $\mathbf{0.820 \pm 0.009}$ & $\mathbf{0.863 \pm 0.007}$ & $\mathbf{0.900 \pm 0.004}$ & $0.922 \pm 0.004$ \\
+\bottomrule
+\end{tabular*}

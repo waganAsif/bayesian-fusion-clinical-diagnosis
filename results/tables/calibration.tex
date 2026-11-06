@@ -1,0 +1,16 @@
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccccc@{}}
+\toprule
+ & \multicolumn{3}{c}{$n=3$ cases per disease} & \multicolumn{3}{c}{$n=50$ cases per disease} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+Model & ECE raw $\to$ scaled & NLL & Brier & ECE raw $\to$ scaled & NLL & Brier \\
+\midrule
+Knowledge only & 0.068 $\to$ 0.041 & 0.861 & 0.336 & 0.068 $\to$ 0.041 & 0.861 & 0.336 \\
+Data only (Naive Bayes) & 0.252 $\to$ 0.023 & 0.683 & 0.266 & 0.041 $\to$ 0.015 & 0.303 & 0.121 \\
+Complement NB & 0.548 $\to$ 0.118 & 1.076 & 0.391 & 0.545 $\to$ 0.160 & 0.931 & 0.340 \\
+Logistic regression & 0.537 $\to$ 0.020 & 0.668 & 0.269 & 0.134 $\to$ 0.012 & 0.255 & 0.109 \\
+Gradient boosting & 0.171 $\to$ 0.071 & 2.055 & 0.641 & 0.016 $\to$ 0.019 & 0.427 & 0.176 \\
+Geometric pool ($\lambda$ = 0.5) & 0.062 $\to$ 0.031 & 0.645 & 0.260 & 0.012 $\to$ 0.020 & 0.438 & 0.181 \\
+Geometric pool (adaptive) & 0.044 $\to$ 0.045 & 0.764 & 0.303 & 0.035 $\to$ 0.016 & 0.310 & 0.126 \\
+Arithmetic pool (adaptive) & 0.078 $\to$ 0.019 & 0.486 & 0.194 & 0.036 $\to$ 0.015 & 0.297 & 0.119 \\
+\bottomrule
+\end{tabular*}

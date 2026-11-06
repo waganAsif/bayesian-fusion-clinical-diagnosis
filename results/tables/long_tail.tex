@@ -1,0 +1,16 @@
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcccccc@{}}
+\toprule
+ & & & \multicolumn{3}{c}{Accuracy by training frequency} & \\ \cmidrule(lr){4-6}
+Model & Accuracy & Macro-F1 & Rare & Mid & Common & NLL \\
+\midrule
+Rule lookup & 0.764 & 0.767 & 0.768 & 0.761 & 0.747 & -- \\
+Knowledge only & 0.766 & 0.769 & 0.771 & 0.760 & 0.747 & 0.860 \\
+Data only (Naive Bayes) & 0.690 & 0.668 & 0.563 & 0.875 & \textbf{0.951} & 1.266 \\
+Complement NB & 0.545 & 0.505 & 0.396 & 0.742 & 0.942 & 2.006 \\
+Logistic regression & 0.751 & 0.746 & 0.661 & 0.881 & 0.942 & 0.940 \\
+Gradient boosting & 0.551 & 0.553 & 0.447 & 0.674 & 0.896 & 1.932 \\
+Geometric pool ($\lambda$ = 0.5) & 0.821 & 0.821 & 0.801 & 0.847 & 0.871 & 0.658 \\
+Geometric pool (adaptive) & 0.793 & 0.795 & 0.759 & 0.831 & 0.915 & 0.770 \\
+Arithmetic pool (adaptive) & \textbf{0.850} & \textbf{0.850} & \textbf{0.823} & \textbf{0.884} & 0.929 & \textbf{0.534} \\
+\bottomrule
+\end{tabular*}
