@@ -162,7 +162,7 @@ class PooledNB(_Base):
 
     Two pooling rules are available, both with the same weights:
 
-    * ``mode="geometric"`` (log-linear pool, the rule used in the earlier version)
+    * ``mode="geometric"`` (log-linear pool)
           log P'(s|c) = (1 - w_c) log P_data(s|c) + w_c log P_KB(s|c), renormalised;
     * ``mode="arithmetic"`` (linear pool)
           P'(s|c) = (1 - w_c) P_data(s|c) + w_c P_KB(s|c).
